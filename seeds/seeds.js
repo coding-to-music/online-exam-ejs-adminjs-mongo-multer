@@ -10,8 +10,10 @@ const examDetail = require("./examDetail");
 const courseDetail = require("./courseDetail");
 const recordDetail = require("./recordDetail");
 
-const mongoDB =
-    "mongodb+srv://minhhuy123:Tuilahuy123@cluster0.tpopnup.mongodb.net/onlineExamSystem?retryWrites=true&w=majority";
+require("dotenv").config();
+
+const mongoDB = process.env.MONGO_URI;
+
 mongoose
     .connect(mongoDB, {
         useUnifiedTopology: true,
@@ -172,8 +174,6 @@ const addAdmin = async () => {
 //     await exam.save();
 // };
 
-
-
 // const isValidExamDate = function (initExam, newExam) {
 //     if (newExam.startTime.getTime() < initExam.startTime.getTime()) {
 //         if (newExam.endTime.getTime() > initExam.startTime.getTime()) {
@@ -220,7 +220,6 @@ const newExam = async () => {
 //     mongoose.connection.close();
 // });
 // console.log(random2);
-
 
 newExam().then(() => {
     mongoose.connection.close();
