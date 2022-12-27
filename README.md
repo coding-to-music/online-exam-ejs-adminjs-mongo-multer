@@ -11,7 +11,9 @@ From / By https://github.com/tmhuyy/online-examination-system
 ## Environment variables:
 
 ```java
-
+MONGO_URI="mongodb+srv://<username>:<password>@cluster0.0skitfz.mongodb.net/online-exam-ejs-adminjs-mongo-multer?retryWrites=true&w=majority"
+SESSION_SECRET="asdljasdfjasdlfjaojaeajdsfla"
+PORT=3000
 ```
 
 ## GitHub

@@ -18,7 +18,7 @@ const AdminJSExpress = require("@adminjs/express");
 const AppError = require("./utils/AppError");
 // model
 const Admin = require("./models/admin");
-const Announcement = require("./models/announcement")
+const Announcement = require("./models/announcement");
 // routes
 const studentRoutes = require("./routes/studentRoutes");
 const examRoutes = require("./routes/examRoutes");
@@ -49,7 +49,7 @@ const router = AdminJSExpress.buildAuthenticatedRouter(
 );
 app.use(configAdminJs.options.rootPath, router);
 
-const mongoDB = process.env.DB_URL;
+const mongoDB = process.env.MONGO_URI;
 mongoose
     .connect(mongoDB, {
         useUnifiedTopology: true,
@@ -106,7 +106,7 @@ app.use("/", examRoutes);
 
 app.get("/", async (req, res) => {
     const announcements = await Announcement.find({});
-    res.render("index", {announcements});
+    res.render("index", { announcements });
 });
 
 // TODO ERROR ROUTES
@@ -120,6 +120,6 @@ app.use((err, req, res, next) => {
     res.render("error", { status, message, name });
 });
 
-app.listen(process.env.PORT||"8080", () => {
+app.listen(process.env.PORT || "8080", () => {
     console.log("SERVER IS RUNNING");
 });
