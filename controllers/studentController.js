@@ -6,8 +6,8 @@ module.exports.renderLoginForm = (req, res) => {
 
 module.exports.login = async (req, res) => {
     const { username, password } = req.body;
-    console.log('studentController: username', username);
-    console.log('studentController: password', password);
+    console.log("studentController: username", username);
+    console.log("studentController: password", password);
     const student = await Student.findAndValidate(username, password);
     if (student) {
         req.session.student = student;
