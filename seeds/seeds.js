@@ -38,6 +38,7 @@ const seedStudent = async function () {
             courses,
         });
         const newStudent = await Student.register(student, password);
+        console.log("created newStudent - register");
     }
 };
 
@@ -66,6 +67,7 @@ const seedCourse = async function () {
             students,
         });
         await course.save();
+        console.log("created newCourse Save");
     }
 };
 
@@ -88,6 +90,7 @@ const seedExam = async function () {
             // score
         });
         await exam.save();
+        console.log("created newExam - another");
     }
     // const exams = await Exam.find();
     // const exam = exams[0].startTime.getTime();
@@ -107,6 +110,7 @@ const seedTeacher = async function () {
             phoneNumber,
         });
         await teacher.save();
+        console.log("created newTeacher");
     }
 };
 
@@ -122,7 +126,8 @@ const seedRecord = async function () {
             score,
         });
         await record.save();
-        // console.log(recordDetail[i])
+        console.log(recordDetail[i]);
+        console.log("created newRecord");
     }
 };
 // Course.insertMany(
@@ -145,6 +150,7 @@ const addnew = async () => {
     });
     const password = "tu123";
     const newStudent = await Student.register(student, password);
+    console.log("created newStudent");
 };
 // seedStudent();
 // seedDb();
@@ -161,6 +167,7 @@ const addAdmin = async () => {
 
     const newAdmin = new Admin(admin);
     await newAdmin.save();
+    console.log("created newAdmin");
 };
 // addAdmin()
 
@@ -207,6 +214,7 @@ const newExam = async () => {
         students: ["6382d612093253be55d5d786"],
     });
     await exam.save();
+    console.log("created newExam");
 };
 // http://localhost:5050/admin/resources/Exam/records/6380ff09c1a78e8aebf0f4da/show
 // const testValidate = async () => {
