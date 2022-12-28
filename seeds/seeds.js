@@ -42,6 +42,8 @@ const seedStudent = async function () {
     }
 };
 
+// seedStudent();
+
 const seedCourse = async function () {
     const studentList = await Student.find();
     await Course.deleteMany();
@@ -142,6 +144,7 @@ const seedRecord = async function () {
 // Student.deleteMany()'
 
 // seedCourse();
+
 const addnew = async () => {
     const student = new Student({
         email: "admin123@gmail.com",
@@ -169,7 +172,7 @@ const addAdmin = async () => {
     await newAdmin.save();
     console.log("created newAdmin");
 };
-// addAdmin()
+addAdmin();
 
 // const newExam = async () => {
 //     const exam = new Exam({
@@ -228,6 +231,10 @@ const newExam = async () => {
 //     mongoose.connection.close();
 // });
 // console.log(random2);
+
+// newExam();
+
+// mongoose.connection.close();
 
 newExam().then(() => {
     mongoose.connection.close();
