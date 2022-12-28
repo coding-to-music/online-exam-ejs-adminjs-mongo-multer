@@ -72,6 +72,7 @@ const seedCourse = async function () {
         console.log("created newCourse Save");
     }
 };
+// seedCourse();
 
 const seedExam = async function () {
     const courseList = await Course.find();
@@ -115,6 +116,7 @@ const seedTeacher = async function () {
         console.log("created newTeacher");
     }
 };
+// seedTeacher();
 
 const seedRecord = async function () {
     await Record.deleteMany();
@@ -132,6 +134,7 @@ const seedRecord = async function () {
         console.log("created newRecord");
     }
 };
+// seedRecord();
 // Course.insertMany(
 //     [{ name: "Calculus 2", _id: "MAIU02" },
 //     { name: "Introdution To Computing", _id: "ITIT01"},
@@ -155,6 +158,7 @@ const addnew = async () => {
     const newStudent = await Student.register(student, password);
     console.log("created newStudent");
 };
+// addnew();
 // seedStudent();
 // seedDb();
 // const random2 = Math.floor(Math.random() * 1);
