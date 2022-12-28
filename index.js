@@ -120,6 +120,8 @@ app.use((err, req, res, next) => {
     res.render("error", { status, message, name });
 });
 
-app.listen(process.env.PORT || "8080", () => {
-    console.log("SERVER IS RUNNING");
+const port = process.env.PORT || "8080";
+
+app.listen(port, () => {
+    console.log("SERVER IS RUNNING on localhost//port:", port);
 });
