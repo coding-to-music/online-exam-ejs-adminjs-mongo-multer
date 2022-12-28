@@ -57,7 +57,7 @@ mongoose
         // useCreateIndex: true,
         // useFindAndModify: false,
     })
-    .then(() => console.log("CONNECTION MONGODB"))
+    .then(() => console.log("CONNECTED TO MONGODB"))
     .catch((err) => console.log(err));
 
 // work with storing session
@@ -123,5 +123,5 @@ app.use((err, req, res, next) => {
 const port = process.env.PORT || "8080";
 
 app.listen(port, () => {
-    console.log("SERVER IS RUNNING on localhost//port:", port);
+    console.log("SERVER IS RUNNING on http://localhost:" + port);
 });

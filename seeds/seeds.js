@@ -19,7 +19,7 @@ mongoose
         useUnifiedTopology: true,
         useNewUrlParser: true,
     })
-    .then(() => console.log("CONNECTION MONGODB"))
+    .then(() => console.log("CONNECTED TO MONGODB"))
     .catch((err) => console.log(err));
 
 const seedStudent = async function () {
