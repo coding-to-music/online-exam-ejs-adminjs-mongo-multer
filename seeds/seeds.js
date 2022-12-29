@@ -254,11 +254,11 @@ const newExam = async () => {
 // addnew();
 
 clearAll().then(() => {
-    // seedTeacher();
-    // seedStudent();
     seedCourse();
-    // seedRecord();
+    seedStudent();
     newExam();
     addAdmin();
+    // seedTeacher();
+    // seedRecord();
     // mongoose.connection.close();
 });
