@@ -26,10 +26,10 @@ const clearAll = async function () {
     console.log("clearAll BEGIN");
     await Course.deleteMany();
     await Exam.deleteMany();
-    // await Student.deleteMany();
-    // await Student.deleteMany();
-    // await Student.deleteMany();
-    // await Student.deleteMany();
+    await Admin.deleteMany();
+    // await Announcement.deleteMany();
+    await Record.deleteMany();
+    await Student.deleteMany();
     console.log("clearAll END");
 };
 
