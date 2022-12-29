@@ -246,15 +246,15 @@ const newExam = async () => {
 
 // mongoose.connection.close();
 
-// seedStudent();
-// seedCourse();
 // seedExam();
-// seedTeacher();
-// seedRecord();
 // seedCourse();
 // addnew();
 
 clearAll().then(() => {
+    // seedTeacher();
+    // seedStudent();
+    // seedCourse();
+    // seedRecord();
     newExam();
     addAdmin();
     // mongoose.connection.close();
