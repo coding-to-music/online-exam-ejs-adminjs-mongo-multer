@@ -22,6 +22,19 @@ mongoose
     .then(() => console.log("CONNECTED TO MONGODB"))
     .catch((err) => console.log(err));
 
+const clearAll = async function () {
+    console.log("clearAll BEGIN");
+    await courses.deleteMany();
+    await exams.deleteMany();
+    // await Student.deleteMany();
+    // await Student.deleteMany();
+    // await Student.deleteMany();
+    // await Student.deleteMany();
+    console.log("clearAll END");
+};
+
+clearAll();
+
 const seedStudent = async function () {
     await Student.deleteMany();
     for (let i = 0; i <= studentDetail.length - 1; i++) {

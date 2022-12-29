@@ -25,19 +25,19 @@ const ExamSchema = new Schema({
         },
     ],
     room: {
-        type: String
-    }
+        type: String,
+    },
 });
 
 ExamSchema.post("save", async function (exam, next) {
     for (let student of exam.students) {
         const record = new Record({
             courseID: exam.course,
-            studentID: student
+            studentID: student,
         });
-        await record.save()
+        await record.save();
     }
-    next()
+    next();
 });
 
 const Exam = mongoose.model("Exam", ExamSchema);
