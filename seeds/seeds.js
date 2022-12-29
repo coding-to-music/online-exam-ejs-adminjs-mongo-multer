@@ -33,8 +33,6 @@ const clearAll = async function () {
     console.log("clearAll END");
 };
 
-clearAll();
-
 const seedStudent = async function () {
     await Student.deleteMany();
     for (let i = 0; i <= studentDetail.length - 1; i++) {
@@ -54,8 +52,6 @@ const seedStudent = async function () {
         console.log("created newStudent - register");
     }
 };
-
-// seedStudent();
 
 const seedCourse = async function () {
     const studentList = await Student.find();
@@ -85,7 +81,6 @@ const seedCourse = async function () {
         console.log("created newCourse Save");
     }
 };
-// seedCourse();
 
 const seedExam = async function () {
     const courseList = await Course.find();
@@ -114,6 +109,7 @@ const seedExam = async function () {
     // console.log(exam);
     // console.log(test);
 };
+
 const seedTeacher = async function () {
     await Teacher.deleteMany();
     for (let i = 0; i <= 5; i++) {
@@ -129,7 +125,6 @@ const seedTeacher = async function () {
         console.log("created newTeacher");
     }
 };
-// seedTeacher();
 
 const seedRecord = async function () {
     await Record.deleteMany();
@@ -147,7 +142,7 @@ const seedRecord = async function () {
         console.log("created newRecord");
     }
 };
-// seedRecord();
+
 // Course.insertMany(
 //     [{ name: "Calculus 2", _id: "MAIU02" },
 //     { name: "Introdution To Computing", _id: "ITIT01"},
@@ -159,8 +154,6 @@ const seedRecord = async function () {
 // ).then(() => console.log("success")).catch((err) => console.log(err))
 // Student.deleteMany()'
 
-// seedCourse();
-
 const addnew = async () => {
     const student = new Student({
         email: "admin123@gmail.com",
@@ -171,12 +164,13 @@ const addnew = async () => {
     const newStudent = await Student.register(student, password);
     console.log("created newStudent");
 };
-// addnew();
+
 // seedStudent();
 // seedDb();
 // const random2 = Math.floor(Math.random() * 1);
 // seedExam();
 // seedRecord();
+
 const addAdmin = async () => {
     const admin = new Admin({
         email: "admin123@gmail.com",
@@ -189,7 +183,6 @@ const addAdmin = async () => {
     await newAdmin.save();
     console.log("created newAdmin");
 };
-addAdmin();
 
 // const newExam = async () => {
 //     const exam = new Exam({
@@ -253,6 +246,16 @@ const newExam = async () => {
 
 // mongoose.connection.close();
 
-newExam().then(() => {
-    mongoose.connection.close();
+// seedStudent();
+// seedCourse();
+// seedExam();
+// seedTeacher();
+// seedRecord();
+// seedCourse();
+// addnew();
+
+clearAll().then(() => {
+    newExam();
+    addAdmin();
+    // mongoose.connection.close();
 });
