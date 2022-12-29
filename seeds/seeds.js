@@ -4,6 +4,7 @@ const Exam = require("../models/exam");
 const Course = require("../models/course");
 const Record = require("../models/record");
 const Admin = require("../models/admin");
+const Announcement = require("../models/announcement");
 
 const studentDetail = require("./studentDetail");
 const examDetail = require("./examDetail");
@@ -27,7 +28,7 @@ const clearAll = async function () {
     await Course.deleteMany();
     await Exam.deleteMany();
     await Admin.deleteMany();
-    // await Announcement.deleteMany();
+    await Announcement.deleteMany();
     await Record.deleteMany();
     await Student.deleteMany();
     console.log("clearAll END");
@@ -60,6 +61,7 @@ const seedCourse = async function () {
     for (let i = 0; i <= courseDetail.length - 1; i++) {
         let students = [];
         const _id = courseDetail[i]._id;
+        const subjectID = courseDetail[i].subjectID;
         const name = courseDetail[i].name;
         const credit = courseDetail[i].credit;
         for (let j = 0; j <= studentList.length - 1; j++) {
@@ -73,12 +75,13 @@ const seedCourse = async function () {
 
         const course = new Course({
             name,
+            subjectID,
             _id,
             credit,
             students,
         });
         await course.save();
-        console.log("created newCourse Save");
+        console.log("created newCourse Save ", subjectID + " " + name);
     }
 };
 
@@ -253,7 +256,7 @@ const newExam = async () => {
 clearAll().then(() => {
     // seedTeacher();
     // seedStudent();
-    // seedCourse();
+    seedCourse();
     // seedRecord();
     newExam();
     addAdmin();

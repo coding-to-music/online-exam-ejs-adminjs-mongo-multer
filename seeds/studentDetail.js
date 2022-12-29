@@ -29,8 +29,8 @@ module.exports = [
         courses: [
             "ITIT01",
             "ITIT03",
-            "ITIT04", 
-            "ITIT05",
+            "ITIT04",
+            "ITIT02",
             "MAIU03",
             "MAIU02",
             "PHIU01",
@@ -48,7 +48,7 @@ module.exports = [
         username: "nam123",
         password: "namhehe",
         phoneNumber: "0902807712",
-        courses: ["ITIT01", "ITIT02", "ITIT05", "MAIU03", "MAIU02"],
+        courses: ["ITIT01", "ITIT02", "ITIT03", "MAIU03", "MAIU02"],
     },
     {
         email: "vinh123@gmail.com",
