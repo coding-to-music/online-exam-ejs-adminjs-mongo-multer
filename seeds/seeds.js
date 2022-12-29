@@ -35,7 +35,7 @@ const clearAll = async function () {
 };
 
 const seedStudent = async function () {
-    await Student.deleteMany();
+    // await Student.deleteMany();
     for (let i = 0; i <= studentDetail.length - 1; i++) {
         const username = studentDetail[i].username;
         const password = studentDetail[i].password;
@@ -49,8 +49,8 @@ const seedStudent = async function () {
             phoneNumber,
             courses,
         });
-        const newStudent = await Student.register(student, password);
-        console.log("created newStudent - register");
+        // const newStudent = await Student.register(student, password);
+        console.log("created newStudent - registered ", username);
     }
 };
 
