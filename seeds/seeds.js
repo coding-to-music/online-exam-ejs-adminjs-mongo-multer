@@ -49,14 +49,16 @@ const seedStudent = async function () {
             phoneNumber,
             courses,
         });
+        await student.save();
+        console.log("created newStudent - ", username);
+
         // const newStudent = await Student.register(student, password);
-        console.log("created newStudent - registered ", username);
     }
 };
 
 const seedCourse = async function () {
     const studentList = await Student.find();
-    await Course.deleteMany();
+    // await Course.deleteMany();
 
     for (let i = 0; i <= courseDetail.length - 1; i++) {
         let students = [];
@@ -87,7 +89,7 @@ const seedCourse = async function () {
 
 const seedExam = async function () {
     const courseList = await Course.find();
-    await Exam.deleteMany();
+    // await Exam.deleteMany();
     for (let i = 0; i <= examDetail.length - 1; i++) {
         const endTime = examDetail[i].endTime;
         const startTime = examDetail[i].startTime;
@@ -114,7 +116,7 @@ const seedExam = async function () {
 };
 
 const seedTeacher = async function () {
-    await Teacher.deleteMany();
+    // await Teacher.deleteMany();
     for (let i = 0; i <= 5; i++) {
         const name = teacherDetail.name[i];
         const email = teacherDetail.email[i];
@@ -130,7 +132,7 @@ const seedTeacher = async function () {
 };
 
 const seedRecord = async function () {
-    await Record.deleteMany();
+    // await Record.deleteMany();
     for (let i = 0; i <= recordDetail.length - 1; i++) {
         const studentID = recordDetail[i].studentID;
         const courseID = recordDetail[i].courseID;
