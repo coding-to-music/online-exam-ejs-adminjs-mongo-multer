@@ -24,8 +24,8 @@ mongoose
 
 const clearAll = async function () {
     console.log("clearAll BEGIN");
-    await courses.deleteMany();
-    await exams.deleteMany();
+    await Course.deleteMany();
+    await Exam.deleteMany();
     // await Student.deleteMany();
     // await Student.deleteMany();
     // await Student.deleteMany();
