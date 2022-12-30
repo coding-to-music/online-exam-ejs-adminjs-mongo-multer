@@ -21,12 +21,12 @@ const StreetSchema = new Schema({
     },
     // width             String?
     width: {
-        type: Decimal128,
+        type: Number,
         required: false,
     },
     // length            String?
     length: {
-        type: Decimal128,
+        type: Number,
         required: false,
     },
     // date              String?
@@ -46,7 +46,7 @@ const StreetSchema = new Schema({
     },
     // area              Int?      @default(0)
     area: {
-        type: Long,
+        type: Number,
         required: false,
     },
     // createdAt         DateTime  @default(now()) @map(name: "created_at")
@@ -100,6 +100,7 @@ const StreetSchema = new Schema({
 // });
 
 // // automatically add a username and password
-// const Street = mongoose.model("Street", StreetSchema);
+
+const Street = mongoose.model("Street", StreetSchema);
 
 module.exports = Street;
