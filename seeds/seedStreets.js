@@ -25,13 +25,13 @@ const seedStreet = async function () {
     // const studentList = await Student.find();
     await Street.deleteMany();
 
-    const startNum = 1000;
+    const startNum = 1100;
 
     for (let i = startNum; i <= streetDetail.length - 1; i++) {
         var skip = false;
         // let streets = [];
         var name = streetDetail[i].name;
-        var from = streetDetail[i].froms;
+        var fromStreet = streetDetail[i].froms;
         var to = streetDetail[i].to;
         var width = streetDetail[i].width;
         var streetLength = streetDetail[i].streetLength;
@@ -108,9 +108,15 @@ const seedStreet = async function () {
             console.log("Setting width", name + " " + width);
         }
 
+        // check if streetLength and width are numbers, if so then calculate the area
+        // console.log(/\d/.test(streetLength));
         var area = 0;
-        if (typeof streetLength == "number" && typeof width == "number") {
+        if (/\d/.test(streetLength) && /\d/.test(width)) {
             area = streetLength * width;
+            console.log(
+                "area ",
+                name + " " + streetLength + " X " + width + " = " + area
+            );
         }
         // const _id = streetDetail[i]._id;
         // const subjectID = streetDetail[i].subjectID;
@@ -127,7 +133,7 @@ const seedStreet = async function () {
 
         const street = new Street({
             name,
-            from,
+            fromStreet,
             to,
             width,
             streetLength,

@@ -10,7 +10,7 @@ const StreetSchema = new Schema({
         required: true,
     },
     // from              String?
-    from: {
+    fromStreet: {
         type: String,
         required: false,
     },

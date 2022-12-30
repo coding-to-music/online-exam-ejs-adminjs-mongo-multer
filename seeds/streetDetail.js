@@ -1,7 +1,7 @@
 module.exports = [
     {
         name: "ABERDEEN AVE",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "HURON AVE",
         width: "100",
         streetLength: "1280",
@@ -10,7 +10,7 @@ module.exports = [
     },
     {
         name: "ABERDEEN CT",
-        from: "ABERDEEN",
+        fromStreet: "ABERDEEN",
         to: "EASTERLY",
         width: "29.33",
         unnacceptedstreetLength: "100",
@@ -18,7 +18,7 @@ module.exports = [
     },
     {
         name: "ABERDEEN WAY",
-        from: "ABERDEEN",
+        fromStreet: "ABERDEEN",
         to: "WESTERLY",
         width: "29.33",
         unnacceptedstreetLength: "100",
@@ -26,7 +26,7 @@ module.exports = [
     },
     {
         name: "ACACIA",
-        from: "HAWTHORN",
+        fromStreet: "HAWTHORN",
         to: "ASH",
         width: "40",
         streetLength: "312",
@@ -35,7 +35,7 @@ module.exports = [
     },
     {
         name: "ACORN",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "CHESTNUT",
         width: "40",
         streetLength: "300",
@@ -44,7 +44,7 @@ module.exports = [
     },
     {
         name: "ACORN PARK DRIVE-01",
-        from: "CONCORD TURNPIKE",
+        fromStreet: "CONCORD TURNPIKE",
         to: "1,400' BEYOND BEND",
         width: "45",
         streetLength: "1730",
@@ -53,13 +53,13 @@ module.exports = [
     },
     {
         name: "ACORN PARK DRIVE-02",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "N TO CONCORD TPK",
         noncity: "X",
     },
     {
         name: "ADAMS TERR",
-        from: "ROBERTS RD",
+        fromStreet: "ROBERTS RD",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "170",
@@ -67,14 +67,14 @@ module.exports = [
     },
     {
         name: "ADLEY RD",
-        from: "SMITH PL",
+        fromStreet: "SMITH PL",
         to: "WESTERLY",
         width: "44",
         noncity: " ",
     },
     {
         name: "AGASSIZ",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "LANCASTER",
         width: "40",
         streetLength: "374",
@@ -83,7 +83,7 @@ module.exports = [
     },
     {
         name: "AKRON",
-        from: "BANKS",
+        fromStreet: "BANKS",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "233",
@@ -92,7 +92,7 @@ module.exports = [
     },
     {
         name: "ALBANY-01",
-        from: "ERIE",
+        fromStreet: "ERIE",
         to: "MASS AVE",
         width: "50",
         streetLength: "2236",
@@ -101,7 +101,7 @@ module.exports = [
     },
     {
         name: "ALBANY-02",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MAIN",
         width: "50",
         streetLength: "1262",
@@ -110,7 +110,7 @@ module.exports = [
     },
     {
         name: "ALBERTA TERR",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CEDAR",
         width: "30",
         streetLength: "270",
@@ -119,7 +119,7 @@ module.exports = [
     },
     {
         name: "ALEWIFE BROOK PKWAY",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         unnacceptedstreetLength: "6920",
@@ -127,13 +127,13 @@ module.exports = [
     },
     {
         name: "ALEWIFE MBTA ACCESS RD",
-        from: "N END OF STEEL PL",
+        fromStreet: "N END OF STEEL PL",
         to: "N AND E",
         noncity: "X",
     },
     {
         name: "ALLEN",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "ORCHARD",
         width: "30",
         streetLength: "304",
@@ -142,7 +142,7 @@ module.exports = [
     },
     {
         name: "ALLSTON CT",
-        from: "ALLSTON",
+        fromStreet: "ALLSTON",
         to: "SOUTHERLY",
         width: "12",
         streetLength: "87",
@@ -151,7 +151,7 @@ module.exports = [
     },
     {
         name: "ALLSTON-01",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "PLEASANT",
         width: "30",
         streetLength: "454",
@@ -160,7 +160,7 @@ module.exports = [
     },
     {
         name: "ALLSTON-02",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "KENWOOD",
         width: "30",
         streetLength: "249",
@@ -169,7 +169,7 @@ module.exports = [
     },
     {
         name: "ALLSTON-03",
-        from: "KENWOOD",
+        fromStreet: "KENWOOD",
         to: "MAGAZINE",
         width: "40",
         streetLength: "260",
@@ -178,7 +178,7 @@ module.exports = [
     },
     {
         name: "ALLSTON-04",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "BROOKLINE",
         width: "40",
         streetLength: "980",
@@ -187,7 +187,7 @@ module.exports = [
     },
     {
         name: "ALLSTON-05",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "GROVE AVE",
         width: "40",
         streetLength: "2685",
@@ -196,7 +196,7 @@ module.exports = [
     },
     {
         name: "ALPINE-01",
-        from: "FIELD",
+        fromStreet: "FIELD",
         to: "CONCORD AVE",
         width: "50",
         streetLength: "337",
@@ -205,7 +205,7 @@ module.exports = [
     },
     {
         name: "ALPINE-02",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "VASSAL LN",
         width: "40",
         streetLength: "656",
@@ -214,7 +214,7 @@ module.exports = [
     },
     {
         name: "AMES-01",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "MAIN",
         width: "80",
         streetLength: "450",
@@ -223,7 +223,7 @@ module.exports = [
     },
     {
         name: "AMES-02",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "AMHERST",
         width: "60",
         streetLength: "906",
@@ -232,7 +232,7 @@ module.exports = [
     },
     {
         name: "AMES-03",
-        from: "AMHERST",
+        fromStreet: "AMHERST",
         to: "MEMORIAL DR",
         width: "60",
         streetLength: "240",
@@ -241,7 +241,7 @@ module.exports = [
     },
     {
         name: "AMESBURY",
-        from: "VASSAR",
+        fromStreet: "VASSAR",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "510",
@@ -250,13 +250,13 @@ module.exports = [
     },
     {
         name: "AMHERST ALLEY",
-        from: "VASSAR",
+        fromStreet: "VASSAR",
         to: "ENDICOTT",
         noncity: "X",
     },
     {
         name: "AMHERST-01",
-        from: "AMES",
+        fromStreet: "AMES",
         to: "WADSWORTH",
         width: "60",
         streetLength: "920",
@@ -265,7 +265,7 @@ module.exports = [
     },
     {
         name: "AMHERST-02",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "ENDICOTT",
         width: "60",
         date: "1900",
@@ -274,7 +274,7 @@ module.exports = [
     },
     {
         name: "AMORY",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "1233",
@@ -283,7 +283,7 @@ module.exports = [
     },
     {
         name: "AMORY PL",
-        from: "AMORY",
+        fromStreet: "AMORY",
         to: "WESTERLY",
         width: "20",
         unnacceptedstreetLength: "122",
@@ -291,7 +291,7 @@ module.exports = [
     },
     {
         name: "ANDREW",
-        from: "FAIRMONT",
+        fromStreet: "FAIRMONT",
         to: "ALLSTON",
         width: "30",
         streetLength: "430",
@@ -300,7 +300,7 @@ module.exports = [
     },
     {
         name: "ANGLIM",
-        from: "WAVERLY",
+        fromStreet: "WAVERLY",
         to: "REARDON",
         width: "50",
         streetLength: "380",
@@ -309,7 +309,7 @@ module.exports = [
     },
     {
         name: "ANTRIM",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1342",
@@ -318,7 +318,7 @@ module.exports = [
     },
     {
         name: "APPIAN WAY",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "GARDEN",
         width: "30",
         streetLength: "550",
@@ -327,7 +327,7 @@ module.exports = [
     },
     {
         name: "APPLETON RD",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "EASTERLY",
         width: "40",
         streetLength: "171",
@@ -336,7 +336,7 @@ module.exports = [
     },
     {
         name: "APPLETON TERR",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "120",
@@ -344,7 +344,7 @@ module.exports = [
     },
     {
         name: "APPLETON-01",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "HURON AVE",
         width: "45",
         streetLength: "1437",
@@ -353,7 +353,7 @@ module.exports = [
     },
     {
         name: "APPLETON-02",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "CONCORD AVE",
         width: "40",
         streetLength: "750",
@@ -362,7 +362,7 @@ module.exports = [
     },
     {
         name: "ARCADIA",
-        from: "EUSTIS",
+        fromStreet: "EUSTIS",
         to: "HARRIS",
         width: "30",
         streetLength: "175",
@@ -371,7 +371,7 @@ module.exports = [
     },
     {
         name: "ARLINGTON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WASHINGTON AVE",
         width: "40",
         streetLength: "1107",
@@ -380,7 +380,7 @@ module.exports = [
     },
     {
         name: "ARNOLD CIR",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "150",
@@ -388,7 +388,7 @@ module.exports = [
     },
     {
         name: "ARROW",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BOW",
         width: "30",
         streetLength: "430",
@@ -397,7 +397,7 @@ module.exports = [
     },
     {
         name: "ARTHUR PK",
-        from: "ALLSTON",
+        fromStreet: "ALLSTON",
         to: "SOUTHERLY",
         width: "20",
         unnacceptedstreetLength: "53",
@@ -405,7 +405,7 @@ module.exports = [
     },
     {
         name: "ASH ST PL",
-        from: "ASH",
+        fromStreet: "ASH",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "310",
@@ -413,7 +413,7 @@ module.exports = [
     },
     {
         name: "ASH-01",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "31",
         streetLength: "604",
@@ -422,7 +422,7 @@ module.exports = [
     },
     {
         name: "ASH-02",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "MEMORIAL DR",
         width: "30",
         streetLength: "308",
@@ -431,7 +431,7 @@ module.exports = [
     },
     {
         name: "ASHBURTON PL",
-        from: "ESSEX",
+        fromStreet: "ESSEX",
         to: "EASTERLY",
         width: "20",
         streetLength: "147",
@@ -440,7 +440,7 @@ module.exports = [
     },
     {
         name: "ASHTON PL",
-        from: "IRVING",
+        fromStreet: "IRVING",
         to: "WESTERLY",
         width: "25",
         unnacceptedstreetLength: "200",
@@ -448,7 +448,7 @@ module.exports = [
     },
     {
         name: "ATHENAEUM-01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "SECOND",
         width: "50",
         streetLength: "399",
@@ -457,14 +457,14 @@ module.exports = [
     },
     {
         name: "ATHENAEUM-02",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "THIRD",
         width: "50",
         noncity: "X",
     },
     {
         name: "ATHENS",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "GRANT",
         width: "40",
         streetLength: "397",
@@ -473,7 +473,7 @@ module.exports = [
     },
     {
         name: "ATHENS TERR",
-        from: "ATHENS",
+        fromStreet: "ATHENS",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "120",
@@ -481,7 +481,7 @@ module.exports = [
     },
     {
         name: "AUBURN",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "BROOKLINE",
         width: "40",
         streetLength: "1492",
@@ -490,13 +490,13 @@ module.exports = [
     },
     {
         name: "AUBURN PK",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "EASTERLY",
         noncity: "X",
     },
     {
         name: "AUDREY",
-        from: "VASSAR",
+        fromStreet: "VASSAR",
         to: "MEMORIAL DRIVE",
         width: "50",
         unnacceptedstreetLength: "580",
@@ -504,7 +504,7 @@ module.exports = [
     },
     {
         name: "AUSTIN PK",
-        from: "BISHOP ALLEN",
+        fromStreet: "BISHOP ALLEN",
         to: "NORTHERLY",
         width: "33",
         streetLength: "217",
@@ -513,7 +513,7 @@ module.exports = [
     },
     {
         name: "AVON",
-        from: "SHEPARD",
+        fromStreet: "SHEPARD",
         to: "LINNAEAN",
         width: "35",
         streetLength: "842",
@@ -522,7 +522,7 @@ module.exports = [
     },
     {
         name: "AVON HILL-01",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "HILLSIDE AVE",
         width: "40",
         streetLength: "635",
@@ -531,7 +531,7 @@ module.exports = [
     },
     {
         name: "AVON HILL-02",
-        from: "HILLSIDE AVE",
+        fromStreet: "HILLSIDE AVE",
         to: "UPLAND RD",
         width: "40",
         streetLength: "645",
@@ -540,7 +540,7 @@ module.exports = [
     },
     {
         name: "AVON PL",
-        from: "AVON HILL",
+        fromStreet: "AVON HILL",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "256",
@@ -548,7 +548,7 @@ module.exports = [
     },
     {
         name: "BAILEY PL",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "EASTERLY",
         width: "14",
         unnacceptedstreetLength: "135",
@@ -556,7 +556,7 @@ module.exports = [
     },
     {
         name: "BALDWIN ST CT",
-        from: "ROBERTS RD",
+        fromStreet: "ROBERTS RD",
         to: "EASTERLY",
         width: "13",
         unnacceptedstreetLength: "165",
@@ -564,7 +564,7 @@ module.exports = [
     },
     {
         name: "BALLORD PL",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "MONTAGUE",
         width: "30",
         unnacceptedstreetLength: "173",
@@ -572,7 +572,7 @@ module.exports = [
     },
     {
         name: "BANCROFT",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "SOUTHERLY",
         width: "40",
         unnacceptedstreetLength: "90",
@@ -580,7 +580,7 @@ module.exports = [
     },
     {
         name: "BANKS-01",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "SOUTH OF FLAGG",
         width: "40",
         streetLength: "1189",
@@ -589,7 +589,7 @@ module.exports = [
     },
     {
         name: "BANKS-02",
-        from: "HINGHAM",
+        fromStreet: "HINGHAM",
         to: "NORTH OF AKRON",
         width: "40",
         streetLength: "350",
@@ -598,7 +598,7 @@ module.exports = [
     },
     {
         name: "BATES",
-        from: "AVON HILL",
+        fromStreet: "AVON HILL",
         to: "RAYMOND",
         width: "40",
         streetLength: "356",
@@ -607,7 +607,7 @@ module.exports = [
     },
     {
         name: "BAY",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "KINNAIRD",
         width: "40",
         streetLength: "580",
@@ -616,7 +616,7 @@ module.exports = [
     },
     {
         name: "BAY STATE RD",
-        from: "NEW",
+        fromStreet: "NEW",
         to: "FIELD",
         width: "50",
         streetLength: "760",
@@ -625,7 +625,7 @@ module.exports = [
     },
     {
         name: "BEDFORD",
-        from: "PORTER",
+        fromStreet: "PORTER",
         to: "SOMERVILLE LINE",
         width: "33",
         unnacceptedstreetLength: "30",
@@ -633,7 +633,7 @@ module.exports = [
     },
     {
         name: "BEECH",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "60",
         streetLength: "560",
@@ -642,7 +642,7 @@ module.exports = [
     },
     {
         name: "BELLEVUE AVE",
-        from: "RAYMOND",
+        fromStreet: "RAYMOND",
         to: "E OF AVON HILL",
         width: "30",
         streetLength: "455",
@@ -651,7 +651,7 @@ module.exports = [
     },
     {
         name: "BELLIS CIR",
-        from: "SHERMAN",
+        fromStreet: "SHERMAN",
         to: "SHERMAN",
         width: "25",
         streetLength: "978",
@@ -660,13 +660,13 @@ module.exports = [
     },
     {
         name: "BELLIS CT",
-        from: "SHERMAN @ BELLIS CIR",
+        fromStreet: "SHERMAN @ BELLIS CIR",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "BELMONT",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "BELMONT LINE",
         width: "75",
         streetLength: "1183",
@@ -675,7 +675,7 @@ module.exports = [
     },
     {
         name: "BELMONT CT",
-        from: "DUDLEY",
+        fromStreet: "DUDLEY",
         to: "NORTHERLY",
         width: "14",
         unnacceptedstreetLength: "135",
@@ -683,7 +683,7 @@ module.exports = [
     },
     {
         name: "BELVIDERE PL",
-        from: "GREEN",
+        fromStreet: "GREEN",
         to: "FRANKLIN",
         width: "5",
         unnacceptedstreetLength: "177",
@@ -691,7 +691,7 @@ module.exports = [
     },
     {
         name: "BENNETT",
-        from: "ELIOT",
+        fromStreet: "ELIOT",
         to: "UNIVERSITY RD",
         width: "40",
         streetLength: "347",
@@ -700,7 +700,7 @@ module.exports = [
     },
     {
         name: "BENT-01",
-        from: "FULKERSON",
+        fromStreet: "FULKERSON",
         to: "SIXTH",
         width: "50",
         streetLength: "535",
@@ -709,7 +709,7 @@ module.exports = [
     },
     {
         name: "BENT-02",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "THIRD",
         width: "50",
         streetLength: "1071",
@@ -718,7 +718,7 @@ module.exports = [
     },
     {
         name: "BENT-03",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "FIRST",
         width: "50",
         streetLength: "400",
@@ -727,7 +727,7 @@ module.exports = [
     },
     {
         name: "BERKELEY PL",
-        from: "BERKELEY",
+        fromStreet: "BERKELEY",
         to: "SOUTHERLY",
         width: "35",
         unnacceptedstreetLength: "560",
@@ -735,7 +735,7 @@ module.exports = [
     },
     {
         name: "BERKELEY-01",
-        from: "CRAIGIE",
+        fromStreet: "CRAIGIE",
         to: "PHILIPS PLACE",
         width: "40",
         streetLength: "1240",
@@ -744,7 +744,7 @@ module.exports = [
     },
     {
         name: "BERKELEY-02",
-        from: "PHILIPS PLACE",
+        fromStreet: "PHILIPS PLACE",
         to: "GARDEN",
         width: "35",
         streetLength: "254",
@@ -753,7 +753,7 @@ module.exports = [
     },
     {
         name: "BERKSHIRE PL",
-        from: "BERKSHIRE",
+        fromStreet: "BERKSHIRE",
         to: "CARDINAL MEDEIROS",
         width: "15",
         unnacceptedstreetLength: "300",
@@ -761,7 +761,7 @@ module.exports = [
     },
     {
         name: "BERKSHIRE-01",
-        from: "BRISTOL",
+        fromStreet: "BRISTOL",
         to: "YORK",
         width: "40",
         streetLength: "504",
@@ -770,7 +770,7 @@ module.exports = [
     },
     {
         name: "BERKSHIRE-02",
-        from: "YORK",
+        fromStreet: "YORK",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1090",
@@ -779,7 +779,7 @@ module.exports = [
     },
     {
         name: "BIGELOW",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HARVARD",
         width: "40",
         streetLength: "920",
@@ -788,7 +788,7 @@ module.exports = [
     },
     {
         name: "BINNEY-01",
-        from: "LAND BLVD",
+        fromStreet: "LAND BLVD",
         to: "FIRST",
         width: "50",
         streetLength: "235",
@@ -797,7 +797,7 @@ module.exports = [
     },
     {
         name: "BINNEY-02",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "THIRD",
         width: "50",
         streetLength: "1271",
@@ -806,7 +806,7 @@ module.exports = [
     },
     {
         name: "BINNEY-03",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "FULKERSON",
         width: "50",
         streetLength: "1406",
@@ -815,7 +815,7 @@ module.exports = [
     },
     {
         name: "BINNEY-04",
-        from: "FULKERSON",
+        fromStreet: "FULKERSON",
         to: "CARDINAL MEDEIROS",
         width: "50",
         streetLength: "838",
@@ -824,7 +824,7 @@ module.exports = [
     },
     {
         name: "BIRCH",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "BAY STATE RD",
         width: "50",
         streetLength: "426",
@@ -833,7 +833,7 @@ module.exports = [
     },
     {
         name: "BISHOP ALLEN DR",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "INMAN",
         width: "49",
         streetLength: "2085",
@@ -842,7 +842,7 @@ module.exports = [
     },
     {
         name: "BLACKSTONE",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "WESTERN AVE",
         width: "50",
         streetLength: "844",
@@ -851,7 +851,7 @@ module.exports = [
     },
     {
         name: "BLAIR PL",
-        from: "BOLTON",
+        fromStreet: "BOLTON",
         to: "SOUTHERLY",
         width: "35",
         unnacceptedstreetLength: "182",
@@ -859,7 +859,7 @@ module.exports = [
     },
     {
         name: "BLAKE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "ORCHARD",
         width: "40",
         streetLength: "408",
@@ -868,7 +868,7 @@ module.exports = [
     },
     {
         name: "BLAKESLEE",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "RESERVOIR",
         width: "40",
         streetLength: "554",
@@ -877,7 +877,7 @@ module.exports = [
     },
     {
         name: "BLANCHARD RD-01",
-        from: "GROVE",
+        fromStreet: "GROVE",
         to: "CONCORD AVE",
         width: "45",
         streetLength: "2050",
@@ -886,7 +886,7 @@ module.exports = [
     },
     {
         name: "BLANCHARD RD-02",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "BELMONT LINE",
         width: "33",
         streetLength: "1300",
@@ -895,7 +895,7 @@ module.exports = [
     },
     {
         name: "BLANCHE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "GREEN",
         width: "30",
         streetLength: "634",
@@ -904,7 +904,7 @@ module.exports = [
     },
     {
         name: "BOARDMAN",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BROADWAY",
         width: "50",
         streetLength: "275",
@@ -913,7 +913,7 @@ module.exports = [
     },
     {
         name: "BOARDMAN PL",
-        from: "BOARDMAN",
+        fromStreet: "BOARDMAN",
         to: "EASTERLY",
         width: "6",
         unnacceptedstreetLength: "100",
@@ -921,7 +921,7 @@ module.exports = [
     },
     {
         name: "BOLTON",
-        from: "SHERMAN",
+        fromStreet: "SHERMAN",
         to: "EASTERLY",
         width: "30",
         streetLength: "457",
@@ -930,7 +930,7 @@ module.exports = [
     },
     {
         name: "BOND",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "GARDEN",
         width: "50",
         streetLength: "476",
@@ -939,7 +939,7 @@ module.exports = [
     },
     {
         name: "BOW-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "ARROW",
         width: "40",
         streetLength: "235",
@@ -948,7 +948,7 @@ module.exports = [
     },
     {
         name: "BOW-02",
-        from: "ARROW",
+        fromStreet: "ARROW",
         to: "MT AUBURN",
         width: "45",
         streetLength: "720",
@@ -957,7 +957,7 @@ module.exports = [
     },
     {
         name: "BOWDOIN-01",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "S OF MARTIN",
         width: "40",
         streetLength: "600",
@@ -966,7 +966,7 @@ module.exports = [
     },
     {
         name: "BOWDOIN-02",
-        from: "S OF MARTIN",
+        fromStreet: "S OF MARTIN",
         to: "HUDSON",
         width: "40",
         streetLength: "205",
@@ -975,7 +975,7 @@ module.exports = [
     },
     {
         name: "BOYLE TERR",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "SOUTHERLY",
         width: "15",
         unnacceptedstreetLength: "150",
@@ -983,7 +983,7 @@ module.exports = [
     },
     {
         name: "BRADBURY",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "EASTERLY",
         width: "40",
         streetLength: "240",
@@ -992,7 +992,7 @@ module.exports = [
     },
     {
         name: "BRATTLE CIR",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "SOUTHERLY",
         width: "30",
         unnacceptedstreetLength: "100",
@@ -1000,7 +1000,7 @@ module.exports = [
     },
     {
         name: "BRATTLE-01",
-        from: "JFK",
+        fromStreet: "JFK",
         to: "MASON",
         width: "60",
         streetLength: "1812",
@@ -1009,7 +1009,7 @@ module.exports = [
     },
     {
         name: "BRATTLE-02",
-        from: "MASON",
+        fromStreet: "MASON",
         to: "ELMWOOD AVE",
         width: "60",
         streetLength: "3638",
@@ -1018,7 +1018,7 @@ module.exports = [
     },
     {
         name: "BRATTLE-03",
-        from: "ELMWOOD AVE",
+        fromStreet: "ELMWOOD AVE",
         to: "MT AUBURN",
         width: "60",
         streetLength: "3000",
@@ -1027,7 +1027,7 @@ module.exports = [
     },
     {
         name: "BREWER",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "SOUTHERLY",
         width: "20",
         streetLength: "374",
@@ -1036,7 +1036,7 @@ module.exports = [
     },
     {
         name: "BREWSTER-01",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "EASTERLY",
         width: "35",
         streetLength: "343",
@@ -1045,7 +1045,7 @@ module.exports = [
     },
     {
         name: "BREWSTER-02",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "WESTERLY",
         width: "35",
         streetLength: "399",
@@ -1054,7 +1054,7 @@ module.exports = [
     },
     {
         name: "BRISTOL-01",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "WEBSTER AVE",
         width: "40",
         streetLength: "504",
@@ -1063,7 +1063,7 @@ module.exports = [
     },
     {
         name: "BRISTOL-02",
-        from: "WEBSTER AVE",
+        fromStreet: "WEBSTER AVE",
         to: "HAMPSHIRE",
         width: "30",
         streetLength: "234",
@@ -1072,7 +1072,7 @@ module.exports = [
     },
     {
         name: "BRISTOL-03",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "MARKET",
         width: "30",
         streetLength: "268",
@@ -1081,13 +1081,13 @@ module.exports = [
     },
     {
         name: "BROAD CANAL WAY",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "MAIN",
         noncity: "X",
     },
     {
         name: "BROADWAY",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "GALILEO GALILEI WAY",
         width: "80",
         streetLength: "1644",
@@ -1096,13 +1096,13 @@ module.exports = [
     },
     {
         name: "BROADWAY CT",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "SOUTHERLY",
         noncity: "X",
     },
     {
         name: "BROADWAY TERR",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "WEST  ST",
         width: "15",
         unnacceptedstreetLength: "228",
@@ -1110,7 +1110,7 @@ module.exports = [
     },
     {
         name: "BROADWAY-01",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "BINNEY",
         width: "80",
         streetLength: "1644",
@@ -1119,7 +1119,7 @@ module.exports = [
     },
     {
         name: "BROADWAY-02",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "HAMPSHIRE",
         width: "80",
         streetLength: "476",
@@ -1128,7 +1128,7 @@ module.exports = [
     },
     {
         name: "BROADWAY-03",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "CAMBRIDGE",
         width: "66",
         streetLength: "8030",
@@ -1137,7 +1137,7 @@ module.exports = [
     },
     {
         name: "BROOKFORD",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "477",
@@ -1146,13 +1146,13 @@ module.exports = [
     },
     {
         name: "BROOKLINE PL",
-        from: "PACIFIC",
+        fromStreet: "PACIFIC",
         to: "FRANKLIN",
         noncity: "X",
     },
     {
         name: "BROOKLINE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HENRY",
         width: "40",
         streetLength: "3930",
@@ -1161,7 +1161,7 @@ module.exports = [
     },
     {
         name: "BROOKLINE-02",
-        from: "HENRY",
+        fromStreet: "HENRY",
         to: "GRANITE",
         width: "75",
         streetLength: "295",
@@ -1170,7 +1170,7 @@ module.exports = [
     },
     {
         name: "BROOKLINE-03",
-        from: "GRANITE",
+        fromStreet: "GRANITE",
         to: "BOSTON LINE",
         width: "100",
         streetLength: "750",
@@ -1179,7 +1179,7 @@ module.exports = [
     },
     {
         name: "BROWN",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "FOSTER",
         width: "30",
         streetLength: "490",
@@ -1188,7 +1188,7 @@ module.exports = [
     },
     {
         name: "BRYANT-01",
-        from: "FRANCIS AVE",
+        fromStreet: "FRANCIS AVE",
         to: "IRVING",
         width: "50",
         streetLength: "342",
@@ -1197,7 +1197,7 @@ module.exports = [
     },
     {
         name: "BRYANT-02",
-        from: "IRVING",
+        fromStreet: "IRVING",
         to: "SCOTT",
         width: "50",
         streetLength: "443",
@@ -1206,7 +1206,7 @@ module.exports = [
     },
     {
         name: "BUCKINGHAM",
-        from: "CRAIGIE",
+        fromStreet: "CRAIGIE",
         to: "CONCORD AVE",
         width: "40",
         streetLength: "1213",
@@ -1215,7 +1215,7 @@ module.exports = [
     },
     {
         name: "BUCKINGHAM PL",
-        from: "BUCKINGHAM",
+        fromStreet: "BUCKINGHAM",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "235",
@@ -1223,7 +1223,7 @@ module.exports = [
     },
     {
         name: "BUENA VISTA PK-01",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "NORTHERLY",
         width: "40",
         streetLength: "350",
@@ -1232,7 +1232,7 @@ module.exports = [
     },
     {
         name: "BUENA VISTA PK-02",
-        from: "RICHDALE AVE",
+        fromStreet: "RICHDALE AVE",
         to: "SOUTHERLY",
         width: "30",
         streetLength: "180",
@@ -1241,7 +1241,7 @@ module.exports = [
     },
     {
         name: "BURNS CT",
-        from: "FOSTER",
+        fromStreet: "FOSTER",
         to: "SOUTHERLY",
         width: "16",
         unnacceptedstreetLength: "160",
@@ -1249,7 +1249,7 @@ module.exports = [
     },
     {
         name: "BURNS RD",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "FIELD",
         width: "50",
         streetLength: "400",
@@ -1258,7 +1258,7 @@ module.exports = [
     },
     {
         name: "CADBURY RD",
-        from: "SHERMAN",
+        fromStreet: "SHERMAN",
         to: "WOOD",
         width: "40",
         streetLength: "507",
@@ -1267,7 +1267,7 @@ module.exports = [
     },
     {
         name: "CALLENDAR-01",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "70' E OF DODGE",
         width: "40",
         streetLength: "480",
@@ -1276,7 +1276,7 @@ module.exports = [
     },
     {
         name: "CALLENDAR-02",
-        from: "70' E OF DODGE",
+        fromStreet: "70' E OF DODGE",
         to: "HOWARD",
         width: "40",
         streetLength: "251",
@@ -1285,7 +1285,7 @@ module.exports = [
     },
     {
         name: "CAMBRIDGE",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "MASS AVE",
         width: "66",
         streetLength: "12000",
@@ -1294,7 +1294,7 @@ module.exports = [
     },
     {
         name: "CAMBRIDGE PKWY",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "LAND BLVD",
         width: "75",
         unnacceptedstreetLength: "2400",
@@ -1302,7 +1302,7 @@ module.exports = [
     },
     {
         name: "CAMBRIDGE TERR",
-        from: "RICHDALE AVE",
+        fromStreet: "RICHDALE AVE",
         to: "BUENA VISTA PK",
         width: "40",
         streetLength: "533",
@@ -1311,7 +1311,7 @@ module.exports = [
     },
     {
         name: "CAMBRIDGEPARK DR",
-        from: "W LINE OF RAILWAY",
+        fromStreet: "W LINE OF RAILWAY",
         to: "WESTERLY",
         width: "40",
         streetLength: "1768",
@@ -1320,21 +1320,21 @@ module.exports = [
     },
     {
         name: "CAMBRIDGEPARK PL",
-        from: "CAMBRIDGEPARK DR",
+        fromStreet: "CAMBRIDGEPARK DR",
         to: "SOUTHERLY",
         date: "2002",
         noncity: " ",
     },
     {
         name: "CAMBRIDGESIDE PL",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "140' W OF LAND BLVD",
         date: "1992",
         noncity: "X",
     },
     {
         name: "CAMDEN PL",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "NORTHERLY",
         width: "16",
         unnacceptedstreetLength: "140",
@@ -1342,7 +1342,7 @@ module.exports = [
     },
     {
         name: "CAMELIA AVE-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "140' NORTHERLY",
         width: "35",
         streetLength: "140",
@@ -1351,7 +1351,7 @@ module.exports = [
     },
     {
         name: "CAMELIA AVE-02",
-        from: "140' NORTH OF CAMBRIDGE",
+        fromStreet: "140' NORTH OF CAMBRIDGE",
         to: "NORTHERLY",
         width: "35",
         date: "1994",
@@ -1360,7 +1360,7 @@ module.exports = [
     },
     {
         name: "CAMERON AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SEVEN PINES AVE",
         width: "60",
         streetLength: "568",
@@ -1369,7 +1369,7 @@ module.exports = [
     },
     {
         name: "CAMP",
-        from: "FAIR OAKS",
+        fromStreet: "FAIR OAKS",
         to: "SEVEN PINES AVE",
         width: "40",
         streetLength: "351",
@@ -1378,7 +1378,7 @@ module.exports = [
     },
     {
         name: "CARD. MEDEIROS AVE",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "2189",
@@ -1387,7 +1387,7 @@ module.exports = [
     },
     {
         name: "CARLETON-01",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "DEACON",
         width: "40",
         unnacceptedstreetLength: "167",
@@ -1395,7 +1395,7 @@ module.exports = [
     },
     {
         name: "CARLETON-02",
-        from: "DEACON",
+        fromStreet: "DEACON",
         to: "AMHERST",
         width: "50",
         streetLength: "487",
@@ -1404,7 +1404,7 @@ module.exports = [
     },
     {
         name: "CARLISLE",
-        from: "TREMONT",
+        fromStreet: "TREMONT",
         to: "PROSPECT",
         width: "40",
         streetLength: "263",
@@ -1413,7 +1413,7 @@ module.exports = [
     },
     {
         name: "CARVER",
-        from: "MUSEUM",
+        fromStreet: "MUSEUM",
         to: "SACRAMENTO",
         width: "40",
         streetLength: "496",
@@ -1422,7 +1422,7 @@ module.exports = [
     },
     {
         name: "CEDAR",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RINDGE AVE",
         width: "40",
         streetLength: "1554",
@@ -1431,7 +1431,7 @@ module.exports = [
     },
     {
         name: "CENTANNI WAY",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "THIRD",
         width: "50",
         date: "1831",
@@ -1440,7 +1440,7 @@ module.exports = [
     },
     {
         name: "CENTRE",
-        from: "HANCOCK",
+        fromStreet: "HANCOCK",
         to: "DANA",
         width: "50",
         streetLength: "655",
@@ -1449,7 +1449,7 @@ module.exports = [
     },
     {
         name: "CHALK",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "513",
@@ -1458,7 +1458,7 @@ module.exports = [
     },
     {
         name: "CHANNING",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "50",
         streetLength: "712",
@@ -1467,7 +1467,7 @@ module.exports = [
     },
     {
         name: "CHANNING CIR",
-        from: "CHANNING",
+        fromStreet: "CHANNING",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "85",
@@ -1475,7 +1475,7 @@ module.exports = [
     },
     {
         name: "CHANNING PL-01",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "NORTHERLY",
         width: "40",
         streetLength: "294",
@@ -1484,7 +1484,7 @@ module.exports = [
     },
     {
         name: "CHANNING PL-02",
-        from: "CHANNING PL",
+        fromStreet: "CHANNING PL",
         to: "WESTERLY",
         width: "30",
         streetLength: "170",
@@ -1493,7 +1493,7 @@ module.exports = [
     },
     {
         name: "CHAPMAN PL",
-        from: "GERRY",
+        fromStreet: "GERRY",
         to: "BREWER",
         width: "20",
         streetLength: "135",
@@ -1502,7 +1502,7 @@ module.exports = [
     },
     {
         name: "CHARLES-01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "SECOND",
         width: "50",
         streetLength: "400",
@@ -1511,7 +1511,7 @@ module.exports = [
     },
     {
         name: "CHARLES-02",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "THIRD",
         width: "50",
         streetLength: "421",
@@ -1520,7 +1520,7 @@ module.exports = [
     },
     {
         name: "CHARLES-03",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "FIFTH",
         width: "50",
         streetLength: "725",
@@ -1529,7 +1529,7 @@ module.exports = [
     },
     {
         name: "CHARLES-04",
-        from: "FIFTH",
+        fromStreet: "FIFTH",
         to: "SIXTH",
         width: "50",
         streetLength: "400",
@@ -1538,7 +1538,7 @@ module.exports = [
     },
     {
         name: "CHARLES-05",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "FULKERSON",
         width: "50",
         streetLength: "535",
@@ -1547,7 +1547,7 @@ module.exports = [
     },
     {
         name: "CHARLESTOWN AVE",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "CHARLESTOWN LINE",
         width: "50",
         streetLength: "1339",
@@ -1556,7 +1556,7 @@ module.exports = [
     },
     {
         name: "CHATHAM",
-        from: "HANCOCK",
+        fromStreet: "HANCOCK",
         to: "DANA",
         width: "40",
         streetLength: "744",
@@ -1565,7 +1565,7 @@ module.exports = [
     },
     {
         name: "CHAUNCY-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "GARDEN",
         width: "45",
         streetLength: "1120",
@@ -1574,7 +1574,7 @@ module.exports = [
     },
     {
         name: "CHAUNCY-02",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "CONCORD AVE",
         width: "45",
         streetLength: "86",
@@ -1583,7 +1583,7 @@ module.exports = [
     },
     {
         name: "CHERRY CT",
-        from: "CHERRY",
+        fromStreet: "CHERRY",
         to: "EASTERLY",
         width: "8",
         unnacceptedstreetLength: "50",
@@ -1591,7 +1591,7 @@ module.exports = [
     },
     {
         name: "CHERRY-01",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "SCHOOL",
         width: "30",
         streetLength: "190",
@@ -1600,7 +1600,7 @@ module.exports = [
     },
     {
         name: "CHERRY-02",
-        from: "SCHOOL",
+        fromStreet: "SCHOOL",
         to: "HARVARD",
         width: "30",
         streetLength: "905",
@@ -1609,7 +1609,7 @@ module.exports = [
     },
     {
         name: "CHESTER",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "294",
@@ -1618,7 +1618,7 @@ module.exports = [
     },
     {
         name: "CHESTNUT-01",
-        from: "WAVERLY",
+        fromStreet: "WAVERLY",
         to: "SIDNEY",
         width: "40",
         streetLength: "410",
@@ -1627,7 +1627,7 @@ module.exports = [
     },
     {
         name: "CHESTNUT-02",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "BROOKLINE",
         width: "40",
         streetLength: "402",
@@ -1636,7 +1636,7 @@ module.exports = [
     },
     {
         name: "CHESTNUT-03",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "496",
@@ -1645,7 +1645,7 @@ module.exports = [
     },
     {
         name: "CHESTNUT-04",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "467",
@@ -1654,7 +1654,7 @@ module.exports = [
     },
     {
         name: "CHESTNUT-05",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "544",
@@ -1663,7 +1663,7 @@ module.exports = [
     },
     {
         name: "CHETWYND RD",
-        from: "NEWELL",
+        fromStreet: "NEWELL",
         to: "NORTHEASTERLY",
         width: "40",
         streetLength: "184",
@@ -1672,13 +1672,13 @@ module.exports = [
     },
     {
         name: "CHILD",
-        from: "NORTH ST",
+        fromStreet: "NORTH ST",
         to: "NORTH ST",
         noncity: "X",
     },
     {
         name: "CHILTON-01",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "VASSAL LN",
         width: "40",
         streetLength: "757",
@@ -1687,7 +1687,7 @@ module.exports = [
     },
     {
         name: "CHILTON-02",
-        from: "VASSAL LNE",
+        fromStreet: "VASSAL LNE",
         to: "CONCORD AVE",
         width: "40",
         streetLength: "584",
@@ -1696,7 +1696,7 @@ module.exports = [
     },
     {
         name: "CHILTON-03",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "FIELD",
         width: "50",
         streetLength: "376",
@@ -1705,7 +1705,7 @@ module.exports = [
     },
     {
         name: "CHURCH-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "PALMER",
         width: "48",
         streetLength: "359",
@@ -1714,7 +1714,7 @@ module.exports = [
     },
     {
         name: "CHURCH-02",
-        from: "PALMER",
+        fromStreet: "PALMER",
         to: "BRATTLE",
         width: "50",
         streetLength: "300",
@@ -1723,7 +1723,7 @@ module.exports = [
     },
     {
         name: "CHURCHILL AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MATIGNON RD",
         streetLength: "600",
         date: "1891",
@@ -1731,7 +1731,7 @@ module.exports = [
     },
     {
         name: "CITIZENS PL",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "90",
@@ -1739,7 +1739,7 @@ module.exports = [
     },
     {
         name: "CLARENDON AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "730",
@@ -1748,7 +1748,7 @@ module.exports = [
     },
     {
         name: "CLARK-01",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "HAMPSHIRE",
         width: "30",
         streetLength: "575",
@@ -1757,7 +1757,7 @@ module.exports = [
     },
     {
         name: "CLARK-02",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "WEBSTER AVE",
         width: "30",
         streetLength: "117",
@@ -1766,7 +1766,7 @@ module.exports = [
     },
     {
         name: "CLARY",
-        from: "PROSPECT",
+        fromStreet: "PROSPECT",
         to: "WESTERLY",
         width: "40",
         streetLength: "249",
@@ -1775,7 +1775,7 @@ module.exports = [
     },
     {
         name: "CLAY",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "HARVEY",
         width: "40",
         streetLength: "1361",
@@ -1784,7 +1784,7 @@ module.exports = [
     },
     {
         name: "CLEMENT CIR",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "222",
@@ -1792,7 +1792,7 @@ module.exports = [
     },
     {
         name: "CLEVELAND",
-        from: "ELLERY",
+        fromStreet: "ELLERY",
         to: "DANA",
         width: "30",
         streetLength: "300",
@@ -1801,19 +1801,19 @@ module.exports = [
     },
     {
         name: "CLIFTON CIR",
-        from: "JEFFERSON PARK",
+        fromStreet: "JEFFERSON PARK",
         to: "RINDGE AVE",
         noncity: "X",
     },
     {
         name: "CLIFTON PL",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "SOUTHERLY",
         noncity: "X",
     },
     {
         name: "CLIFTON-01",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "DUDLEY",
         width: "40",
         streetLength: "720",
@@ -1822,7 +1822,7 @@ module.exports = [
     },
     {
         name: "CLIFTON-02",
-        from: "DUDLEY",
+        fromStreet: "DUDLEY",
         to: "HARVEY",
         width: "40",
         streetLength: "643",
@@ -1831,7 +1831,7 @@ module.exports = [
     },
     {
         name: "CLINTON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HARVARD",
         width: "30",
         streetLength: "860",
@@ -1840,7 +1840,7 @@ module.exports = [
     },
     {
         name: "COGSWELL AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RAILWAY",
         width: "40",
         streetLength: "930",
@@ -1849,7 +1849,7 @@ module.exports = [
     },
     {
         name: "COGSWELL CT",
-        from: "COGSWELL AVE",
+        fromStreet: "COGSWELL AVE",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "184",
@@ -1857,7 +1857,7 @@ module.exports = [
     },
     {
         name: "COGSWELL PL",
-        from: "MEAD",
+        fromStreet: "MEAD",
         to: "NORTHERLY",
         width: "20",
         streetLength: "330",
@@ -1866,7 +1866,7 @@ module.exports = [
     },
     {
         name: "COLUMBIA TERR",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "95",
@@ -1874,7 +1874,7 @@ module.exports = [
     },
     {
         name: "COLUMBIA-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CAMBRIDGE",
         width: "45",
         streetLength: "3700",
@@ -1883,7 +1883,7 @@ module.exports = [
     },
     {
         name: "COLUMBIA-02",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "45",
         streetLength: "390",
@@ -1892,7 +1892,7 @@ module.exports = [
     },
     {
         name: "COLUMBUS AVE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MADISON",
         width: "40",
         streetLength: "190",
@@ -1901,7 +1901,7 @@ module.exports = [
     },
     {
         name: "COLUMBUS AVE-02",
-        from: "MADISON",
+        fromStreet: "MADISON",
         to: "KIMBALL",
         width: "40",
         streetLength: "557",
@@ -1910,7 +1910,7 @@ module.exports = [
     },
     {
         name: "CONCORD AVE-01",
-        from: "WATERHOUSE",
+        fromStreet: "WATERHOUSE",
         to: "CHAUNCY",
         width: "50",
         streetLength: "1477",
@@ -1919,7 +1919,7 @@ module.exports = [
     },
     {
         name: "CONCORD AVE-02",
-        from: "CHAUNCY",
+        fromStreet: "CHAUNCY",
         to: "HURON AVE",
         width: "50",
         streetLength: "2145",
@@ -1928,7 +1928,7 @@ module.exports = [
     },
     {
         name: "CONCORD AVE-03",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "WALDEN",
         width: "50",
         streetLength: "911",
@@ -1937,7 +1937,7 @@ module.exports = [
     },
     {
         name: "CONCORD AVE-04",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "EASTERN ROTARY",
         width: "50",
         streetLength: "2111",
@@ -1946,7 +1946,7 @@ module.exports = [
     },
     {
         name: "CONCORD AVE-05",
-        from: "EASTERN ROTARY",
+        fromStreet: "EASTERN ROTARY",
         to: "WESTERN ROTARY",
         width: "80",
         streetLength: "900",
@@ -1955,7 +1955,7 @@ module.exports = [
     },
     {
         name: "CONCORD AVE-06",
-        from: "WESTERN ROTARY",
+        fromStreet: "WESTERN ROTARY",
         to: "BLANCHARD RD",
         width: "60",
         streetLength: "3800",
@@ -1964,7 +1964,7 @@ module.exports = [
     },
     {
         name: "CONCORD LN",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "NORTHEASTERLY",
         width: "21",
         streetLength: "626",
@@ -1973,13 +1973,13 @@ module.exports = [
     },
     {
         name: "CONCORD TURNPIKE",
-        from: "ALEWIFE BROOK PKWAY",
+        fromStreet: "ALEWIFE BROOK PKWAY",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "COOLIDGE AVE-01",
-        from: "WATERTOWN LINE",
+        fromStreet: "WATERTOWN LINE",
         to: "NORTHERLY",
         width: "33",
         streetLength: "1340",
@@ -1988,7 +1988,7 @@ module.exports = [
     },
     {
         name: "COOLIDGE AVE-02",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "SOUTHERLY",
         width: "60",
         streetLength: "2220",
@@ -1997,14 +1997,14 @@ module.exports = [
     },
     {
         name: "COOLIDGE HILL",
-        from: "629' E OF COOLIDGE AVE",
+        fromStreet: "629' E OF COOLIDGE AVE",
         to: "DEAD END",
         width: "40",
         noncity: "X",
     },
     {
         name: "COOLIDGE HILL (N)",
-        from: "COOLIDGE AVE",
+        fromStreet: "COOLIDGE AVE",
         to: "COOLIDGE HIL",
         width: "40",
         streetLength: "720",
@@ -2013,7 +2013,7 @@ module.exports = [
     },
     {
         name: "COOLIDGE HILL (S)",
-        from: "COOLIDGE AVE",
+        fromStreet: "COOLIDGE AVE",
         to: "629' E OF COOLIDGE AVE",
         width: "40",
         streetLength: "69",
@@ -2022,7 +2022,7 @@ module.exports = [
     },
     {
         name: "COOLIDGE HILL RD-01",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "LOOP AND 100' SOUTH",
         width: "40",
         streetLength: "740",
@@ -2031,7 +2031,7 @@ module.exports = [
     },
     {
         name: "COOLIDGE HILL RD-02",
-        from: "COOLIDGE HILL",
+        fromStreet: "COOLIDGE HILL",
         to: "145' NORTHERLY",
         width: "40",
         streetLength: "145",
@@ -2040,7 +2040,7 @@ module.exports = [
     },
     {
         name: "COOLIDGE PL",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "NORTHERLY",
         width: "8",
         streetLength: "130",
@@ -2049,7 +2049,7 @@ module.exports = [
     },
     {
         name: "COPLEY",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "595",
@@ -2058,13 +2058,13 @@ module.exports = [
     },
     {
         name: "CORCORAN LANE",
-        from: "THINGVALLA",
+        fromStreet: "THINGVALLA",
         to: "SAINT SAVEUR",
         noncity: "X",
     },
     {
         name: "CORLISS PL",
-        from: "ANTRIM",
+        fromStreet: "ANTRIM",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "80",
@@ -2072,7 +2072,7 @@ module.exports = [
     },
     {
         name: "CORNELIUS WAY",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "MEMORIAL WAY",
         width: "35",
         streetLength: "190",
@@ -2081,7 +2081,7 @@ module.exports = [
     },
     {
         name: "CORPORAL BURNS RD",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "FIELD",
         width: "50",
         streetLength: "400",
@@ -2090,7 +2090,7 @@ module.exports = [
     },
     {
         name: "CORPORAL MCTERNAN",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "440",
@@ -2099,7 +2099,7 @@ module.exports = [
     },
     {
         name: "COTTAGE CT",
-        from: "COTTAGE",
+        fromStreet: "COTTAGE",
         to: "SOUTHERLY",
         width: "10",
         unnacceptedstreetLength: "130",
@@ -2107,7 +2107,7 @@ module.exports = [
     },
     {
         name: "COTTAGE PK AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "350",
@@ -2116,7 +2116,7 @@ module.exports = [
     },
     {
         name: "COTTAGE ROW",
-        from: "GREEN",
+        fromStreet: "GREEN",
         to: "NORTHERLY",
         width: "6",
         unnacceptedstreetLength: "110",
@@ -2124,7 +2124,7 @@ module.exports = [
     },
     {
         name: "COTTAGE-01",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "446",
@@ -2133,7 +2133,7 @@ module.exports = [
     },
     {
         name: "COTTAGE-02",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "RIVER",
         width: "40",
         streetLength: "535",
@@ -2142,7 +2142,7 @@ module.exports = [
     },
     {
         name: "COWPERTHWAITE",
-        from: "BANKS",
+        fromStreet: "BANKS",
         to: "DEWOLFE",
         width: "40",
         date: "1874",
@@ -2151,7 +2151,7 @@ module.exports = [
     },
     {
         name: "CRAIGIE",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "BRATTLE",
         width: "50",
         streetLength: "1272",
@@ -2160,7 +2160,7 @@ module.exports = [
     },
     {
         name: "CRAIGIE CIR",
-        from: "CRAIGIE",
+        fromStreet: "CRAIGIE",
         to: "NORTHERLY",
         width: "30",
         unnacceptedstreetLength: "208",
@@ -2168,7 +2168,7 @@ module.exports = [
     },
     {
         name: "CRAWFORD",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CHATHAM",
         width: "40",
         streetLength: "223",
@@ -2177,7 +2177,7 @@ module.exports = [
     },
     {
         name: "CREIGHTON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "665",
@@ -2186,7 +2186,7 @@ module.exports = [
     },
     {
         name: "CRESCENT",
-        from: "OXFORD",
+        fromStreet: "OXFORD",
         to: "SACRAMENTO",
         width: "30",
         streetLength: "660",
@@ -2195,7 +2195,7 @@ module.exports = [
     },
     {
         name: "CRESTO TERR",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "NORTHERLY",
         width: "10",
         unnacceptedstreetLength: "65",
@@ -2203,7 +2203,7 @@ module.exports = [
     },
     {
         name: "CROSS",
-        from: "ALBANY",
+        fromStreet: "ALBANY",
         to: "LANDSDOWNE",
         width: "50",
         unnacceptedstreetLength: "480",
@@ -2211,7 +2211,7 @@ module.exports = [
     },
     {
         name: "CROSSLAND",
-        from: "CLARK",
+        fromStreet: "CLARK",
         to: "BRISTOL",
         width: "20",
         unnacceptedstreetLength: "202",
@@ -2219,7 +2219,7 @@ module.exports = [
     },
     {
         name: "CUSHING",
-        from: "BELMONT",
+        fromStreet: "BELMONT",
         to: "HURON AVE",
         width: "40",
         streetLength: "1815",
@@ -2228,13 +2228,13 @@ module.exports = [
     },
     {
         name: "CUSHING PK",
-        from: "CUSHING",
+        fromStreet: "CUSHING",
         to: "EASTERLY",
         noncity: " ",
     },
     {
         name: "CUTLER AVE",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "SOUTHERLY",
         width: "40",
         unnacceptedstreetLength: "142",
@@ -2242,7 +2242,7 @@ module.exports = [
     },
     {
         name: "CYPRESS",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "150",
@@ -2250,13 +2250,13 @@ module.exports = [
     },
     {
         name: "DANA PL",
-        from: "DANA",
+        fromStreet: "DANA",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "DANA-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HARVARD",
         width: "40",
         streetLength: "615",
@@ -2265,7 +2265,7 @@ module.exports = [
     },
     {
         name: "DANA-02",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BROADWAY",
         width: "40",
         streetLength: "555",
@@ -2274,7 +2274,7 @@ module.exports = [
     },
     {
         name: "DANA-03",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "845",
@@ -2283,7 +2283,7 @@ module.exports = [
     },
     {
         name: "DANFORTH",
-        from: "AMHERST ALLEY",
+        fromStreet: "AMHERST ALLEY",
         to: "MEMORIAL DRIVE",
         width: "60",
         unnacceptedstreetLength: "200",
@@ -2291,7 +2291,7 @@ module.exports = [
     },
     {
         name: "DAVENPORT-01",
-        from: "SOMERVILLE LINE",
+        fromStreet: "SOMERVILLE LINE",
         to: "WESTERLY",
         width: "35",
         streetLength: "415",
@@ -2300,7 +2300,7 @@ module.exports = [
     },
     {
         name: "DAVENPORT-02",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "EASTERLY",
         width: "35",
         streetLength: "200",
@@ -2309,7 +2309,7 @@ module.exports = [
     },
     {
         name: "DAVIS",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BROADWAY",
         width: "30",
         streetLength: "300",
@@ -2318,7 +2318,7 @@ module.exports = [
     },
     {
         name: "DAY",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "318",
@@ -2327,7 +2327,7 @@ module.exports = [
     },
     {
         name: "DEACON",
-        from: "DOCK",
+        fromStreet: "DOCK",
         to: "CARLETON",
         width: "30",
         streetLength: "230",
@@ -2336,7 +2336,7 @@ module.exports = [
     },
     {
         name: "DECATUR",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "477",
@@ -2345,7 +2345,7 @@ module.exports = [
     },
     {
         name: "DEWOLFE-01",
-        from: "BOW",
+        fromStreet: "BOW",
         to: "MT AUBURN",
         width: "40",
         streetLength: "75",
@@ -2354,7 +2354,7 @@ module.exports = [
     },
     {
         name: "DEWOLFE-02",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "800",
@@ -2363,7 +2363,7 @@ module.exports = [
     },
     {
         name: "DICKINSON",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "MOORE",
         width: "15",
         unnacceptedstreetLength: "490",
@@ -2371,7 +2371,7 @@ module.exports = [
     },
     {
         name: "DINSMORE CT",
-        from: "WILLARD",
+        fromStreet: "WILLARD",
         to: "WESTERLY",
         width: "22",
         unnacceptedstreetLength: "181",
@@ -2379,7 +2379,7 @@ module.exports = [
     },
     {
         name: "DIVINITY AVE",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "NORTHERLY",
         width: "70",
         unnacceptedstreetLength: "1100",
@@ -2387,7 +2387,7 @@ module.exports = [
     },
     {
         name: "DOANE",
-        from: "FOSTER",
+        fromStreet: "FOSTER",
         to: "KENWAY",
         width: "30",
         streetLength: "145",
@@ -2396,7 +2396,7 @@ module.exports = [
     },
     {
         name: "DOCK",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "DEACON",
         width: "30",
         streetLength: "197",
@@ -2406,7 +2406,7 @@ module.exports = [
     },
     {
         name: "DODGE",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "CALLENDER",
         width: "30",
         streetLength: "218",
@@ -2415,7 +2415,7 @@ module.exports = [
     },
     {
         name: "DONNELL",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "GARDEN",
         width: "30",
         streetLength: "680",
@@ -2424,7 +2424,7 @@ module.exports = [
     },
     {
         name: "DOTTIE DOYLE WAY",
-        from: "BIGELOW",
+        fromStreet: "BIGELOW",
         to: "INMAN",
         width: "20",
         streetLength: "205",
@@ -2432,7 +2432,7 @@ module.exports = [
     },
     {
         name: "DOUGLASS",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BISHOP ALLEN",
         width: "30",
         streetLength: "286",
@@ -2441,7 +2441,7 @@ module.exports = [
     },
     {
         name: "DOUGLASS CT",
-        from: "DOUGLASS",
+        fromStreet: "DOUGLASS",
         to: "WESTERLY",
         width: "18",
         unnacceptedstreetLength: "122",
@@ -2449,7 +2449,7 @@ module.exports = [
     },
     {
         name: "DOVER",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "380",
@@ -2458,7 +2458,7 @@ module.exports = [
     },
     {
         name: "DRUMMOND PL",
-        from: "NORRIS",
+        fromStreet: "NORRIS",
         to: "SOUTHERLY",
         width: "10",
         unnacceptedstreetLength: "140",
@@ -2466,7 +2466,7 @@ module.exports = [
     },
     {
         name: "DUDLEY CT",
-        from: "DUDLEY",
+        fromStreet: "DUDLEY",
         to: "SOUTHERLY",
         width: "14",
         unnacceptedstreetLength: "134",
@@ -2474,7 +2474,7 @@ module.exports = [
     },
     {
         name: "DUDLEY-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CEDAR",
         width: "40",
         streetLength: "440",
@@ -2483,7 +2483,7 @@ module.exports = [
     },
     {
         name: "DUDLEY-02",
-        from: "CEDAR",
+        fromStreet: "CEDAR",
         to: "MONTGOMERY",
         width: "40",
         streetLength: "590",
@@ -2492,7 +2492,7 @@ module.exports = [
     },
     {
         name: "DUDLEY-03",
-        from: "MONTGOMERY",
+        fromStreet: "MONTGOMERY",
         to: "CLIFTON",
         width: "40",
         streetLength: "796",
@@ -2501,7 +2501,7 @@ module.exports = [
     },
     {
         name: "DUNSTABLE RD",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "WESTERLY",
         width: "35",
         unnacceptedstreetLength: "315",
@@ -2509,7 +2509,7 @@ module.exports = [
     },
     {
         name: "DUNSTER-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MT AUBURN",
         width: "40",
         streetLength: "364",
@@ -2518,7 +2518,7 @@ module.exports = [
     },
     {
         name: "DUNSTER-02",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "SOUTH STREET",
         streetLength: "500",
         date: "1635",
@@ -2526,7 +2526,7 @@ module.exports = [
     },
     {
         name: "DUNSTER-03",
-        from: "SOUTH",
+        fromStreet: "SOUTH",
         to: "SOUTHERLY",
         date: "1960",
         unnacceptedstreetLength: "75",
@@ -2534,13 +2534,13 @@ module.exports = [
     },
     {
         name: "EARHEART",
-        from: "GLASSWORKS",
+        fromStreet: "GLASSWORKS",
         to: "NORTHPOINT BLVD",
         noncity: "X",
     },
     {
         name: "EAST",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "NORTHEASTERLY",
         width: "50",
         streetLength: "34",
@@ -2549,20 +2549,20 @@ module.exports = [
     },
     {
         name: "EAST KENDALL",
-        from: "ATHENAEUM",
+        fromStreet: "ATHENAEUM",
         to: "LINSKEY",
         noncity: "X",
     },
     {
         name: "EASTERN STATES RD",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "NORTHERLY",
         unnacceptedstreetLength: "562",
         noncity: "X",
     },
     {
         name: "EATON",
-        from: "CHERRY",
+        fromStreet: "CHERRY",
         to: "PINE",
         width: "30",
         streetLength: "200",
@@ -2571,7 +2571,7 @@ module.exports = [
     },
     {
         name: "EDMUNDS",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOUTHERLY",
         width: "30",
         streetLength: "279",
@@ -2580,7 +2580,7 @@ module.exports = [
     },
     {
         name: "EDUCATION",
-        from: "MUSEUM WAY",
+        fromStreet: "MUSEUM WAY",
         to: "N DEAD END @ DCR",
         streetLength: "825+/-",
         date: "2010",
@@ -2588,7 +2588,7 @@ module.exports = [
     },
     {
         name: "EIGHTH-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "THORNDIKE",
         width: "40",
         streetLength: "424",
@@ -2597,7 +2597,7 @@ module.exports = [
     },
     {
         name: "EIGHTH-02",
-        from: "THORNDIKE",
+        fromStreet: "THORNDIKE",
         to: "SPRING",
         width: "40",
         streetLength: "200",
@@ -2606,14 +2606,14 @@ module.exports = [
     },
     {
         name: "ELIOT-01",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "BENNETT",
         date: "1635",
         noncity: " ",
     },
     {
         name: "ELIOT-02",
-        from: "BENNETT",
+        fromStreet: "BENNETT",
         to: "JFK",
         width: "64",
         streetLength: "350",
@@ -2622,18 +2622,18 @@ module.exports = [
     },
     {
         name: "ELLERY PL",
-        from: "ELLERY @ CLEVELAND",
+        fromStreet: "ELLERY @ CLEVELAND",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "ELLERY SQUARE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         noncity: "X",
     },
     {
         name: "ELLERY-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HARVARD",
         width: "40",
         streetLength: "578",
@@ -2642,7 +2642,7 @@ module.exports = [
     },
     {
         name: "ELLERY-02",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BROADWAY",
         width: "40",
         streetLength: "600",
@@ -2651,7 +2651,7 @@ module.exports = [
     },
     {
         name: "ELLERY-03",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "725",
@@ -2660,7 +2660,7 @@ module.exports = [
     },
     {
         name: "ELLSWORTH AVE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "927",
@@ -2669,7 +2669,7 @@ module.exports = [
     },
     {
         name: "ELLSWORTH PK",
-        from: "ELLSWORTH AVE",
+        fromStreet: "ELLSWORTH AVE",
         to: "EASTERLY",
         width: "30",
         streetLength: "227",
@@ -2678,7 +2678,7 @@ module.exports = [
     },
     {
         name: "ELM",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "2485",
@@ -2687,7 +2687,7 @@ module.exports = [
     },
     {
         name: "ELMER",
-        from: "HINGHAM",
+        fromStreet: "HINGHAM",
         to: "NORTHERLY",
         width: "25",
         streetLength: "426",
@@ -2696,7 +2696,7 @@ module.exports = [
     },
     {
         name: "ELMWOOD",
-        from: "TROLLEY SQ PATH",
+        fromStreet: "TROLLEY SQ PATH",
         to: "SOMERVILLE LINE",
         width: "40",
         unnacceptedstreetLength: "170",
@@ -2704,7 +2704,7 @@ module.exports = [
     },
     {
         name: "ELMWOOD AVE",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "60",
         streetLength: "715",
@@ -2713,7 +2713,7 @@ module.exports = [
     },
     {
         name: "EMILY",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "BROOKLINE",
         width: "40",
         streetLength: "442",
@@ -2722,7 +2722,7 @@ module.exports = [
     },
     {
         name: "EMMETT PL",
-        from: "SIXTH (N OF BENT)",
+        fromStreet: "SIXTH (N OF BENT)",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "100",
@@ -2730,7 +2730,7 @@ module.exports = [
     },
     {
         name: "EMMONS PL",
-        from: "ROBERTS RD",
+        fromStreet: "ROBERTS RD",
         to: "WESTERLY",
         width: "18",
         unnacceptedstreetLength: "180",
@@ -2738,7 +2738,7 @@ module.exports = [
     },
     {
         name: "ENDICOTT",
-        from: "AMHERST ALLEY",
+        fromStreet: "AMHERST ALLEY",
         to: "MEMORIAL DRIVE",
         width: "60",
         unnacceptedstreetLength: "241",
@@ -2746,7 +2746,7 @@ module.exports = [
     },
     {
         name: "ERICSSON",
-        from: "BELMONT LINE",
+        fromStreet: "BELMONT LINE",
         to: "THINGVALLA AVE",
         width: "40",
         unnacceptedstreetLength: "100",
@@ -2754,7 +2754,7 @@ module.exports = [
     },
     {
         name: "ERICSSON CT",
-        from: "GREEN",
+        fromStreet: "GREEN",
         to: "NORTHERLY",
         width: "6",
         unnacceptedstreetLength: "95",
@@ -2762,7 +2762,7 @@ module.exports = [
     },
     {
         name: "ERIE-01",
-        from: "ALBANY",
+        fromStreet: "ALBANY",
         to: "BROOKLINE",
         width: "40",
         streetLength: "1000",
@@ -2771,7 +2771,7 @@ module.exports = [
     },
     {
         name: "ERIE-02",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "450",
@@ -2780,7 +2780,7 @@ module.exports = [
     },
     {
         name: "ERIE-03",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "450",
@@ -2789,7 +2789,7 @@ module.exports = [
     },
     {
         name: "ESSEX-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BISHOP ALLEN",
         width: "31",
         streetLength: "280",
@@ -2798,7 +2798,7 @@ module.exports = [
     },
     {
         name: "ESSEX-02",
-        from: "BISHOP ALLEN",
+        fromStreet: "BISHOP ALLEN",
         to: "HARVARD",
         width: "40",
         streetLength: "827",
@@ -2807,7 +2807,7 @@ module.exports = [
     },
     {
         name: "ESTEN",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "FENNO",
         width: "18",
         unnacceptedstreetLength: "390",
@@ -2815,7 +2815,7 @@ module.exports = [
     },
     {
         name: "EUSTIS",
-        from: "OXFORD",
+        fromStreet: "OXFORD",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "666",
@@ -2824,14 +2824,14 @@ module.exports = [
     },
     {
         name: "EVERETEZE WAY",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "WINDSOR",
         date: "1995",
         noncity: "X",
     },
     {
         name: "EVERETT",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "OXFORD",
         width: "50",
         streetLength: "848",
@@ -2840,7 +2840,7 @@ module.exports = [
     },
     {
         name: "EXETER PK",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "EASTERLY",
         width: "35",
         streetLength: "263",
@@ -2849,7 +2849,7 @@ module.exports = [
     },
     {
         name: "FAINWOOD CR",
-        from: "FAYETTE",
+        fromStreet: "FAYETTE",
         to: "WESTERLY",
         width: "25-30",
         streetLength: "352",
@@ -2858,7 +2858,7 @@ module.exports = [
     },
     {
         name: "FAIR OAKS",
-        from: "CAMERON",
+        fromStreet: "CAMERON",
         to: "CAMP",
         width: "40",
         streetLength: "200",
@@ -2867,7 +2867,7 @@ module.exports = [
     },
     {
         name: "FAIRFIELD",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "PEMBERTON",
         width: "40",
         streetLength: "610",
@@ -2876,7 +2876,7 @@ module.exports = [
     },
     {
         name: "FAIRMONT AVE",
-        from: "FAIRMONT",
+        fromStreet: "FAIRMONT",
         to: "ALLSTON",
         width: "30",
         streetLength: "430",
@@ -2885,7 +2885,7 @@ module.exports = [
     },
     {
         name: "FAIRMONT-01",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "30",
         streetLength: "697",
@@ -2894,7 +2894,7 @@ module.exports = [
     },
     {
         name: "FAIRMONT-02",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "RIVER",
         width: "30",
         streetLength: "470",
@@ -2903,7 +2903,7 @@ module.exports = [
     },
     {
         name: "FAIRVIEW AVE",
-        from: "OXFORD AVE",
+        fromStreet: "OXFORD AVE",
         to: "BELMONT LINE",
         width: "50",
         streetLength: "230",
@@ -2912,7 +2912,7 @@ module.exports = [
     },
     {
         name: "FALLON PL",
-        from: "BANKS",
+        fromStreet: "BANKS",
         to: "EASTERLY",
         width: "17",
         unnacceptedstreetLength: "154",
@@ -2920,7 +2920,7 @@ module.exports = [
     },
     {
         name: "FARRAR",
-        from: "SCOTT",
+        fromStreet: "SCOTT",
         to: "HOLDEN",
         width: "40",
         streetLength: "575",
@@ -2929,13 +2929,13 @@ module.exports = [
     },
     {
         name: "FARRELL WAY",
-        from: "INMAN",
+        fromStreet: "INMAN",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "FARWELL PL",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "EASTERLY",
         width: "30",
         streetLength: "370",
@@ -2944,7 +2944,7 @@ module.exports = [
     },
     {
         name: "FAWCETT",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "RAILWAY",
         width: "50",
         streetLength: "1230",
@@ -2953,7 +2953,7 @@ module.exports = [
     },
     {
         name: "FAWCETT ST EXT",
-        from: "RAILWAY",
+        fromStreet: "RAILWAY",
         to: "SMITH PL",
         width: "50",
         streetLength: "1178",
@@ -2962,7 +2962,7 @@ module.exports = [
     },
     {
         name: "FAYERWEATHER-01",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "308' S OF RESERVOIR",
         width: "48",
         streetLength: "310",
@@ -2971,7 +2971,7 @@ module.exports = [
     },
     {
         name: "FAYERWEATHER-02",
-        from: "308' S OF RESERVOIR",
+        fromStreet: "308' S OF RESERVOIR",
         to: "VASSAL LN",
         width: "50",
         streetLength: "1935",
@@ -2980,7 +2980,7 @@ module.exports = [
     },
     {
         name: "FAYERWEATHER-03",
-        from: "VASSAL LN",
+        fromStreet: "VASSAL LN",
         to: "CONCORD AVE",
         width: "50",
         streetLength: "535",
@@ -2989,7 +2989,7 @@ module.exports = [
     },
     {
         name: "FAYERWEATHER-04",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "WALDEN",
         width: "50",
         streetLength: "692",
@@ -2998,7 +2998,7 @@ module.exports = [
     },
     {
         name: "FAYETTE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1266",
@@ -3007,7 +3007,7 @@ module.exports = [
     },
     {
         name: "FAYETTE PK",
-        from: "FAYETTE",
+        fromStreet: "FAYETTE",
         to: "WESTERLY",
         width: "20",
         unnacceptedstreetLength: "110",
@@ -3015,7 +3015,7 @@ module.exports = [
     },
     {
         name: "FELTON",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "412",
@@ -3024,7 +3024,7 @@ module.exports = [
     },
     {
         name: "FENNO-01",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "SHERMAN",
         width: "40",
         streetLength: "238",
@@ -3033,7 +3033,7 @@ module.exports = [
     },
     {
         name: "FENNO-02",
-        from: "SHERMAN",
+        fromStreet: "SHERMAN",
         to: "ESTEN",
         width: "40",
         streetLength: "368",
@@ -3042,7 +3042,7 @@ module.exports = [
     },
     {
         name: "FERN",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "FIELD",
         width: "50",
         streetLength: "465",
@@ -3051,7 +3051,7 @@ module.exports = [
     },
     {
         name: "FERNALD DR",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "ROBINSON",
         width: "40",
         streetLength: "666",
@@ -3060,7 +3060,7 @@ module.exports = [
     },
     {
         name: "FIELD",
-        from: "FAYERWEATHER",
+        fromStreet: "FAYERWEATHER",
         to: "BAY STATE RD",
         width: "40",
         streetLength: "1234",
@@ -3069,7 +3069,7 @@ module.exports = [
     },
     {
         name: "FIFTH-01",
-        from: "WINTER",
+        fromStreet: "WINTER",
         to: "GORE",
         width: "50",
         streetLength: "200",
@@ -3078,7 +3078,7 @@ module.exports = [
     },
     {
         name: "FIFTH-02",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "SPRING",
         width: "50",
         streetLength: "900",
@@ -3087,7 +3087,7 @@ module.exports = [
     },
     {
         name: "FIFTH-03",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "CHARLES",
         width: "50",
         streetLength: "450",
@@ -3096,7 +3096,7 @@ module.exports = [
     },
     {
         name: "FIFTH-04",
-        from: "CHARLES",
+        fromStreet: "CHARLES",
         to: "BENT",
         width: "50",
         streetLength: "200",
@@ -3105,7 +3105,7 @@ module.exports = [
     },
     {
         name: "FIFTH-05",
-        from: "BENT",
+        fromStreet: "BENT",
         to: "BINNEY",
         width: "50",
         unnacceptedstreetLength: "500",
@@ -3113,7 +3113,7 @@ module.exports = [
     },
     {
         name: "FIFTH-06",
-        from: "MUNROE",
+        fromStreet: "MUNROE",
         to: "POTTER",
         width: "50",
         unnacceptedstreetLength: "345+/-",
@@ -3121,7 +3121,7 @@ module.exports = [
     },
     {
         name: "FIRST-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "OTIS",
         width: "50",
         streetLength: "300",
@@ -3130,7 +3130,7 @@ module.exports = [
     },
     {
         name: "FIRST-02",
-        from: "OTIS",
+        fromStreet: "OTIS",
         to: "THORNDIKE",
         width: "50",
         streetLength: "200",
@@ -3139,7 +3139,7 @@ module.exports = [
     },
     {
         name: "FIRST-03",
-        from: "THORNDIKE",
+        fromStreet: "THORNDIKE",
         to: "HURLEY",
         width: "60",
         streetLength: "450",
@@ -3148,7 +3148,7 @@ module.exports = [
     },
     {
         name: "FIRST-04",
-        from: "HURLEY",
+        fromStreet: "HURLEY",
         to: "BINNEY",
         width: "60",
         streetLength: "995",
@@ -3157,7 +3157,7 @@ module.exports = [
     },
     {
         name: "FIRST-05",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "LAND BLVD",
         width: "60",
         streetLength: "465",
@@ -3166,7 +3166,7 @@ module.exports = [
     },
     {
         name: "FIRST-06",
-        from: "LAND BLVD",
+        fromStreet: "LAND BLVD",
         to: "BROAD CANAL",
         width: "60",
         streetLength: "465",
@@ -3175,7 +3175,7 @@ module.exports = [
     },
     {
         name: "FIRST-07",
-        from: "BROAD CANAL",
+        fromStreet: "BROAD CANAL",
         to: "(BRIDGE ONLY)",
         width: "60",
         date: "2010",
@@ -3183,7 +3183,7 @@ module.exports = [
     },
     {
         name: "FIRST-08",
-        from: "BROAD CANAL",
+        fromStreet: "BROAD CANAL",
         to: "MAIN",
         width: "60",
         streetLength: "375",
@@ -3192,7 +3192,7 @@ module.exports = [
     },
     {
         name: "FISKE PL",
-        from: "WASHINGTON",
+        fromStreet: "WASHINGTON",
         to: "SOUTHERLY",
         width: "30",
         unnacceptedstreetLength: "206",
@@ -3200,7 +3200,7 @@ module.exports = [
     },
     {
         name: "FLAGG",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "664",
@@ -3209,7 +3209,7 @@ module.exports = [
     },
     {
         name: "FLORENCE",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "493",
@@ -3218,7 +3218,7 @@ module.exports = [
     },
     {
         name: "FLORENCE PL",
-        from: "NORFOLK (@ WASHINGTON)",
+        fromStreet: "NORFOLK (@ WASHINGTON)",
         to: "WESTERLY",
         width: "7",
         unnacceptedstreetLength: "70",
@@ -3226,7 +3226,7 @@ module.exports = [
     },
     {
         name: "FOCH",
-        from: "NEWMAN",
+        fromStreet: "NEWMAN",
         to: "GLADSTONE",
         width: "30",
         streetLength: "437",
@@ -3235,7 +3235,7 @@ module.exports = [
     },
     {
         name: "FOLLEN",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "WATERHOUSE",
         width: "30-40",
         streetLength: "940",
@@ -3244,13 +3244,13 @@ module.exports = [
     },
     {
         name: "FOLLEN LN",
-        from: "FOLLEN",
+        fromStreet: "FOLLEN",
         to: "NORTHERLY",
         noncity: "X",
     },
     {
         name: "FOREST",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "916",
@@ -3259,7 +3259,7 @@ module.exports = [
     },
     {
         name: "FORT WASHINGTON PL",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "PUTNAM CT",
         width: "18",
         unnacceptedstreetLength: "20",
@@ -3267,7 +3267,7 @@ module.exports = [
     },
     {
         name: "FOSTER PL",
-        from: "FOSTER",
+        fromStreet: "FOSTER",
         to: "NORTHERLY",
         width: "15",
         unnacceptedstreetLength: "200",
@@ -3275,7 +3275,7 @@ module.exports = [
     },
     {
         name: "FOSTER-01",
-        from: "WILLARD",
+        fromStreet: "WILLARD",
         to: "SPARKS",
         width: "40",
         streetLength: "621",
@@ -3284,7 +3284,7 @@ module.exports = [
     },
     {
         name: "FOSTER-02",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "LOWELL",
         width: "40",
         streetLength: "779",
@@ -3293,7 +3293,7 @@ module.exports = [
     },
     {
         name: "FOUNTAIN TERR",
-        from: "HOLWORTHY",
+        fromStreet: "HOLWORTHY",
         to: "HURON AVE",
         width: "70-160",
         streetLength: "250",
@@ -3302,7 +3302,7 @@ module.exports = [
     },
     {
         name: "FOURTH ST PL",
-        from: "SCIARAPPA",
+        fromStreet: "SCIARAPPA",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "80",
@@ -3310,7 +3310,7 @@ module.exports = [
     },
     {
         name: "FOWLER",
-        from: "AMHERST ALLEY",
+        fromStreet: "AMHERST ALLEY",
         to: "MEMORIAL DR",
         width: "60",
         unnacceptedstreetLength: "110",
@@ -3318,7 +3318,7 @@ module.exports = [
     },
     {
         name: "FRANCES PL",
-        from: "MONTGOMERY",
+        fromStreet: "MONTGOMERY",
         to: "WESTERLY",
         width: "16",
         unnacceptedstreetLength: "100",
@@ -3326,7 +3326,7 @@ module.exports = [
     },
     {
         name: "FRANCIS AVE-01",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "BRYANT",
         width: "45",
         streetLength: "867",
@@ -3335,7 +3335,7 @@ module.exports = [
     },
     {
         name: "FRANCIS AVE-02",
-        from: "BRYANT",
+        fromStreet: "BRYANT",
         to: "ANGLE",
         width: "45",
         streetLength: "325",
@@ -3344,7 +3344,7 @@ module.exports = [
     },
     {
         name: "FRANCIS AVE-03",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "IRVING",
         width: "40",
         streetLength: "350",
@@ -3353,7 +3353,7 @@ module.exports = [
     },
     {
         name: "FRANCIS AVE-04",
-        from: "IRVING",
+        fromStreet: "IRVING",
         to: "EASTERLY",
         width: "40",
         unnacceptedstreetLength: "217",
@@ -3361,7 +3361,7 @@ module.exports = [
     },
     {
         name: "FRANKLIN PL",
-        from: "FRANKLIN",
+        fromStreet: "FRANKLIN",
         to: "NORTHERLY",
         width: "10",
         unnacceptedstreetLength: "92",
@@ -3369,7 +3369,7 @@ module.exports = [
     },
     {
         name: "FRANKLIN-01",
-        from: "LANDSDOWNE",
+        fromStreet: "LANDSDOWNE",
         to: "SIDNEY",
         width: "40",
         streetLength: "429",
@@ -3378,7 +3378,7 @@ module.exports = [
     },
     {
         name: "FRANKLIN-02",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "BROOKLINE",
         width: "40",
         streetLength: "550",
@@ -3387,7 +3387,7 @@ module.exports = [
     },
     {
         name: "FRANKLIN-03",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "1191",
@@ -3396,7 +3396,7 @@ module.exports = [
     },
     {
         name: "FRANKLIN-04",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "PUTNAM AVE",
         width: "40",
         streetLength: "2149",
@@ -3405,7 +3405,7 @@ module.exports = [
     },
     {
         name: "FRESH POND LN",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "FRESH POND PKWY",
         width: "50",
         streetLength: "1550",
@@ -3414,13 +3414,13 @@ module.exports = [
     },
     {
         name: "FRESH POND PKWY",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "CONCORD AVE",
         noncity: "X",
     },
     {
         name: "FRISBEE PL",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "NORTHERLY",
         width: "40",
         unnacceptedstreetLength: "440",
@@ -3428,7 +3428,7 @@ module.exports = [
     },
     {
         name: "FRONT",
-        from: "WINDSOR",
+        fromStreet: "WINDSOR",
         to: "MASS AVE",
         width: "40",
         streetLength: "180",
@@ -3437,7 +3437,7 @@ module.exports = [
     },
     {
         name: "FROST",
-        from: "ROSELAND",
+        fromStreet: "ROSELAND",
         to: "PRENTISS",
         width: "40",
         streetLength: "755",
@@ -3446,7 +3446,7 @@ module.exports = [
     },
     {
         name: "FROST TERR",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "130",
@@ -3454,7 +3454,7 @@ module.exports = [
     },
     {
         name: "FULKERSON-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "OTIS",
         width: "50",
         streetLength: "210",
@@ -3463,7 +3463,7 @@ module.exports = [
     },
     {
         name: "FULKERSON-02",
-        from: "OTIS",
+        fromStreet: "OTIS",
         to: "SPRING",
         width: "50",
         streetLength: "460",
@@ -3472,7 +3472,7 @@ module.exports = [
     },
     {
         name: "FULKERSON-03",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "HURLEY",
         width: "50",
         streetLength: "220",
@@ -3481,7 +3481,7 @@ module.exports = [
     },
     {
         name: "FULKERSON-04",
-        from: "HURLEY",
+        fromStreet: "HURLEY",
         to: "CHARLES",
         width: "50",
         streetLength: "220",
@@ -3490,7 +3490,7 @@ module.exports = [
     },
     {
         name: "FULKERSON-05",
-        from: "CHARLES",
+        fromStreet: "CHARLES",
         to: "BINNEY",
         width: "50",
         streetLength: "700",
@@ -3499,7 +3499,7 @@ module.exports = [
     },
     {
         name: "FULKERSON-06",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "POTTER",
         width: "50",
         unnacceptedstreetLength: "327",
@@ -3507,7 +3507,7 @@ module.exports = [
     },
     {
         name: "FULLER PL",
-        from: "HILLIARD",
+        fromStreet: "HILLIARD",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "160",
@@ -3515,7 +3515,7 @@ module.exports = [
     },
     {
         name: "GALILEO GALILEI WAY-01",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "BROADWAY",
         width: "100",
         streetLength: "594",
@@ -3524,7 +3524,7 @@ module.exports = [
     },
     {
         name: "GALILEO GALILEI WAY-02",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "BINNEY",
         width: "100",
         streetLength: "639",
@@ -3533,20 +3533,20 @@ module.exports = [
     },
     {
         name: "GARDEN CT",
-        from: "HURON (S OF GARDEN)",
+        fromStreet: "HURON (S OF GARDEN)",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "GARDEN LN",
-        from: "GARDEN (W OF SHEPARD)",
+        fromStreet: "GARDEN (W OF SHEPARD)",
         to: "SOUTHERLY",
         unnacceptedstreetLength: "250",
         noncity: "X",
     },
     {
         name: "GARDEN TER",
-        from: "GARDEN (@ FERNALD)",
+        fromStreet: "GARDEN (@ FERNALD)",
         to: "SOUTHERLY",
         width: "30",
         unnacceptedstreetLength: "248",
@@ -3554,7 +3554,7 @@ module.exports = [
     },
     {
         name: "GARDEN-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WATERHOUSE",
         width: "70",
         streetLength: "1278",
@@ -3563,7 +3563,7 @@ module.exports = [
     },
     {
         name: "GARDEN-02",
-        from: "WATERHOUSE",
+        fromStreet: "WATERHOUSE",
         to: "CHAUNCY",
         width: "60",
         streetLength: "700",
@@ -3572,7 +3572,7 @@ module.exports = [
     },
     {
         name: "GARDEN-03",
-        from: "CHAUNCY",
+        fromStreet: "CHAUNCY",
         to: "LINNAEAN",
         width: "50-60",
         streetLength: "1311",
@@ -3581,7 +3581,7 @@ module.exports = [
     },
     {
         name: "GARDEN-04",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "HURON AVE",
         width: "50",
         streetLength: "972",
@@ -3590,7 +3590,7 @@ module.exports = [
     },
     {
         name: "GARDEN-05",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "WALDEN",
         width: "40",
         streetLength: "1000",
@@ -3599,7 +3599,7 @@ module.exports = [
     },
     {
         name: "GARDEN-06",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "FIELD",
         width: "40",
         streetLength: "1600",
@@ -3608,7 +3608,7 @@ module.exports = [
     },
     {
         name: "GARDNER RD",
-        from: "TREMONT",
+        fromStreet: "TREMONT",
         to: "PROSPECT",
         width: "30",
         streetLength: "280",
@@ -3617,7 +3617,7 @@ module.exports = [
     },
     {
         name: "GARFIELD",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "OXFORD",
         width: "50",
         streetLength: "848",
@@ -3626,7 +3626,7 @@ module.exports = [
     },
     {
         name: "GEORGE",
-        from: "MONTGOMERY",
+        fromStreet: "MONTGOMERY",
         to: "CLAY",
         width: "20",
         unnacceptedstreetLength: "240",
@@ -3634,7 +3634,7 @@ module.exports = [
     },
     {
         name: "GERRY",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "ROSS",
         width: "20",
         streetLength: "375",
@@ -3643,13 +3643,13 @@ module.exports = [
     },
     {
         name: "GERRY'S LANDING RD",
-        from: "FRESH POND PKWAY",
+        fromStreet: "FRESH POND PKWAY",
         to: "GREENOUGH BLVD",
         noncity: "X",
     },
     {
         name: "GIBSON ST",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "FOSTER",
         width: "40",
         streetLength: "484",
@@ -3658,13 +3658,13 @@ module.exports = [
     },
     {
         name: "GIBSON TERR",
-        from: "GIBSON",
+        fromStreet: "GIBSON",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "GILMORE",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "120",
@@ -3673,7 +3673,7 @@ module.exports = [
     },
     {
         name: "GLADSTONE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "FOCH",
         width: "30",
         streetLength: "257",
@@ -3682,19 +3682,19 @@ module.exports = [
     },
     {
         name: "GLASSWORKS AVE-01",
-        from: "EAST",
+        fromStreet: "EAST",
         to: "LEIGHTON",
         noncity: "X",
     },
     {
         name: "GLASSWORKS AVE-02",
-        from: "LEIGHTON",
+        fromStreet: "LEIGHTON",
         to: "CHARLESTOWN AVE",
         noncity: "X",
     },
     {
         name: "GLENN TERR",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "EASTERLY",
         width: "8",
         unnacceptedstreetLength: "40",
@@ -3702,7 +3702,7 @@ module.exports = [
     },
     {
         name: "GLENWOOD AVE",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "476",
@@ -3711,7 +3711,7 @@ module.exports = [
     },
     {
         name: "GOLD STAR RD CT",
-        from: "GOLD STAR RD",
+        fromStreet: "GOLD STAR RD",
         to: "WESTERLY",
         width: "20",
         unnacceptedstreetLength: "122",
@@ -3719,7 +3719,7 @@ module.exports = [
     },
     {
         name: "GOLD STAR RD PL",
-        from: "GOLD STAR RD",
+        fromStreet: "GOLD STAR RD",
         to: "WESTERLY",
         width: "20",
         unnacceptedstreetLength: "105",
@@ -3727,7 +3727,7 @@ module.exports = [
     },
     {
         name: "GOLD STAR RD-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SEVEN PINES AVE",
         width: "40",
         streetLength: "560",
@@ -3736,7 +3736,7 @@ module.exports = [
     },
     {
         name: "GOLD STAR RD-02",
-        from: "SEVEN PINES AVE",
+        fromStreet: "SEVEN PINES AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "80",
@@ -3745,7 +3745,7 @@ module.exports = [
     },
     {
         name: "GOODMAN RD",
-        from: "CHATHAM",
+        fromStreet: "CHATHAM",
         to: "BROADWAY",
         width: "35",
         streetLength: "245",
@@ -3754,7 +3754,7 @@ module.exports = [
     },
     {
         name: "GORDON PL",
-        from: "FLORENCE",
+        fromStreet: "FLORENCE",
         to: "SOUTHERLY",
         width: "25",
         unnacceptedstreetLength: "230",
@@ -3762,7 +3762,7 @@ module.exports = [
     },
     {
         name: "GORE",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "2524",
@@ -3771,7 +3771,7 @@ module.exports = [
     },
     {
         name: "GORE ST PL",
-        from: "GORE (E OF SIXTH)",
+        fromStreet: "GORE (E OF SIXTH)",
         to: "SOUTHERLY",
         width: "10",
         unnacceptedstreetLength: "55",
@@ -3779,7 +3779,7 @@ module.exports = [
     },
     {
         name: "GORHAM-01",
-        from: "WENDELL",
+        fromStreet: "WENDELL",
         to: "NORTHERLY",
         width: "40",
         unnacceptedstreetLength: "147",
@@ -3787,7 +3787,7 @@ module.exports = [
     },
     {
         name: "GORHAM-02",
-        from: "WENDELL",
+        fromStreet: "WENDELL",
         to: "HAMMOND",
         width: "40",
         streetLength: "311",
@@ -3796,7 +3796,7 @@ module.exports = [
     },
     {
         name: "GORHAM-03",
-        from: "HAMMOND",
+        fromStreet: "HAMMOND",
         to: "MUSEUM",
         width: "40",
         streetLength: "155",
@@ -3805,7 +3805,7 @@ module.exports = [
     },
     {
         name: "GRACEWOOD PK",
-        from: "LEXINGTON AVE",
+        fromStreet: "LEXINGTON AVE",
         to: "EASTERLY",
         width: "40",
         unnacceptedstreetLength: "123",
@@ -3813,7 +3813,7 @@ module.exports = [
     },
     {
         name: "GRANITE-01",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PEARL",
         width: "40",
         streetLength: "440",
@@ -3822,7 +3822,7 @@ module.exports = [
     },
     {
         name: "GRANITE-02",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "BROOKLINE",
         width: "40",
         streetLength: "541",
@@ -3831,7 +3831,7 @@ module.exports = [
     },
     {
         name: "GRANT",
-        from: "BANKS",
+        fromStreet: "BANKS",
         to: "DEWOLFE",
         width: "40",
         streetLength: "590",
@@ -3840,7 +3840,7 @@ module.exports = [
     },
     {
         name: "GRANVILLE RD-01",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "VASSAL LN",
         width: "40",
         streetLength: "516",
@@ -3849,7 +3849,7 @@ module.exports = [
     },
     {
         name: "GRANVILLE RD-02",
-        from: "VASSAL LN",
+        fromStreet: "VASSAL LN",
         to: "SAVILLE",
         width: "40",
         streetLength: "340",
@@ -3858,7 +3858,7 @@ module.exports = [
     },
     {
         name: "GRAY",
-        from: "MARTIN",
+        fromStreet: "MARTIN",
         to: "LINNAEAN",
         width: "40",
         streetLength: "478",
@@ -3867,7 +3867,7 @@ module.exports = [
     },
     {
         name: "GRAY GARDENS E",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "RAYMOND",
         width: "40-24-28",
         streetLength: "900",
@@ -3876,7 +3876,7 @@ module.exports = [
     },
     {
         name: "GRAY GARDENS W",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "WESTERLY",
         width: "40-25",
         streetLength: "400",
@@ -3885,7 +3885,7 @@ module.exports = [
     },
     {
         name: "GREEN-01",
-        from: "LANDSDOWNE",
+        fromStreet: "LANDSDOWNE",
         to: "BLANCHE",
         width: "40",
         streetLength: "390",
@@ -3894,7 +3894,7 @@ module.exports = [
     },
     {
         name: "GREEN-02",
-        from: "BLANCHE",
+        fromStreet: "BLANCHE",
         to: "SIDNEY",
         width: "40",
         streetLength: "160",
@@ -3903,7 +3903,7 @@ module.exports = [
     },
     {
         name: "GREEN-03",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "BROOKLINE",
         width: "40",
         streetLength: "570",
@@ -3912,7 +3912,7 @@ module.exports = [
     },
     {
         name: "GREEN-04",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "400",
@@ -3921,7 +3921,7 @@ module.exports = [
     },
     {
         name: "GREEN-05",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "460",
@@ -3930,7 +3930,7 @@ module.exports = [
     },
     {
         name: "GREEN-06",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "460",
@@ -3939,7 +3939,7 @@ module.exports = [
     },
     {
         name: "GREEN-07",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "BAY",
         width: "40",
         streetLength: "1550",
@@ -3948,7 +3948,7 @@ module.exports = [
     },
     {
         name: "GREEN-08",
-        from: "BAY",
+        fromStreet: "BAY",
         to: "PUTNAM AVE",
         width: "40",
         streetLength: "740",
@@ -3957,7 +3957,7 @@ module.exports = [
     },
     {
         name: "GREEN-09",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "WESTERLY",
         width: "40",
         unnacceptedstreetLength: "200",
@@ -3965,7 +3965,7 @@ module.exports = [
     },
     {
         name: "GREENOUGH AVE",
-        from: "HIGHLAND AVE",
+        fromStreet: "HIGHLAND AVE",
         to: "ELLSWORTH AVE",
         width: "40",
         streetLength: "306",
@@ -3974,7 +3974,7 @@ module.exports = [
     },
     {
         name: "GREENOUGH BLVD",
-        from: "WATERTOWN LINE",
+        fromStreet: "WATERTOWN LINE",
         to: "MEMORIAL DR",
         width: "75",
         date: "1972",
@@ -3983,7 +3983,7 @@ module.exports = [
     },
     {
         name: "GRISWOLD",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "LOOMIS",
         width: "40",
         streetLength: "1000",
@@ -3992,7 +3992,7 @@ module.exports = [
     },
     {
         name: "GROVE AVE",
-        from: "ALLSTON",
+        fromStreet: "ALLSTON",
         to: "PUTNAM AVE",
         width: "30",
         unnacceptedstreetLength: "300",
@@ -4000,7 +4000,7 @@ module.exports = [
     },
     {
         name: "GROZIER RD-01",
-        from: "150' N OF HURON",
+        fromStreet: "150' N OF HURON",
         to: "HURON AVE",
         width: "45",
         streetLength: "160",
@@ -4009,7 +4009,7 @@ module.exports = [
     },
     {
         name: "GROZIER RD-02",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "100' N OF FR POND PKWY",
         width: "44",
         streetLength: "1041",
@@ -4018,7 +4018,7 @@ module.exports = [
     },
     {
         name: "GROZIER RD-03",
-        from: "100' N OF FR POND PKWY",
+        fromStreet: "100' N OF FR POND PKWY",
         to: "FRESH POND PKWY",
         width: "44",
         date: "1899",
@@ -4026,7 +4026,7 @@ module.exports = [
     },
     {
         name: "GURNEY",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "585",
@@ -4035,7 +4035,7 @@ module.exports = [
     },
     {
         name: "HADLEY",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "NORTHEASTERLY",
         width: "30",
         streetLength: "330",
@@ -4044,7 +4044,7 @@ module.exports = [
     },
     {
         name: "HAMILTON PL",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "NORTHERLY",
         width: "27",
         date: "1981",
@@ -4053,7 +4053,7 @@ module.exports = [
     },
     {
         name: "HAMILTON-01",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "BROOKLINE",
         width: "40",
         streetLength: "400",
@@ -4062,7 +4062,7 @@ module.exports = [
     },
     {
         name: "HAMILTON-02",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "492",
@@ -4071,7 +4071,7 @@ module.exports = [
     },
     {
         name: "HAMILTON-03",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "451",
@@ -4080,7 +4080,7 @@ module.exports = [
     },
     {
         name: "HAMLIN",
-        from: "PLYMOUTH",
+        fromStreet: "PLYMOUTH",
         to: "YORK",
         width: "40",
         streetLength: "217",
@@ -4089,7 +4089,7 @@ module.exports = [
     },
     {
         name: "HAMMOND",
-        from: "OXFORD",
+        fromStreet: "OXFORD",
         to: "CARVER",
         width: "40",
         streetLength: "1135",
@@ -4098,7 +4098,7 @@ module.exports = [
     },
     {
         name: "HAMPSHIRE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "SOMERVILLE LINE",
         width: "66",
         streetLength: "4410",
@@ -4107,7 +4107,7 @@ module.exports = [
     },
     {
         name: "HAMPSHIRE CT",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "NORTHERLY",
         width: "18",
         unnacceptedstreetLength: "120",
@@ -4115,7 +4115,7 @@ module.exports = [
     },
     {
         name: "HANCOCK PK",
-        from: "HANCOCK",
+        fromStreet: "HANCOCK",
         to: "EASTERLY",
         width: "24",
         unnacceptedstreetLength: "125",
@@ -4123,7 +4123,7 @@ module.exports = [
     },
     {
         name: "HANCOCK PL",
-        from: "HANCOCK",
+        fromStreet: "HANCOCK",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "94",
@@ -4131,7 +4131,7 @@ module.exports = [
     },
     {
         name: "HANCOCK-01",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HARVARD",
         width: "40",
         streetLength: "450",
@@ -4140,7 +4140,7 @@ module.exports = [
     },
     {
         name: "HANCOCK-02",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "MASS AVE",
         width: "40",
         streetLength: "735",
@@ -4149,7 +4149,7 @@ module.exports = [
     },
     {
         name: "HANCOCK-03",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "FRANKLIN",
         width: "26",
         streetLength: "470",
@@ -4158,7 +4158,7 @@ module.exports = [
     },
     {
         name: "HANCOCK-04",
-        from: "FRANKLIN",
+        fromStreet: "FRANKLIN",
         to: "KINNIAIRD",
         width: "30",
         streetLength: "164",
@@ -4167,7 +4167,7 @@ module.exports = [
     },
     {
         name: "HARDING",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "550",
@@ -4176,7 +4176,7 @@ module.exports = [
     },
     {
         name: "HARDWICK",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "BERKSHIRE",
         width: "40",
         streetLength: "300",
@@ -4185,7 +4185,7 @@ module.exports = [
     },
     {
         name: "HAROLD PL",
-        from: "CHERRY",
+        fromStreet: "CHERRY",
         to: "WESTERLY",
         width: "12",
         unnacceptedstreetLength: "85",
@@ -4193,7 +4193,7 @@ module.exports = [
     },
     {
         name: "HARRINGTON RD",
-        from: "HARVEY",
+        fromStreet: "HARVEY",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "410",
@@ -4202,7 +4202,7 @@ module.exports = [
     },
     {
         name: "HARRINGTON TERR",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "130",
@@ -4210,7 +4210,7 @@ module.exports = [
     },
     {
         name: "HARRIS",
-        from: "PRENTISS",
+        fromStreet: "PRENTISS",
         to: "EUSTIS",
         width: "30",
         unnacceptedstreetLength: "426",
@@ -4218,7 +4218,7 @@ module.exports = [
     },
     {
         name: "HARRISON AVE",
-        from: "COLUMBUS AVE",
+        fromStreet: "COLUMBUS AVE",
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "451",
@@ -4227,7 +4227,7 @@ module.exports = [
     },
     {
         name: "HARVARD",
-        from: "PORTLAND",
+        fromStreet: "PORTLAND",
         to: "MASS AVE",
         width: "50",
         streetLength: "6910",
@@ -4236,7 +4236,7 @@ module.exports = [
     },
     {
         name: "HARVEY-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CEDAR",
         width: "40",
         streetLength: "125",
@@ -4245,7 +4245,7 @@ module.exports = [
     },
     {
         name: "HARVEY-02",
-        from: "CEDAR",
+        fromStreet: "CEDAR",
         to: "W OF MONTGOMERY",
         width: "30",
         streetLength: "760",
@@ -4254,7 +4254,7 @@ module.exports = [
     },
     {
         name: "HARVEY-03",
-        from: "W OF MONTGOMERY",
+        fromStreet: "W OF MONTGOMERY",
         to: "RAILWAY",
         width: "30",
         streetLength: "950",
@@ -4263,7 +4263,7 @@ module.exports = [
     },
     {
         name: "HARWELL DR",
-        from: "WINDSOR",
+        fromStreet: "WINDSOR",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "160",
@@ -4271,7 +4271,7 @@ module.exports = [
     },
     {
         name: "HASKELL-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RINDGE AVE",
         width: "40",
         streetLength: "503",
@@ -4280,7 +4280,7 @@ module.exports = [
     },
     {
         name: "HASKELL-02",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "PEMBERTON",
         width: "40",
         streetLength: "770",
@@ -4289,7 +4289,7 @@ module.exports = [
     },
     {
         name: "HASTINGS AVE",
-        from: "PHILLIPS PL",
+        fromStreet: "PHILLIPS PL",
         to: "BERKELEY",
         width: "25",
         unnacceptedstreetLength: "527",
@@ -4297,7 +4297,7 @@ module.exports = [
     },
     {
         name: "HASTINGS SQ",
-        from: "HENRY",
+        fromStreet: "HENRY",
         to: "CHESTNUT",
         width: "40",
         streetLength: "300",
@@ -4306,7 +4306,7 @@ module.exports = [
     },
     {
         name: "HAWTHORN-01",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "40",
         streetLength: "662",
@@ -4315,14 +4315,14 @@ module.exports = [
     },
     {
         name: "HAWTHORN-02",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "MEMORIAL DR",
         date: "1921",
         noncity: "X",
     },
     {
         name: "HAWTHORNE PK",
-        from: "LEXINGTON AVE",
+        fromStreet: "LEXINGTON AVE",
         to: "WESTERLY",
         width: "40",
         streetLength: "200",
@@ -4331,7 +4331,7 @@ module.exports = [
     },
     {
         name: "HAYES",
-        from: "HOWARD",
+        fromStreet: "HOWARD",
         to: "DEAD END",
         width: "30",
         streetLength: "260",
@@ -4340,7 +4340,7 @@ module.exports = [
     },
     {
         name: "HAYWARD",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "AMHERST",
         width: "40",
         streetLength: "505",
@@ -4349,7 +4349,7 @@ module.exports = [
     },
     {
         name: "HAZEL",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "258",
@@ -4358,7 +4358,7 @@ module.exports = [
     },
     {
         name: "HEALEY",
-        from: "PARKER",
+        fromStreet: "PARKER",
         to: "BUCKINGHAM",
         width: "40",
         streetLength: "430",
@@ -4367,7 +4367,7 @@ module.exports = [
     },
     {
         name: "HEMLOCK RD",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "WESTERLY",
         width: "30",
         streetLength: "340",
@@ -4376,7 +4376,7 @@ module.exports = [
     },
     {
         name: "HENDERSON CT",
-        from: "DAY ST # 8 / 10",
+        fromStreet: "DAY ST # 8 / 10",
         to: "SOUTHEASTERLY",
         width: "15",
         unnacceptedstreetLength: "251",
@@ -4384,7 +4384,7 @@ module.exports = [
     },
     {
         name: "HENRY-01",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "SIDNEY",
         width: "40",
         streetLength: "903",
@@ -4393,7 +4393,7 @@ module.exports = [
     },
     {
         name: "HENRY-02",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "WAVERLY",
         width: "40",
         streetLength: "420",
@@ -4402,7 +4402,7 @@ module.exports = [
     },
     {
         name: "HERBERT",
-        from: "RICHDALE AVE",
+        fromStreet: "RICHDALE AVE",
         to: "CAMBRIDGE TERR",
         width: "30",
         streetLength: "197",
@@ -4411,7 +4411,7 @@ module.exports = [
     },
     {
         name: "HEWS",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "CALLENDER",
         width: "40",
         streetLength: "282",
@@ -4420,7 +4420,7 @@ module.exports = [
     },
     {
         name: "HIGH",
-        from: "PARK AVE",
+        fromStreet: "PARK AVE",
         to: "HOLWORTHY",
         width: "40",
         streetLength: "506",
@@ -4429,7 +4429,7 @@ module.exports = [
     },
     {
         name: "HIGHLAND AVE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1042",
@@ -4438,7 +4438,7 @@ module.exports = [
     },
     {
         name: "HIGHLAND PK",
-        from: "HIGHLAND AVE",
+        fromStreet: "HIGHLAND AVE",
         to: "EASTERLY",
         width: "30",
         streetLength: "150",
@@ -4447,7 +4447,7 @@ module.exports = [
     },
     {
         name: "HIGHLAND-01",
-        from: "RESERVOIR",
+        fromStreet: "RESERVOIR",
         to: "APPLETON",
         width: "40",
         streetLength: "643",
@@ -4456,7 +4456,7 @@ module.exports = [
     },
     {
         name: "HIGHLAND-02",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "SPARKS",
         width: "40",
         streetLength: "704",
@@ -4465,7 +4465,7 @@ module.exports = [
     },
     {
         name: "HILLIARD",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "30",
         streetLength: "620",
@@ -4474,7 +4474,7 @@ module.exports = [
     },
     {
         name: "HILLIARD PL",
-        from: "HILLIARD",
+        fromStreet: "HILLIARD",
         to: "WESTERLY",
         width: "15",
         unnacceptedstreetLength: "138",
@@ -4482,7 +4482,7 @@ module.exports = [
     },
     {
         name: "HILLSIDE AVE",
-        from: "WASHINGTON AVE",
+        fromStreet: "WASHINGTON AVE",
         to: "AVON HILL",
         width: "40",
         streetLength: "350",
@@ -4491,7 +4491,7 @@ module.exports = [
     },
     {
         name: "HILLSIDE PL",
-        from: "AVON HILL",
+        fromStreet: "AVON HILL",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "150",
@@ -4499,7 +4499,7 @@ module.exports = [
     },
     {
         name: "HINGHAM-01",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "BANKS",
         width: "40",
         streetLength: "303",
@@ -4508,7 +4508,7 @@ module.exports = [
     },
     {
         name: "HINGHAM-02",
-        from: "BANKS",
+        fromStreet: "BANKS",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "205",
@@ -4517,13 +4517,13 @@ module.exports = [
     },
     {
         name: "HOLDEN GREEN",
-        from: "HOLDEN",
+        fromStreet: "HOLDEN",
         to: "EASTERLY",
         noncity: "X",
     },
     {
         name: "HOLDEN-01",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "FARRAR",
         width: "40",
         streetLength: "273",
@@ -4532,7 +4532,7 @@ module.exports = [
     },
     {
         name: "HOLDEN-02",
-        from: "FARRAR",
+        fromStreet: "FARRAR",
         to: "SCOTT",
         width: "40",
         streetLength: "410",
@@ -4541,7 +4541,7 @@ module.exports = [
     },
     {
         name: "HOLLIS",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RINDGE AVE",
         width: "30",
         streetLength: "738",
@@ -4550,7 +4550,7 @@ module.exports = [
     },
     {
         name: "HOLLIS PK",
-        from: "HOLLIS",
+        fromStreet: "HOLLIS",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "160",
@@ -4558,7 +4558,7 @@ module.exports = [
     },
     {
         name: "HOLLY AVE",
-        from: "MADISON",
+        fromStreet: "MADISON",
         to: "HURON AVE",
         width: "30",
         streetLength: "376",
@@ -4567,7 +4567,7 @@ module.exports = [
     },
     {
         name: "HOLMES",
-        from: "PARK AVE",
+        fromStreet: "PARK AVE",
         to: "HOLWORTHY",
         width: "40",
         streetLength: "378",
@@ -4576,7 +4576,7 @@ module.exports = [
     },
     {
         name: "HOLWORTHY PL",
-        from: "HOLWORTHY",
+        fromStreet: "HOLWORTHY",
         to: "PARK AVE",
         width: "20",
         unnacceptedstreetLength: "488",
@@ -4584,7 +4584,7 @@ module.exports = [
     },
     {
         name: "HOLWORTHY TER",
-        from: "HOLWORTHY",
+        fromStreet: "HOLWORTHY",
         to: "WESTERLY",
         width: "22",
         unnacceptedstreetLength: "107",
@@ -4592,7 +4592,7 @@ module.exports = [
     },
     {
         name: "HOLWORTHY-01",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "FOUNTAIN TERR",
         width: "50",
         streetLength: "1580",
@@ -4601,7 +4601,7 @@ module.exports = [
     },
     {
         name: "HOLWORTHY-02",
-        from: "FOUNTAIN TER",
+        fromStreet: "FOUNTAIN TER",
         to: "HURON AVE",
         width: "40-50",
         streetLength: "370",
@@ -4610,7 +4610,7 @@ module.exports = [
     },
     {
         name: "HOLYOKE PL",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "HOLYOKE",
         width: "30",
         unnacceptedstreetLength: "372",
@@ -4618,7 +4618,7 @@ module.exports = [
     },
     {
         name: "HOLYOKE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "S BKSW WINTHROP",
         width: "31",
         streetLength: "605",
@@ -4627,7 +4627,7 @@ module.exports = [
     },
     {
         name: "HOLYOKE-02",
-        from: "WINTHROP",
+        fromStreet: "WINTHROP",
         to: "MILL",
         width: "20",
         unnacceptedstreetLength: "260",
@@ -4635,7 +4635,7 @@ module.exports = [
     },
     {
         name: "HOMER AVE",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "NORTHERLY",
         width: "40",
         streetLength: "650",
@@ -4644,7 +4644,7 @@ module.exports = [
     },
     {
         name: "HOOPER PL",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "80",
@@ -4652,7 +4652,7 @@ module.exports = [
     },
     {
         name: "HOUGHTON",
-        from: "PROSPECT",
+        fromStreet: "PROSPECT",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "36",
@@ -4661,7 +4661,7 @@ module.exports = [
     },
     {
         name: "HOUSTON PK",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "85",
@@ -4669,7 +4669,7 @@ module.exports = [
     },
     {
         name: "HOVEY AVE",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "MAGNOLIA AVE",
         width: "40",
         streetLength: "580",
@@ -4678,7 +4678,7 @@ module.exports = [
     },
     {
         name: "HOWARD-01",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "WESTERN AVE",
         width: "40",
         streetLength: "478",
@@ -4687,7 +4687,7 @@ module.exports = [
     },
     {
         name: "HOWARD-02",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "KINNAIRD",
         width: "40",
         streetLength: "814",
@@ -4696,7 +4696,7 @@ module.exports = [
     },
     {
         name: "HOWLAND",
-        from: "HAMMOND",
+        fromStreet: "HAMMOND",
         to: "WENDELL",
         width: "40",
         streetLength: "272",
@@ -4705,7 +4705,7 @@ module.exports = [
     },
     {
         name: "HUBBARD AVE-01",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "WESTERLY 500'",
         width: "40",
         streetLength: "500",
@@ -4714,7 +4714,7 @@ module.exports = [
     },
     {
         name: "HUBBARD AVE-02",
-        from: "RAYMOND",
+        fromStreet: "RAYMOND",
         to: "EASTERLY 260'",
         width: "40",
         streetLength: "260",
@@ -4723,7 +4723,7 @@ module.exports = [
     },
     {
         name: "HUBBARD PK RD",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "BRATTLE",
         width: "40",
         streetLength: "765",
@@ -4732,7 +4732,7 @@ module.exports = [
     },
     {
         name: "HUDSON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HUDSON PL",
         width: "30",
         streetLength: "430",
@@ -4741,7 +4741,7 @@ module.exports = [
     },
     {
         name: "HUDSON PL",
-        from: "HUDSON",
+        fromStreet: "HUDSON",
         to: "NORTHERLY",
         width: "14",
         unnacceptedstreetLength: "94",
@@ -4749,7 +4749,7 @@ module.exports = [
     },
     {
         name: "HUMBOLDT",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "LANCASTER",
         width: "30",
         streetLength: "353",
@@ -4758,7 +4758,7 @@ module.exports = [
     },
     {
         name: "HUNTING",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "540",
@@ -4767,7 +4767,7 @@ module.exports = [
     },
     {
         name: "HURLBUT",
-        from: "MARTIN",
+        fromStreet: "MARTIN",
         to: "LINNAEAN",
         width: "40",
         streetLength: "437",
@@ -4776,7 +4776,7 @@ module.exports = [
     },
     {
         name: "HURLEY-01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "SECOND",
         width: "50",
         streetLength: "300",
@@ -4785,7 +4785,7 @@ module.exports = [
     },
     {
         name: "HURLEY-02",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "THIRD",
         width: "50",
         streetLength: "330",
@@ -4794,7 +4794,7 @@ module.exports = [
     },
     {
         name: "HURLEY-03",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "SIXTH",
         width: "50",
         streetLength: "1280",
@@ -4803,7 +4803,7 @@ module.exports = [
     },
     {
         name: "HURLEY-04",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "80' W OF SIXTH",
         width: "50",
         streetLength: "80",
@@ -4812,7 +4812,7 @@ module.exports = [
     },
     {
         name: "HURON AVE-01",
-        from: "RAYMOND",
+        fromStreet: "RAYMOND",
         to: "UPLAND RD",
         width: "40",
         streetLength: "540",
@@ -4821,7 +4821,7 @@ module.exports = [
     },
     {
         name: "HURON AVE-02",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "GARDEN",
         width: "50",
         streetLength: "400",
@@ -4830,7 +4830,7 @@ module.exports = [
     },
     {
         name: "HURON AVE-03",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "CONCORD AVE",
         width: "50",
         streetLength: "600",
@@ -4839,7 +4839,7 @@ module.exports = [
     },
     {
         name: "HURON AVE-04",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "E LINE OF RAILWAY",
         width: "70",
         streetLength: "4900",
@@ -4848,7 +4848,7 @@ module.exports = [
     },
     {
         name: "HURON AVE-05",
-        from: "E LINE OF RAILWAY",
+        fromStreet: "E LINE OF RAILWAY",
         to: "W OF CUSHING",
         width: "70",
         streetLength: "1650",
@@ -4857,7 +4857,7 @@ module.exports = [
     },
     {
         name: "HURON AVE-06",
-        from: "W OF CUSHING",
+        fromStreet: "W OF CUSHING",
         to: "GROVE",
         width: "50",
         streetLength: "1650",
@@ -4866,7 +4866,7 @@ module.exports = [
     },
     {
         name: "HUTCHINSON",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "WALDEN",
         width: "40",
         streetLength: "420",
@@ -4875,7 +4875,7 @@ module.exports = [
     },
     {
         name: "INMAN CT",
-        from: "WEST PL",
+        fromStreet: "WEST PL",
         to: "BROADWAY TERR",
         width: "15",
         unnacceptedstreetLength: "174",
@@ -4883,7 +4883,7 @@ module.exports = [
     },
     {
         name: "INMAN PL",
-        from: "INMAN",
+        fromStreet: "INMAN",
         to: "WEST PL",
         width: "35",
         streetLength: "184",
@@ -4892,7 +4892,7 @@ module.exports = [
     },
     {
         name: "INMAN-01",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "BROADWAY",
         width: "40",
         streetLength: "1325",
@@ -4901,7 +4901,7 @@ module.exports = [
     },
     {
         name: "INMAN-02",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HARVARD",
         width: "37",
         streetLength: "390",
@@ -4910,7 +4910,7 @@ module.exports = [
     },
     {
         name: "INMAN-03",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BISHOP ALLEN",
         width: "37",
         streetLength: "625",
@@ -4919,7 +4919,7 @@ module.exports = [
     },
     {
         name: "INMAN-04",
-        from: "BISHOP ALLEN",
+        fromStreet: "BISHOP ALLEN",
         to: "MASS AVE",
         width: "45",
         streetLength: "350",
@@ -4928,7 +4928,7 @@ module.exports = [
     },
     {
         name: "IRVING TERR",
-        from: "IRVING",
+        fromStreet: "IRVING",
         to: "SUMNER RD",
         width: "30",
         streetLength: "410",
@@ -4937,7 +4937,7 @@ module.exports = [
     },
     {
         name: "IRVING-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "KIRKLAND",
         width: "40",
         streetLength: "795",
@@ -4946,7 +4946,7 @@ module.exports = [
     },
     {
         name: "IRVING-02",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "BRYANT",
         width: "50",
         streetLength: "775",
@@ -4955,7 +4955,7 @@ module.exports = [
     },
     {
         name: "IRVING-03",
-        from: "BRYANT",
+        fromStreet: "BRYANT",
         to: "FRANCIS AVE",
         width: "40",
         streetLength: "661",
@@ -4964,7 +4964,7 @@ module.exports = [
     },
     {
         name: "IVY",
-        from: "FAYERWEATHER",
+        fromStreet: "FAYERWEATHER",
         to: "GARDEN",
         width: "40",
         streetLength: "252",
@@ -4973,7 +4973,7 @@ module.exports = [
     },
     {
         name: "JACKSON",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "HARVEY",
         width: "40",
         streetLength: "1367",
@@ -4982,19 +4982,19 @@ module.exports = [
     },
     {
         name: "JACKSON CIR",
-        from: "JACKSON PL",
+        fromStreet: "JACKSON PL",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "JACKSON PL",
-        from: "RINDGE @ JACKSON",
+        fromStreet: "RINDGE @ JACKSON",
         to: "SOUTHERLY",
         noncity: "X",
     },
     {
         name: "JAMES",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MASON",
         width: "40",
         streetLength: "212",
@@ -5003,7 +5003,7 @@ module.exports = [
     },
     {
         name: "JAMES WAY",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "MEMORIAL WAY",
         width: "35",
         streetLength: "298",
@@ -5012,7 +5012,7 @@ module.exports = [
     },
     {
         name: "JARVIS",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "EASTERLY",
         width: "50",
         unnacceptedstreetLength: "170",
@@ -5020,7 +5020,7 @@ module.exports = [
     },
     {
         name: "JAY ST PL",
-        from: "JAY",
+        fromStreet: "JAY",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "80",
@@ -5028,7 +5028,7 @@ module.exports = [
     },
     {
         name: "JAY-01",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "WESTERN AVE",
         width: "40",
         streetLength: "404",
@@ -5037,7 +5037,7 @@ module.exports = [
     },
     {
         name: "JAY-02",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "KINNIAIRD",
         width: "40",
         streetLength: "612",
@@ -5046,7 +5046,7 @@ module.exports = [
     },
     {
         name: "JEFFERSON",
-        from: "WARREN",
+        fromStreet: "WARREN",
         to: "HARDING",
         width: "34",
         streetLength: "620",
@@ -5055,7 +5055,7 @@ module.exports = [
     },
     {
         name: "JOHN F. KENNEDY",
-        from: "MEMORIAL DR",
+        fromStreet: "MEMORIAL DR",
         to: "MASS AVE",
         width: "60",
         streetLength: "1820",
@@ -5064,7 +5064,7 @@ module.exports = [
     },
     {
         name: "KASSUL PK",
-        from: "WHITTEMORE AVE",
+        fromStreet: "WHITTEMORE AVE",
         to: "NORTHERLY",
         width: "35",
         streetLength: "205",
@@ -5073,7 +5073,7 @@ module.exports = [
     },
     {
         name: "KELLEY",
-        from: "DONNELL",
+        fromStreet: "DONNELL",
         to: "HURON AVE",
         width: "30",
         streetLength: "596",
@@ -5082,7 +5082,7 @@ module.exports = [
     },
     {
         name: "KELLY RD-01",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "505",
@@ -5091,7 +5091,7 @@ module.exports = [
     },
     {
         name: "KELLY RD-02",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "RIVER",
         width: "40",
         streetLength: "247",
@@ -5100,13 +5100,13 @@ module.exports = [
     },
     {
         name: "KENDALL",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "ATHENAEUM",
         noncity: "X",
     },
     {
         name: "KENNEDY RD",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "NORTHERLY",
         width: "30",
         unnacceptedstreetLength: "302",
@@ -5114,7 +5114,7 @@ module.exports = [
     },
     {
         name: "KENWAY",
-        from: "DOANE",
+        fromStreet: "DOANE",
         to: "GIBSON",
         width: "30",
         streetLength: "215",
@@ -5123,7 +5123,7 @@ module.exports = [
     },
     {
         name: "KENWOOD-01",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "ALLSTON",
         width: "30",
         streetLength: "310",
@@ -5132,7 +5132,7 @@ module.exports = [
     },
     {
         name: "KENWOOD-02",
-        from: "ALLSTON",
+        fromStreet: "ALLSTON",
         to: "NORTHERLY",
         width: "30",
         unnacceptedstreetLength: "100",
@@ -5140,7 +5140,7 @@ module.exports = [
     },
     {
         name: "KIMBALL",
-        from: "SEAGRAVE RD",
+        fromStreet: "SEAGRAVE RD",
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "345",
@@ -5149,7 +5149,7 @@ module.exports = [
     },
     {
         name: "KIMBALL LN",
-        from: "HOLLIS",
+        fromStreet: "HOLLIS",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "154",
@@ -5157,7 +5157,7 @@ module.exports = [
     },
     {
         name: "KING",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "110",
@@ -5165,7 +5165,7 @@ module.exports = [
     },
     {
         name: "KING PL",
-        from: "AMORY",
+        fromStreet: "AMORY",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "150",
@@ -5173,13 +5173,13 @@ module.exports = [
     },
     {
         name: "KINGSTON",
-        from: "SHEA RD",
+        fromStreet: "SHEA RD",
         to: "SOMERVILLE LINE",
         noncity: " ",
     },
     {
         name: "KINNAIRD-01",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "RIVER",
         width: "40",
         streetLength: "45",
@@ -5188,7 +5188,7 @@ module.exports = [
     },
     {
         name: "KINNAIRD-02",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "WESTERN AVE",
         width: "40",
         streetLength: "320",
@@ -5197,7 +5197,7 @@ module.exports = [
     },
     {
         name: "KINNAIRD-03",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "BAY",
         width: "40",
         streetLength: "1125",
@@ -5206,7 +5206,7 @@ module.exports = [
     },
     {
         name: "KINNAIRD-04",
-        from: "BAY",
+        fromStreet: "BAY",
         to: "PUTNAM AVE",
         width: "35",
         streetLength: "600",
@@ -5215,7 +5215,7 @@ module.exports = [
     },
     {
         name: "KIRKLAND",
-        from: "OXFORD",
+        fromStreet: "OXFORD",
         to: "SOMERVILLE LINE",
         width: "60",
         streetLength: "2390",
@@ -5224,7 +5224,7 @@ module.exports = [
     },
     {
         name: "KIRKLAND PL",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "NORTHERLY",
         width: "30",
         unnacceptedstreetLength: "500",
@@ -5232,7 +5232,7 @@ module.exports = [
     },
     {
         name: "KIRKLAND RD",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "SOUTHERLY",
         width: "30",
         streetLength: "230",
@@ -5241,7 +5241,7 @@ module.exports = [
     },
     {
         name: "LAKEVIEW AVE",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "FRESH POND PKWY",
         width: "50",
         streetLength: "2940",
@@ -5250,7 +5250,7 @@ module.exports = [
     },
     {
         name: "LAMBERT",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "CAMBRIDGE",
         width: "30",
         streetLength: "370",
@@ -5259,7 +5259,7 @@ module.exports = [
     },
     {
         name: "LAMONT AVE",
-        from: "MAGNOLIA AVE",
+        fromStreet: "MAGNOLIA AVE",
         to: "SOUTHERLY",
         width: "30",
         unnacceptedstreetLength: "150",
@@ -5267,7 +5267,7 @@ module.exports = [
     },
     {
         name: "LAMSON PL",
-        from: "ESSEX",
+        fromStreet: "ESSEX",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "144",
@@ -5275,7 +5275,7 @@ module.exports = [
     },
     {
         name: "LANCASTER-01",
-        from: "WASHINGTON AVE",
+        fromStreet: "WASHINGTON AVE",
         to: "HUMBOLDT",
         width: "40",
         streetLength: "520",
@@ -5284,7 +5284,7 @@ module.exports = [
     },
     {
         name: "LANCASTER-02",
-        from: "HUMBOLDT",
+        fromStreet: "HUMBOLDT",
         to: "MASS",
         width: "30",
         streetLength: "446",
@@ -5293,7 +5293,7 @@ module.exports = [
     },
     {
         name: "LAND BLVD (EDWIN H.) 01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "BINNEY",
         width: "60",
         date: "1900",
@@ -5302,7 +5302,7 @@ module.exports = [
     },
     {
         name: "LAND BLVD (EDWIN H.) 02",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "BROAD CANAL",
         width: "60",
         date: "1911",
@@ -5311,7 +5311,7 @@ module.exports = [
     },
     {
         name: "LAND BLVD (EDWIN H.) 03",
-        from: "BROAD CANAL",
+        fromStreet: "BROAD CANAL",
         to: "MCGRATH OBRIEN",
         width: "63",
         date: "1894",
@@ -5320,7 +5320,7 @@ module.exports = [
     },
     {
         name: "LANDSDOWNE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "GREEN",
         width: "50",
         streetLength: "240",
@@ -5329,7 +5329,7 @@ module.exports = [
     },
     {
         name: "LANDSDOWNE-02",
-        from: "GREEN",
+        fromStreet: "GREEN",
         to: "FRANKLIN",
         width: "50",
         streetLength: "275",
@@ -5338,7 +5338,7 @@ module.exports = [
     },
     {
         name: "LANDSDOWNE-03",
-        from: "FRANKLIN",
+        fromStreet: "FRANKLIN",
         to: "PACIFIC",
         width: "50",
         streetLength: "704",
@@ -5347,7 +5347,7 @@ module.exports = [
     },
     {
         name: "LANGDON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CHAUNCY",
         width: "30-60",
         streetLength: "725",
@@ -5356,7 +5356,7 @@ module.exports = [
     },
     {
         name: "LARCH RD",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "FRESH POND PKWY",
         width: "40",
         streetLength: "2196",
@@ -5365,7 +5365,7 @@ module.exports = [
     },
     {
         name: "LARCHWOOD DR-01",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "MEADOW WAY",
         width: "40",
         streetLength: "1727",
@@ -5374,7 +5374,7 @@ module.exports = [
     },
     {
         name: "LARCHWOOD DR-02",
-        from: "MEADOW WAY",
+        fromStreet: "MEADOW WAY",
         to: "FRESH POND PKWY",
         width: "50",
         streetLength: "180",
@@ -5383,7 +5383,7 @@ module.exports = [
     },
     {
         name: "LAUREL",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "RIVER",
         width: "30",
         streetLength: "304",
@@ -5392,7 +5392,7 @@ module.exports = [
     },
     {
         name: "LAWN CT",
-        from: "MAY",
+        fromStreet: "MAY",
         to: "EASTERLY",
         width: "40",
         unnacceptedstreetLength: "200",
@@ -5400,7 +5400,7 @@ module.exports = [
     },
     {
         name: "LAWN-01",
-        from: "CUSHING",
+        fromStreet: "CUSHING",
         to: "MAY",
         width: "30",
         streetLength: "500",
@@ -5409,7 +5409,7 @@ module.exports = [
     },
     {
         name: "LAWN-02",
-        from: "MAY",
+        fromStreet: "MAY",
         to: "OXFORD AVE",
         width: "40",
         streetLength: "363",
@@ -5418,7 +5418,7 @@ module.exports = [
     },
     {
         name: "LAWRENCE",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "447",
@@ -5427,7 +5427,7 @@ module.exports = [
     },
     {
         name: "LEE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BROADWAY",
         width: "45",
         streetLength: "1215",
@@ -5436,13 +5436,13 @@ module.exports = [
     },
     {
         name: "LEIGHTON",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "NORTHPOINT BLVD",
         noncity: "X",
     },
     {
         name: "LEONARD AVE",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "LINE",
         width: "40",
         streetLength: "685",
@@ -5451,7 +5451,7 @@ module.exports = [
     },
     {
         name: "LEXINGTON AVE",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "FRESH POND PKWY",
         width: "45",
         streetLength: "2637",
@@ -5460,7 +5460,7 @@ module.exports = [
     },
     {
         name: "LILAC CT",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "WEBSTER AVE",
         width: "16",
         unnacceptedstreetLength: "300",
@@ -5468,7 +5468,7 @@ module.exports = [
     },
     {
         name: "LINCOLN LN",
-        from: "FAYERWEATHER",
+        fromStreet: "FAYERWEATHER",
         to: "WESTERLY",
         width: "25",
         streetLength: "265",
@@ -5477,7 +5477,7 @@ module.exports = [
     },
     {
         name: "LINCOLN PL",
-        from: "LINCOLN",
+        fromStreet: "LINCOLN",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "150",
@@ -5485,13 +5485,13 @@ module.exports = [
     },
     {
         name: "LINCOLN WAY",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "WESTERLY",
         noncity: " ",
     },
     {
         name: "LINCOLN-01",
-        from: "WILLOW",
+        fromStreet: "WILLOW",
         to: "WEBSTER AVE",
         width: "40",
         streetLength: "170",
@@ -5500,7 +5500,7 @@ module.exports = [
     },
     {
         name: "LINCOLN-02",
-        from: "WEBSTER AVE",
+        fromStreet: "WEBSTER AVE",
         to: "ELM",
         width: "40",
         streetLength: "600",
@@ -5509,7 +5509,7 @@ module.exports = [
     },
     {
         name: "LINDEN",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MT AUBURN",
         width: "25",
         streetLength: "371",
@@ -5518,7 +5518,7 @@ module.exports = [
     },
     {
         name: "LINE",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "CAMBRIDGE",
         width: "33",
         streetLength: "1835",
@@ -5527,7 +5527,7 @@ module.exports = [
     },
     {
         name: "LINEHAN CT",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "107",
@@ -5535,7 +5535,7 @@ module.exports = [
     },
     {
         name: "LINNAEAN",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "GARDEN",
         width: "50",
         streetLength: "2183",
@@ -5544,7 +5544,7 @@ module.exports = [
     },
     {
         name: "LINSKEY WAY",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "FIRST",
         width: "50",
         streetLength: "1094",
@@ -5553,7 +5553,7 @@ module.exports = [
     },
     {
         name: "LINWOOD CT",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "80",
@@ -5561,7 +5561,7 @@ module.exports = [
     },
     {
         name: "LIVERMOORE PL",
-        from: "UNION",
+        fromStreet: "UNION",
         to: "WESTERLY",
         width: "18",
         unnacceptedstreetLength: "114",
@@ -5569,7 +5569,7 @@ module.exports = [
     },
     {
         name: "LOCKE",
-        from: "MEACHAM RD",
+        fromStreet: "MEACHAM RD",
         to: "BEYOND SHEA RD",
         width: "30",
         streetLength: "693",
@@ -5578,7 +5578,7 @@ module.exports = [
     },
     {
         name: "LOCUST",
-        from: "HOLWORTHY",
+        fromStreet: "HOLWORTHY",
         to: "CUSHING",
         width: "40",
         streetLength: "295",
@@ -5586,7 +5586,7 @@ module.exports = [
     },
     {
         name: "LOCUST CT",
-        from: "LOCUST",
+        fromStreet: "LOCUST",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "190",
@@ -5594,14 +5594,14 @@ module.exports = [
     },
     {
         name: "LONGFELLOW PK",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "SOUTHERLY",
         unnacceptedstreetLength: "300",
         noncity: " ",
     },
     {
         name: "LONGFELLOW RD",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "NORTHERLY",
         width: "35",
         streetLength: "330",
@@ -5610,7 +5610,7 @@ module.exports = [
     },
     {
         name: "LOOMIS",
-        from: "GRISWOLD",
+        fromStreet: "GRISWOLD",
         to: "EASTERLY",
         width: "40",
         streetLength: "400",
@@ -5619,7 +5619,7 @@ module.exports = [
     },
     {
         name: "LOPEZ",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "475",
@@ -5628,7 +5628,7 @@ module.exports = [
     },
     {
         name: "LOPEZ AVE-01",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "HURLEY",
         width: "40",
         streetLength: "200",
@@ -5637,7 +5637,7 @@ module.exports = [
     },
     {
         name: "LOPEZ AVE-02",
-        from: "HURLEY",
+        fromStreet: "HURLEY",
         to: "CHARLES",
         width: "34",
         streetLength: "200",
@@ -5646,7 +5646,7 @@ module.exports = [
     },
     {
         name: "LOWELL",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "40",
         streetLength: "887",
@@ -5655,7 +5655,7 @@ module.exports = [
     },
     {
         name: "MACARELLI WAY",
-        from: "WARREN",
+        fromStreet: "WARREN",
         to: "MARION",
         width: "71",
         streetLength: "156",
@@ -5664,7 +5664,7 @@ module.exports = [
     },
     {
         name: "MADISON",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "GARDEN",
         width: "30",
         streetLength: "693",
@@ -5673,7 +5673,7 @@ module.exports = [
     },
     {
         name: "MADISON AVE",
-        from: "COLUMBUS AVE",
+        fromStreet: "COLUMBUS AVE",
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "617",
@@ -5682,7 +5682,7 @@ module.exports = [
     },
     {
         name: "MAGAZINE CT",
-        from: "KENWOOD",
+        fromStreet: "KENWOOD",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "260",
@@ -5690,7 +5690,7 @@ module.exports = [
     },
     {
         name: "MAGAZINE-01",
-        from: "GREEN",
+        fromStreet: "GREEN",
         to: "FLORENCE",
         width: "50",
         streetLength: "3490",
@@ -5699,7 +5699,7 @@ module.exports = [
     },
     {
         name: "MAGAZINE-02",
-        from: "FLORENCE",
+        fromStreet: "FLORENCE",
         to: "MEMORIAL DR",
         width: "50",
         streetLength: "690",
@@ -5708,7 +5708,7 @@ module.exports = [
     },
     {
         name: "MAGEE-01",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "EASTERLY",
         width: "40",
         streetLength: "334",
@@ -5717,7 +5717,7 @@ module.exports = [
     },
     {
         name: "MAGEE-02",
-        from: "CALLENDER",
+        fromStreet: "CALLENDER",
         to: "NORTHERLY",
         width: "40",
         streetLength: "444",
@@ -5726,7 +5726,7 @@ module.exports = [
     },
     {
         name: "MAGNOLIA AVE",
-        from: "ROBERTS RD",
+        fromStreet: "ROBERTS RD",
         to: "LINE",
         width: "40",
         streetLength: "668",
@@ -5735,7 +5735,7 @@ module.exports = [
     },
     {
         name: "MAGOUN",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "675",
@@ -5744,7 +5744,7 @@ module.exports = [
     },
     {
         name: "MAIN-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BINNEY",
         width: "70",
         streetLength: "3507",
@@ -5753,7 +5753,7 @@ module.exports = [
     },
     {
         name: "MAIN-02",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "BROADWAY",
         width: "70",
         streetLength: "923",
@@ -5762,7 +5762,7 @@ module.exports = [
     },
     {
         name: "MAIN-03",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "MEMORIAL DR",
         width: "117",
         streetLength: "1320",
@@ -5771,7 +5771,7 @@ module.exports = [
     },
     {
         name: "MALCOLM RD",
-        from: "LAKEVIEW AVE",
+        fromStreet: "LAKEVIEW AVE",
         to: "STANDISH",
         width: "40",
         streetLength: "300",
@@ -5780,7 +5780,7 @@ module.exports = [
     },
     {
         name: "MANASSAS AVE-01",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "ANGLE",
         width: "24",
         streetLength: "200",
@@ -5789,7 +5789,7 @@ module.exports = [
     },
     {
         name: "MANASSAS AVE-02",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "HURON AVE",
         width: "35",
         streetLength: "310",
@@ -5798,7 +5798,7 @@ module.exports = [
     },
     {
         name: "MAPLE AVE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1152",
@@ -5807,7 +5807,7 @@ module.exports = [
     },
     {
         name: "MARCELLA",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "BERKSHIRE",
         width: "40",
         streetLength: "300",
@@ -5816,7 +5816,7 @@ module.exports = [
     },
     {
         name: "MARCELLA CT",
-        from: "MARCELLA",
+        fromStreet: "MARCELLA",
         to: "NORTHERLY",
         width: "15",
         unnacceptedstreetLength: "85",
@@ -5824,7 +5824,7 @@ module.exports = [
     },
     {
         name: "MARIE AVE",
-        from: "MAPLE AVE",
+        fromStreet: "MAPLE AVE",
         to: "HIGHLAND AVE",
         width: "35",
         streetLength: "299",
@@ -5833,7 +5833,7 @@ module.exports = [
     },
     {
         name: "MARION",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "JEFFERSON",
         width: "30",
         streetLength: "250",
@@ -5842,7 +5842,7 @@ module.exports = [
     },
     {
         name: "MARKET",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "ELM",
         width: "42",
         streetLength: "1450",
@@ -5851,7 +5851,7 @@ module.exports = [
     },
     {
         name: "MARNEY",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "BERKSHIRE",
         width: "40",
         streetLength: "300",
@@ -5860,7 +5860,7 @@ module.exports = [
     },
     {
         name: "MARTIN-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BOWDOIN",
         width: "40",
         streetLength: "344",
@@ -5869,7 +5869,7 @@ module.exports = [
     },
     {
         name: "MARTIN-02",
-        from: "BOWDOIN",
+        fromStreet: "BOWDOIN",
         to: "AVON",
         width: "35",
         streetLength: "514",
@@ -5878,7 +5878,7 @@ module.exports = [
     },
     {
         name: "MARVIN PL",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "EASTERLY",
         width: "12",
         unnacceptedstreetLength: "80",
@@ -5886,7 +5886,7 @@ module.exports = [
     },
     {
         name: "MASON",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "GARDEN",
         width: "50",
         streetLength: "606",
@@ -5895,7 +5895,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-01",
-        from: "MEMORIAL DR",
+        fromStreet: "MEMORIAL DR",
         to: "COLUMBIA",
         width: "90",
         streetLength: "2950",
@@ -5904,7 +5904,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-02",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "PLEASANT",
         width: "103",
         streetLength: "1860",
@@ -5913,7 +5913,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-03",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "PUTNAM AVE",
         width: "103-63",
         streetLength: "2590",
@@ -5922,7 +5922,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-04",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "HARVARD",
         width: "63",
         streetLength: "1200",
@@ -5931,7 +5931,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-05",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "DUNSTER",
         width: "70",
         streetLength: "750",
@@ -5940,7 +5940,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-06",
-        from: "DUNSTER",
+        fromStreet: "DUNSTER",
         to: "EVERETT",
         width: "66-160",
         streetLength: "2450",
@@ -5949,7 +5949,7 @@ module.exports = [
     },
     {
         name: "MASSACHUSETTS AVE-07",
-        from: "EVERETT",
+        fromStreet: "EVERETT",
         to: "ARLINGTON LINE",
         width: "100",
         streetLength: "9500",
@@ -5958,7 +5958,7 @@ module.exports = [
     },
     {
         name: "MATIGNON RD",
-        from: "CHURCHILL AVE",
+        fromStreet: "CHURCHILL AVE",
         to: "ALEWIFE BROOK PKWY",
         width: "40",
         streetLength: "885",
@@ -5967,7 +5967,7 @@ module.exports = [
     },
     {
         name: "MAX AVE-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "100' SOUTH OF CAMBRIDGE",
         width: "23",
         unnacceptedstreetLength: "100",
@@ -5975,7 +5975,7 @@ module.exports = [
     },
     {
         name: "MAX AVE-02",
-        from: "100' SOUTH OF CAMBRIDGE",
+        fromStreet: "100' SOUTH OF CAMBRIDGE",
         to: "OTIS",
         width: "23",
         unnacceptedstreetLength: "100",
@@ -5983,7 +5983,7 @@ module.exports = [
     },
     {
         name: "MAY",
-        from: "LAWN",
+        fromStreet: "LAWN",
         to: "N OF VINEYARD",
         width: "30-40",
         streetLength: "450",
@@ -5992,7 +5992,7 @@ module.exports = [
     },
     {
         name: "MAYNARD PL",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "283",
@@ -6000,7 +6000,7 @@ module.exports = [
     },
     {
         name: "McGRATH O'BRIEN HWY-01",
-        from: "BOSTON LINE",
+        fromStreet: "BOSTON LINE",
         to: "CAMBRIDGE",
         width: "75",
         unnacceptedstreetLength: "2000",
@@ -6008,7 +6008,7 @@ module.exports = [
     },
     {
         name: "McGRATH O'BRIEN HWY-02",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "100",
         date: "1870",
@@ -6017,7 +6017,7 @@ module.exports = [
     },
     {
         name: "MCLEAN PL",
-        from: "CEDAR",
+        fromStreet: "CEDAR",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "120",
@@ -6025,7 +6025,7 @@ module.exports = [
     },
     {
         name: "MEACHAM RD",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "413",
@@ -6034,7 +6034,7 @@ module.exports = [
     },
     {
         name: "MEAD",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "COGSWELL AVE",
         width: "40",
         streetLength: "340",
@@ -6043,7 +6043,7 @@ module.exports = [
     },
     {
         name: "MEADOW WAY",
-        from: "LARCHWOOD DR",
+        fromStreet: "LARCHWOOD DR",
         to: "FRESH POND PKWY",
         width: "40",
         streetLength: "925",
@@ -6052,7 +6052,7 @@ module.exports = [
     },
     {
         name: "MELLEN-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CUL DE SAC",
         width: "50",
         streetLength: "590",
@@ -6061,7 +6061,7 @@ module.exports = [
     },
     {
         name: "MELLEN-02",
-        from: "CUL DE SAC",
+        fromStreet: "CUL DE SAC",
         to: "OXFORD",
         width: "50",
         streetLength: "590",
@@ -6070,13 +6070,13 @@ module.exports = [
     },
     {
         name: "MEMORIAL DR",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "MT AUBURN",
         noncity: "X",
     },
     {
         name: "MEMORIAL WAY",
-        from: "CORNELIUS WAY",
+        fromStreet: "CORNELIUS WAY",
         to: "JAMES WAY",
         width: "28",
         streetLength: "494",
@@ -6085,7 +6085,7 @@ module.exports = [
     },
     {
         name: "MERCER CIR",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "SPARKS",
         width: "40",
         streetLength: "445",
@@ -6094,7 +6094,7 @@ module.exports = [
     },
     {
         name: "MERRIAM",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "WAVERLY",
         width: "40",
         unnacceptedstreetLength: "358",
@@ -6102,7 +6102,7 @@ module.exports = [
     },
     {
         name: "MERRILL",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CHATHAM",
         width: "35",
         streetLength: "235",
@@ -6111,7 +6111,7 @@ module.exports = [
     },
     {
         name: "MICHAEL WAY",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "MEMORIAL WAY",
         width: "35",
         streetLength: "229",
@@ -6120,7 +6120,7 @@ module.exports = [
     },
     {
         name: "MIDDLESEX-01",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "WILSON AVE",
         width: "40",
         streetLength: "308",
@@ -6129,7 +6129,7 @@ module.exports = [
     },
     {
         name: "MIDDLESEX-02",
-        from: "WILSON AVE",
+        fromStreet: "WILSON AVE",
         to: "PEMBERTON",
         width: "40",
         streetLength: "601",
@@ -6138,7 +6138,7 @@ module.exports = [
     },
     {
         name: "MIFFLIN PL",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "NORTHERLY",
         width: "25",
         unnacceptedstreetLength: "196",
@@ -6146,7 +6146,7 @@ module.exports = [
     },
     {
         name: "MILL",
-        from: "DEWOLFE",
+        fromStreet: "DEWOLFE",
         to: "HOLYOKE",
         width: "35",
         unnacceptedstreetLength: "686",
@@ -6154,7 +6154,7 @@ module.exports = [
     },
     {
         name: "MILLER AVE",
-        from: "ORCHARD",
+        fromStreet: "ORCHARD",
         to: "SOMERVILLE LINE",
         width: "24",
         streetLength: "336",
@@ -6163,7 +6163,7 @@ module.exports = [
     },
     {
         name: "MILTON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "287",
@@ -6172,7 +6172,7 @@ module.exports = [
     },
     {
         name: "MONTAGUE-01",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "230",
@@ -6181,7 +6181,7 @@ module.exports = [
     },
     {
         name: "MONTAGUE-02",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "NORTHWESTERLY",
         width: "40",
         streetLength: "120",
@@ -6190,7 +6190,7 @@ module.exports = [
     },
     {
         name: "MONTGOMERY",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "HARVEY",
         width: "40",
         streetLength: "1360",
@@ -6199,7 +6199,7 @@ module.exports = [
     },
     {
         name: "MOONEY-01",
-        from: "SMITH PL",
+        fromStreet: "SMITH PL",
         to: "482' WESTERLY",
         width: "40",
         streetLength: "482",
@@ -6208,13 +6208,13 @@ module.exports = [
     },
     {
         name: "MOONEY-02",
-        from: "482' WEST OF SMITH",
+        fromStreet: "482' WEST OF SMITH",
         to: "DEAD END",
         noncity: "X",
     },
     {
         name: "MOORE",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HARVARD",
         width: "30",
         streetLength: "295",
@@ -6223,7 +6223,7 @@ module.exports = [
     },
     {
         name: "MORRISON CT",
-        from: "GOLD STAR RD",
+        fromStreet: "GOLD STAR RD",
         to: "WESTERLY",
         width: "20",
         unnacceptedstreetLength: "115",
@@ -6231,7 +6231,7 @@ module.exports = [
     },
     {
         name: "MOULTON",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "NORTHERLY",
         width: "40",
         streetLength: "760",
@@ -6240,7 +6240,7 @@ module.exports = [
     },
     {
         name: "MOUNT AUBURN-01",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "JFK",
         width: "50",
         streetLength: "2000",
@@ -6249,7 +6249,7 @@ module.exports = [
     },
     {
         name: "MOUNT AUBURN-02",
-        from: "JFK",
+        fromStreet: "JFK",
         to: "ELMWOOD AVE",
         width: "66",
         streetLength: "4586",
@@ -6258,7 +6258,7 @@ module.exports = [
     },
     {
         name: "MOUNT AUBURN-03",
-        from: "ELMWOOD AVE",
+        fromStreet: "ELMWOOD AVE",
         to: "154' W OF COOLIDGE",
         width: "95-70",
         date: "1635",
@@ -6266,7 +6266,7 @@ module.exports = [
     },
     {
         name: "MOUNT AUBURN-04",
-        from: "154' W OF COOLIDGE",
+        fromStreet: "154' W OF COOLIDGE",
         to: "WATERTOWN LINE",
         width: "63-125",
         streetLength: "3380",
@@ -6275,7 +6275,7 @@ module.exports = [
     },
     {
         name: "MOUNT PLEASANT",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "WALDEN",
         width: "40",
         streetLength: "584",
@@ -6284,7 +6284,7 @@ module.exports = [
     },
     {
         name: "MOUNT VERNON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "UPLAND RD",
         width: "50",
         streetLength: "802",
@@ -6293,7 +6293,7 @@ module.exports = [
     },
     {
         name: "MULLER AVE",
-        from: "CHURCHILL AVE",
+        fromStreet: "CHURCHILL AVE",
         to: "MURRAY HILL RD",
         width: "40",
         streetLength: "393",
@@ -6302,7 +6302,7 @@ module.exports = [
     },
     {
         name: "MULLINS CT",
-        from: "WINTER",
+        fromStreet: "WINTER",
         to: "SOUTHERLY",
         width: "20",
         unnacceptedstreetLength: "100",
@@ -6310,7 +6310,7 @@ module.exports = [
     },
     {
         name: "MUNROE-01",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "FIFTH",
         width: "50",
         unnacceptedstreetLength: "400",
@@ -6318,7 +6318,7 @@ module.exports = [
     },
     {
         name: "MUNROE-02",
-        from: "FIFTH",
+        fromStreet: "FIFTH",
         to: "THIRD",
         width: "50",
         date: "1890",
@@ -6326,7 +6326,7 @@ module.exports = [
     },
     {
         name: "MURDOCK",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "GARDNER",
         width: "16",
         unnacceptedstreetLength: "426",
@@ -6334,7 +6334,7 @@ module.exports = [
     },
     {
         name: "MURRAY",
-        from: "BENNETT",
+        fromStreet: "BENNETT",
         to: "JFK PARK",
         width: "50",
         unnacceptedstreetLength: "810",
@@ -6342,7 +6342,7 @@ module.exports = [
     },
     {
         name: "MURRAY HILL RD",
-        from: "MATIGNON RD",
+        fromStreet: "MATIGNON RD",
         to: "ALEWIFE BROOK PKWY",
         width: "40",
         streetLength: "690",
@@ -6351,7 +6351,7 @@ module.exports = [
     },
     {
         name: "MUSEUM WAY",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "NORTHPOINT BLVD",
         streetLength: "650+/-",
         date: "2010",
@@ -6359,7 +6359,7 @@ module.exports = [
     },
     {
         name: "MUSEUM-01",
-        from: "GORHAM",
+        fromStreet: "GORHAM",
         to: "CARVER",
         width: "40",
         streetLength: "687",
@@ -6368,7 +6368,7 @@ module.exports = [
     },
     {
         name: "MUSEUM-02",
-        from: "CARVER",
+        fromStreet: "CARVER",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "180",
@@ -6377,7 +6377,7 @@ module.exports = [
     },
     {
         name: "MYRTLE AVE",
-        from: "MAGNOLIA AVE",
+        fromStreet: "MAGNOLIA AVE",
         to: "KIRKLAND",
         width: "30",
         streetLength: "515",
@@ -6386,7 +6386,7 @@ module.exports = [
     },
     {
         name: "NEW-01",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "DANEHY",
         width: "40",
         streetLength: "700",
@@ -6395,7 +6395,7 @@ module.exports = [
     },
     {
         name: "NEW-02",
-        from: "DANEHY",
+        fromStreet: "DANEHY",
         to: "RR TRACKS",
         width: "40",
         streetLength: "711",
@@ -6404,7 +6404,7 @@ module.exports = [
     },
     {
         name: "NEWELL",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "WALDEN",
         width: "40",
         streetLength: "411",
@@ -6413,7 +6413,7 @@ module.exports = [
     },
     {
         name: "NEWELL TER",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "178",
@@ -6421,7 +6421,7 @@ module.exports = [
     },
     {
         name: "NEWMAN",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "FOCH",
         width: "30",
         streetLength: "257",
@@ -6430,7 +6430,7 @@ module.exports = [
     },
     {
         name: "NEWPORT RD-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "ANGLE",
         width: "45",
         streetLength: "280",
@@ -6439,7 +6439,7 @@ module.exports = [
     },
     {
         name: "NEWPORT RD-02",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "FOREST",
         width: "24",
         streetLength: "140",
@@ -6448,7 +6448,7 @@ module.exports = [
     },
     {
         name: "NEWTON",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "CHESTNUT",
         width: "40",
         streetLength: "300",
@@ -6457,7 +6457,7 @@ module.exports = [
     },
     {
         name: "NICHOLS PL",
-        from: "ROBERTS RD",
+        fromStreet: "ROBERTS RD",
         to: "WESTERLY",
         width: "17",
         unnacceptedstreetLength: "72",
@@ -6465,7 +6465,7 @@ module.exports = [
     },
     {
         name: "NORCROSS",
-        from: "WOOD",
+        fromStreet: "WOOD",
         to: "NORTHEASTERLY",
         width: "40",
         unnacceptedstreetLength: "104",
@@ -6473,7 +6473,7 @@ module.exports = [
     },
     {
         name: "NORFOLK CT",
-        from: "NORFOLK",
+        fromStreet: "NORFOLK",
         to: "ELM",
         width: "20",
         unnacceptedstreetLength: "215",
@@ -6481,7 +6481,7 @@ module.exports = [
     },
     {
         name: "NORFOLK PL",
-        from: "NORFOLK (N OF WA)",
+        fromStreet: "NORFOLK (N OF WA)",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "60",
@@ -6489,7 +6489,7 @@ module.exports = [
     },
     {
         name: "NORFOLK TERR",
-        from: "NORFOLK",
+        fromStreet: "NORFOLK",
         to: "WESTERLY",
         width: "12",
         unnacceptedstreetLength: "100",
@@ -6497,7 +6497,7 @@ module.exports = [
     },
     {
         name: "NORFOLK-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BROADWAY",
         width: "40",
         streetLength: "1582",
@@ -6506,7 +6506,7 @@ module.exports = [
     },
     {
         name: "NORFOLK-02",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "920",
@@ -6515,7 +6515,7 @@ module.exports = [
     },
     {
         name: "NORFOLK-03",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "189' N OF HAMPSHIRE",
         width: "40",
         streetLength: "381",
@@ -6524,7 +6524,7 @@ module.exports = [
     },
     {
         name: "NORFOLK-04",
-        from: "189' N OF HAMPSHIRE",
+        fromStreet: "189' N OF HAMPSHIRE",
         to: "330' S OF CAMBRIDGE",
         width: "40",
         date: "1976",
@@ -6532,7 +6532,7 @@ module.exports = [
     },
     {
         name: "NORFOLK-05",
-        from: "330' S OF CAMBRIDGE",
+        fromStreet: "330' S OF CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "450",
@@ -6541,7 +6541,7 @@ module.exports = [
     },
     {
         name: "NORMAN",
-        from: "BELMONT",
+        fromStreet: "BELMONT",
         to: "NORTHERLY",
         width: "40",
         streetLength: "270",
@@ -6550,7 +6550,7 @@ module.exports = [
     },
     {
         name: "NORMANDY AVE",
-        from: "BLANCHARD",
+        fromStreet: "BLANCHARD",
         to: "NORMANDY TERR",
         width: "40",
         streetLength: "1020",
@@ -6559,7 +6559,7 @@ module.exports = [
     },
     {
         name: "NORMANDY TERR",
-        from: "50' N OF NORMANDY",
+        fromStreet: "50' N OF NORMANDY",
         to: "S EASTERLY",
         width: "40",
         streetLength: "215",
@@ -6568,7 +6568,7 @@ module.exports = [
     },
     {
         name: "NORMANDY TERR EXT",
-        from: "50' N OF NORMANDY",
+        fromStreet: "50' N OF NORMANDY",
         to: "N WESTERLY",
         width: "40",
         unnacceptedstreetLength: "45",
@@ -6576,7 +6576,7 @@ module.exports = [
     },
     {
         name: "NORRIS",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CEDAR",
         width: "40",
         streetLength: "663",
@@ -6585,21 +6585,21 @@ module.exports = [
     },
     {
         name: "NORTHPOINT BLVD-01",
-        from: "EAST",
+        fromStreet: "EAST",
         to: "CHARLESTOWN AVE",
         unnacceptedstreetLength: "940+/-",
         noncity: "X",
     },
     {
         name: "NORTHPOINT BLVD-02",
-        from: "CHARLESTOWN AVE",
+        fromStreet: "CHARLESTOWN AVE",
         to: "EDUCATION ST",
         date: "2010",
         noncity: " ",
     },
     {
         name: "NORTON PL",
-        from: "MARTIN",
+        fromStreet: "MARTIN",
         to: "SOUTHERLY",
         width: "12",
         unnacceptedstreetLength: "85",
@@ -6607,7 +6607,7 @@ module.exports = [
     },
     {
         name: "NORUMBEGA",
-        from: "BELMONT",
+        fromStreet: "BELMONT",
         to: "NORTHERLY",
         width: "40",
         streetLength: "208",
@@ -6616,7 +6616,7 @@ module.exports = [
     },
     {
         name: "NOTRE DAME AVE",
-        from: "MIDDLESEX",
+        fromStreet: "MIDDLESEX",
         to: "SARGENT",
         width: "40",
         streetLength: "306",
@@ -6625,7 +6625,7 @@ module.exports = [
     },
     {
         name: "NUTTING RD-01",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "34.5' SOUTH",
         width: "30",
         streetLength: "35",
@@ -6634,7 +6634,7 @@ module.exports = [
     },
     {
         name: "NUTTING RD-02",
-        from: "34.5' S OF MT AUBURN",
+        fromStreet: "34.5' S OF MT AUBURN",
         to: "REVERE",
         width: "30",
         date: "1982",
@@ -6643,7 +6643,7 @@ module.exports = [
     },
     {
         name: "OAK",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "270",
@@ -6652,7 +6652,7 @@ module.exports = [
     },
     {
         name: "OAKLAND",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "300",
@@ -6661,7 +6661,7 @@ module.exports = [
     },
     {
         name: "OLD DEE RD",
-        from: "LARCHWOOD DR",
+        fromStreet: "LARCHWOOD DR",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "178",
@@ -6670,7 +6670,7 @@ module.exports = [
     },
     {
         name: "OLIVE PL",
-        from: "MONTGOMERY",
+        fromStreet: "MONTGOMERY",
         to: "WESTERLY",
         width: "15",
         unnacceptedstreetLength: "100",
@@ -6678,7 +6678,7 @@ module.exports = [
     },
     {
         name: "ORCHARD-01",
-        from: "DAVENPORT",
+        fromStreet: "DAVENPORT",
         to: "BEECH",
         width: "40",
         streetLength: "400",
@@ -6687,7 +6687,7 @@ module.exports = [
     },
     {
         name: "ORCHARD-02",
-        from: "BEECH",
+        fromStreet: "BEECH",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "912",
@@ -6696,7 +6696,7 @@ module.exports = [
     },
     {
         name: "ORRIN",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "WINSLOW",
         width: "30",
         streetLength: "295",
@@ -6705,7 +6705,7 @@ module.exports = [
     },
     {
         name: "OSBORN-01",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "STATE",
         width: "40",
         streetLength: "227",
@@ -6714,7 +6714,7 @@ module.exports = [
     },
     {
         name: "OSBORN-02",
-        from: "STATE",
+        fromStreet: "STATE",
         to: "ALBANY",
         width: "35",
         streetLength: "465",
@@ -6723,7 +6723,7 @@ module.exports = [
     },
     {
         name: "OTIS-01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "SECOND",
         width: "50",
         streetLength: "400",
@@ -6732,7 +6732,7 @@ module.exports = [
     },
     {
         name: "OTIS-02",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "SIXTH",
         width: "50",
         streetLength: "1500",
@@ -6741,7 +6741,7 @@ module.exports = [
     },
     {
         name: "OTIS-03",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "FULKERSON",
         width: "40",
         streetLength: "575",
@@ -6750,7 +6750,7 @@ module.exports = [
     },
     {
         name: "OTIS-04",
-        from: "FULKERSON",
+        fromStreet: "FULKERSON",
         to: "WESTERLY 123'",
         width: "40",
         streetLength: "123",
@@ -6759,7 +6759,7 @@ module.exports = [
     },
     {
         name: "OTIS-05",
-        from: "123' W OF FULKERSON",
+        fromStreet: "123' W OF FULKERSON",
         to: "RAILWAY",
         width: "40",
         unnacceptedstreetLength: "77",
@@ -6767,7 +6767,7 @@ module.exports = [
     },
     {
         name: "OXFORD AVE",
-        from: "FAIRVIEW AVE",
+        fromStreet: "FAIRVIEW AVE",
         to: "BELMONT AVE",
         width: "40",
         streetLength: "285",
@@ -6776,7 +6776,7 @@ module.exports = [
     },
     {
         name: "OXFORD-01",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "EVERETT",
         width: "50",
         streetLength: "1255",
@@ -6785,7 +6785,7 @@ module.exports = [
     },
     {
         name: "OXFORD-02",
-        from: "EVERETT",
+        fromStreet: "EVERETT",
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "2225",
@@ -6794,7 +6794,7 @@ module.exports = [
     },
     {
         name: "PACIFIC-01",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "SIDNEY",
         width: "40",
         streetLength: "490",
@@ -6803,7 +6803,7 @@ module.exports = [
     },
     {
         name: "PACIFIC-02",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "ALBANY",
         width: "40",
         streetLength: "730",
@@ -6812,7 +6812,7 @@ module.exports = [
     },
     {
         name: "PALERMO",
-        from: "WILLOW",
+        fromStreet: "WILLOW",
         to: "WINDSOR",
         width: "40",
         streetLength: "312",
@@ -6821,7 +6821,7 @@ module.exports = [
     },
     {
         name: "PALMER",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "CHURCH",
         width: "25",
         streetLength: "337",
@@ -6830,7 +6830,7 @@ module.exports = [
     },
     {
         name: "PARK AVE",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "HOLWORTHY",
         width: "50",
         streetLength: "956",
@@ -6839,7 +6839,7 @@ module.exports = [
     },
     {
         name: "PARKER",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "BUCKINGHAM",
         width: "40",
         streetLength: "723",
@@ -6848,7 +6848,7 @@ module.exports = [
     },
     {
         name: "PARKWAY TERR",
-        from: "GROZIER ROAD",
+        fromStreet: "GROZIER ROAD",
         to: "EASTERLY",
         width: "25",
         unnacceptedstreetLength: "83",
@@ -6856,7 +6856,7 @@ module.exports = [
     },
     {
         name: "PEABODY",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CAMBRIDGE",
         width: "66",
         streetLength: "440",
@@ -6865,7 +6865,7 @@ module.exports = [
     },
     {
         name: "PEARL ST PL",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "70",
@@ -6873,7 +6873,7 @@ module.exports = [
     },
     {
         name: "PEARL-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "N OF ERIE",
         width: "40",
         streetLength: "2015",
@@ -6882,7 +6882,7 @@ module.exports = [
     },
     {
         name: "PEARL-02",
-        from: "N OF ERIE",
+        fromStreet: "N OF ERIE",
         to: "GRANITE",
         width: "40",
         streetLength: "1825",
@@ -6891,7 +6891,7 @@ module.exports = [
     },
     {
         name: "PEDESTRIAN WAY",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "BINNEY",
         width: "50",
         streetLength: "190",
@@ -6900,7 +6900,7 @@ module.exports = [
     },
     {
         name: "PEMBERTON CT",
-        from: "PEMBERTON",
+        fromStreet: "PEMBERTON",
         to: "SOUTHERLY",
         width: "20",
         unnacceptedstreetLength: "110",
@@ -6908,7 +6908,7 @@ module.exports = [
     },
     {
         name: "PEMBERTON TERR",
-        from: "PEMBERTON",
+        fromStreet: "PEMBERTON",
         to: "SOUTHERLY",
         width: "15",
         unnacceptedstreetLength: "110",
@@ -6916,7 +6916,7 @@ module.exports = [
     },
     {
         name: "PEMBERTON-01",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "ANGLE",
         width: "40",
         streetLength: "958",
@@ -6925,7 +6925,7 @@ module.exports = [
     },
     {
         name: "PEMBERTON-02",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "MIDDLESEX",
         width: "40",
         streetLength: "622",
@@ -6934,7 +6934,7 @@ module.exports = [
     },
     {
         name: "PEMBERTON-03",
-        from: "MIDDLESEX",
+        fromStreet: "MIDDLESEX",
         to: "SHERMAN",
         width: "30",
         streetLength: "600",
@@ -6943,7 +6943,7 @@ module.exports = [
     },
     {
         name: "PERCY PL",
-        from: "ESSEX",
+        fromStreet: "ESSEX",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "145",
@@ -6951,7 +6951,7 @@ module.exports = [
     },
     {
         name: "PERRY",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "448",
@@ -6960,7 +6960,7 @@ module.exports = [
     },
     {
         name: "PETERS",
-        from: "ALLSTON",
+        fromStreet: "ALLSTON",
         to: "PUTNAM AVE",
         width: "40",
         streetLength: "301",
@@ -6969,7 +6969,7 @@ module.exports = [
     },
     {
         name: "PHILLIPS PL-01",
-        from: "BERKELEY",
+        fromStreet: "BERKELEY",
         to: "ST JOHN'S",
         width: "35",
         streetLength: "103",
@@ -6978,7 +6978,7 @@ module.exports = [
     },
     {
         name: "PHILLIPS PL-02",
-        from: "ST JOHN'S",
+        fromStreet: "ST JOHN'S",
         to: "MASON",
         width: "30",
         streetLength: "315",
@@ -6987,7 +6987,7 @@ module.exports = [
     },
     {
         name: "PILGRIM-01",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "SIDNEY",
         width: "40",
         streetLength: "467",
@@ -6996,7 +6996,7 @@ module.exports = [
     },
     {
         name: "PILGRIM-02",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "LANDSDOWNE",
         width: "40",
         unnacceptedstreetLength: "287",
@@ -7004,7 +7004,7 @@ module.exports = [
     },
     {
         name: "PINE-01",
-        from: "SCHOOL",
+        fromStreet: "SCHOOL",
         to: "WASHINGTON",
         width: "30",
         streetLength: "440",
@@ -7013,7 +7013,7 @@ module.exports = [
     },
     {
         name: "PINE-02",
-        from: "WASHINGTON",
+        fromStreet: "WASHINGTON",
         to: "HARVARD",
         width: "30",
         streetLength: "580",
@@ -7022,7 +7022,7 @@ module.exports = [
     },
     {
         name: "PLEASANT PL",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "355",
@@ -7030,7 +7030,7 @@ module.exports = [
     },
     {
         name: "PLEASANT-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RIVER",
         width: "40",
         streetLength: "715",
@@ -7039,7 +7039,7 @@ module.exports = [
     },
     {
         name: "PLEASANT-02",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "FLORENCE",
         width: "40",
         streetLength: "2910",
@@ -7048,7 +7048,7 @@ module.exports = [
     },
     {
         name: "PLEASANT-03",
-        from: "FLORENCE",
+        fromStreet: "FLORENCE",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "400",
@@ -7057,7 +7057,7 @@ module.exports = [
     },
     {
         name: "PLYMOUTH-01",
-        from: "CARDINAL MEDEIROS",
+        fromStreet: "CARDINAL MEDEIROS",
         to: "WEBSTER AVE",
         width: "40",
         streetLength: "668",
@@ -7066,7 +7066,7 @@ module.exports = [
     },
     {
         name: "PLYMOUTH-02",
-        from: "WEBSTER AVE",
+        fromStreet: "WEBSTER AVE",
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "400",
@@ -7075,7 +7075,7 @@ module.exports = [
     },
     {
         name: "PLYMPTON-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BOW",
         width: "30",
         streetLength: "365",
@@ -7084,7 +7084,7 @@ module.exports = [
     },
     {
         name: "PLYMPTON-02",
-        from: "BOW",
+        fromStreet: "BOW",
         to: "RIVERVIEW AVE",
         width: "40",
         streetLength: "616",
@@ -7093,7 +7093,7 @@ module.exports = [
     },
     {
         name: "POND PL",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "50",
@@ -7101,7 +7101,7 @@ module.exports = [
     },
     {
         name: "POPLAR RD",
-        from: "LEXINGTON AVE",
+        fromStreet: "LEXINGTON AVE",
         to: "FRESH POND PKWY",
         width: "40",
         streetLength: "296",
@@ -7110,7 +7110,7 @@ module.exports = [
     },
     {
         name: "PORTER",
-        from: "WARREN",
+        fromStreet: "WARREN",
         to: "HARDING",
         width: "34",
         streetLength: "641",
@@ -7119,7 +7119,7 @@ module.exports = [
     },
     {
         name: "PORTER CIR",
-        from: "PORTER RD",
+        fromStreet: "PORTER RD",
         to: "NORTHERLY",
         width: "25",
         unnacceptedstreetLength: "100",
@@ -7127,7 +7127,7 @@ module.exports = [
     },
     {
         name: "PORTER PK",
-        from: "PORTER RD",
+        fromStreet: "PORTER RD",
         to: "SOUTHERLY",
         width: "20",
         unnacceptedstreetLength: "120",
@@ -7135,7 +7135,7 @@ module.exports = [
     },
     {
         name: "PORTER RD",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WESTERLY",
         width: "40",
         streetLength: "847",
@@ -7144,7 +7144,7 @@ module.exports = [
     },
     {
         name: "PORTLAND-01",
-        from: "ALBANY",
+        fromStreet: "ALBANY",
         to: "MAIN",
         width: "50",
         streetLength: "400",
@@ -7153,7 +7153,7 @@ module.exports = [
     },
     {
         name: "PORTLAND-02",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "HAMPSHIRE",
         width: "50",
         streetLength: "1340",
@@ -7162,7 +7162,7 @@ module.exports = [
     },
     {
         name: "PORTSMOUTH",
-        from: "WEBSTER AVE",
+        fromStreet: "WEBSTER AVE",
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "327",
@@ -7171,7 +7171,7 @@ module.exports = [
     },
     {
         name: "POTTER",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "SIXTH",
         width: "50",
         unnacceptedstreetLength: "866",
@@ -7179,7 +7179,7 @@ module.exports = [
     },
     {
         name: "POTTER PK",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "SOUTHERLY",
         width: "25",
         unnacceptedstreetLength: "160",
@@ -7187,7 +7187,7 @@ module.exports = [
     },
     {
         name: "PRENTISS-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "FROST",
         width: "30",
         streetLength: "413",
@@ -7196,7 +7196,7 @@ module.exports = [
     },
     {
         name: "PRENTISS-02",
-        from: "FROST",
+        fromStreet: "FROST",
         to: "OXFORD",
         width: "40",
         streetLength: "395",
@@ -7205,7 +7205,7 @@ module.exports = [
     },
     {
         name: "PRENTISS-03",
-        from: "OXFORD",
+        fromStreet: "OXFORD",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "315",
@@ -7214,7 +7214,7 @@ module.exports = [
     },
     {
         name: "PRESCOTT-01",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BROADWAY",
         width: "40",
         streetLength: "785",
@@ -7223,7 +7223,7 @@ module.exports = [
     },
     {
         name: "PRESCOTT-02",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "290",
@@ -7232,7 +7232,7 @@ module.exports = [
     },
     {
         name: "PRINCE",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "30",
         streetLength: "530",
@@ -7241,7 +7241,7 @@ module.exports = [
     },
     {
         name: "PROSPECT-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BISHOP ALLEN",
         width: "50",
         streetLength: "290",
@@ -7250,7 +7250,7 @@ module.exports = [
     },
     {
         name: "PROSPECT-02",
-        from: "BISHOP ALLEN",
+        fromStreet: "BISHOP ALLEN",
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "3030",
@@ -7259,7 +7259,7 @@ module.exports = [
     },
     {
         name: "PURRINGTON",
-        from: "CROSS",
+        fromStreet: "CROSS",
         to: "PACIFIC",
         width: "50",
         unnacceptedstreetLength: "862",
@@ -7267,7 +7267,7 @@ module.exports = [
     },
     {
         name: "PUTNAM AVE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WESTERN AVE",
         width: "40",
         streetLength: "1900",
@@ -7276,7 +7276,7 @@ module.exports = [
     },
     {
         name: "PUTNAM AVE-02",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "RIVER",
         width: "40",
         streetLength: "740",
@@ -7285,7 +7285,7 @@ module.exports = [
     },
     {
         name: "PUTNAM AVE-03",
-        from: "RIVER",
+        fromStreet: "RIVER",
         to: "PLEASANT",
         width: "50",
         streetLength: "800",
@@ -7294,7 +7294,7 @@ module.exports = [
     },
     {
         name: "PUTNAM AVE-04",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "WAVERLY",
         width: "40",
         streetLength: "2300",
@@ -7303,7 +7303,7 @@ module.exports = [
     },
     {
         name: "PUTNAM CT",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "SOUTHERLY",
         width: "30",
         unnacceptedstreetLength: "110",
@@ -7311,7 +7311,7 @@ module.exports = [
     },
     {
         name: "QUINCY",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "KIRKLAND",
         width: "40",
         streetLength: "1661",
@@ -7320,7 +7320,7 @@ module.exports = [
     },
     {
         name: "RAYMOND-01",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "WALDEN",
         width: "40",
         streetLength: "1719",
@@ -7329,7 +7329,7 @@ module.exports = [
     },
     {
         name: "RAYMOND-02",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "RICHDALE",
         width: "40",
         streetLength: "825",
@@ -7338,7 +7338,7 @@ module.exports = [
     },
     {
         name: "REARDON",
-        from: "WAVERLY",
+        fromStreet: "WAVERLY",
         to: "ANGLIM",
         width: "30",
         unnacceptedstreetLength: "265",
@@ -7346,7 +7346,7 @@ module.exports = [
     },
     {
         name: "REED",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "HARVEY",
         width: "40",
         streetLength: "1358",
@@ -7355,7 +7355,7 @@ module.exports = [
     },
     {
         name: "REED ST CT",
-        from: "REED",
+        fromStreet: "REED",
         to: "WESTERLY",
         width: "15",
         unnacceptedstreetLength: "100",
@@ -7363,7 +7363,7 @@ module.exports = [
     },
     {
         name: "REED ST TERR",
-        from: "REED",
+        fromStreet: "REED",
         to: "MONTGOMERY",
         width: "7",
         unnacceptedstreetLength: "240",
@@ -7371,7 +7371,7 @@ module.exports = [
     },
     {
         name: "REGENT",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "500",
@@ -7380,12 +7380,12 @@ module.exports = [
     },
     {
         name: "REID OVERPASS",
-        from: "(OVER B.U. ROTARY)",
+        fromStreet: "(OVER B.U. ROTARY)",
         noncity: "X",
     },
     {
         name: "REMINGTON",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "HARVARD",
         width: "40",
         streetLength: "361",
@@ -7394,13 +7394,13 @@ module.exports = [
     },
     {
         name: "RENZ WY",
-        from: "COLUMBIA (S OF WA)",
+        fromStreet: "COLUMBIA (S OF WA)",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "RESERVOIR",
-        from: "FAYERWEATHER",
+        fromStreet: "FAYERWEATHER",
         to: "VASSAL LN",
         width: "50",
         streetLength: "1666",
@@ -7409,7 +7409,7 @@ module.exports = [
     },
     {
         name: "REVERE-01",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "NUTTING",
         width: "15",
         unnacceptedstreetLength: "185",
@@ -7417,14 +7417,14 @@ module.exports = [
     },
     {
         name: "REVERE-02",
-        from: "NUTTING",
+        fromStreet: "NUTTING",
         to: "SOUTHERLY",
         width: "15",
         noncity: "X",
     },
     {
         name: "RICE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RINDGE AVE",
         width: "40",
         streetLength: "983",
@@ -7433,7 +7433,7 @@ module.exports = [
     },
     {
         name: "RICE CIR",
-        from: "RICE",
+        fromStreet: "RICE",
         to: "NORTHERLY",
         width: "21",
         unnacceptedstreetLength: "150",
@@ -7441,7 +7441,7 @@ module.exports = [
     },
     {
         name: "RICE PK",
-        from: "RICE",
+        fromStreet: "RICE",
         to: "SOUTHERLY",
         width: "14",
         unnacceptedstreetLength: "91",
@@ -7449,7 +7449,7 @@ module.exports = [
     },
     {
         name: "RICHARD AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MULLER AVE",
         width: "40",
         streetLength: "368",
@@ -7458,7 +7458,7 @@ module.exports = [
     },
     {
         name: "RICHARDSON",
-        from: "NORFOLK",
+        fromStreet: "NORFOLK",
         to: "ELM",
         width: "20",
         unnacceptedstreetLength: "220",
@@ -7466,7 +7466,7 @@ module.exports = [
     },
     {
         name: "RICHDALE AVE-01",
-        from: "RAYMOND",
+        fromStreet: "RAYMOND",
         to: "WALDEN",
         width: "40",
         streetLength: "975",
@@ -7475,7 +7475,7 @@ module.exports = [
     },
     {
         name: "RICHDALE AVE-02",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "UPLAND RD",
         width: "45",
         streetLength: "1057",
@@ -7484,7 +7484,7 @@ module.exports = [
     },
     {
         name: "RIEDESEL AVE",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "BREWSTER",
         width: "35",
         streetLength: "350",
@@ -7493,7 +7493,7 @@ module.exports = [
     },
     {
         name: "RINDGE AVE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "CEDAR",
         width: "50",
         streetLength: "1650",
@@ -7502,7 +7502,7 @@ module.exports = [
     },
     {
         name: "RINDGE AVE-02",
-        from: "CEDAR",
+        fromStreet: "CEDAR",
         to: "ALEWIFE BRK PKWY",
         width: "40",
         streetLength: "2905",
@@ -7511,7 +7511,7 @@ module.exports = [
     },
     {
         name: "RINDGE TERR",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "110",
@@ -7519,7 +7519,7 @@ module.exports = [
     },
     {
         name: "RINDGEFIELD",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "HOLLIS",
         width: "32",
         streetLength: "475",
@@ -7528,7 +7528,7 @@ module.exports = [
     },
     {
         name: "RIVER",
-        from: "GREEN",
+        fromStreet: "GREEN",
         to: "MEMORIAL DR",
         width: "50",
         streetLength: "3490",
@@ -7537,7 +7537,7 @@ module.exports = [
     },
     {
         name: "RIVERSIDE PL",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "NORTHERLY",
         width: "20",
         streetLength: "120",
@@ -7546,7 +7546,7 @@ module.exports = [
     },
     {
         name: "RIVERSIDE RD",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "624",
@@ -7555,7 +7555,7 @@ module.exports = [
     },
     {
         name: "RIVERVIEW AVE",
-        from: "DEWOLFE",
+        fromStreet: "DEWOLFE",
         to: "WESTERLY",
         width: "35",
         date: "1874",
@@ -7564,7 +7564,7 @@ module.exports = [
     },
     {
         name: "ROBERTS RD",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "KIRKLAND",
         width: "40",
         streetLength: "1098",
@@ -7573,7 +7573,7 @@ module.exports = [
     },
     {
         name: "ROBINSON",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "RAYMOND",
         width: "40",
         streetLength: "643",
@@ -7582,7 +7582,7 @@ module.exports = [
     },
     {
         name: "ROCKINGHAM",
-        from: "HENRY",
+        fromStreet: "HENRY",
         to: "GRANITE",
         width: "40",
         streetLength: "380",
@@ -7591,7 +7591,7 @@ module.exports = [
     },
     {
         name: "ROCKINGHAM PL",
-        from: "ROCKINGHAM",
+        fromStreet: "ROCKINGHAM",
         to: "EASTERLY",
         width: "18",
         unnacceptedstreetLength: "120",
@@ -7599,7 +7599,7 @@ module.exports = [
     },
     {
         name: "ROCKWELL",
-        from: "PLEASANT",
+        fromStreet: "PLEASANT",
         to: "RIVER",
         width: "30",
         streetLength: "383",
@@ -7608,7 +7608,7 @@ module.exports = [
     },
     {
         name: "ROGERS-01",
-        from: "LAND BLVD",
+        fromStreet: "LAND BLVD",
         to: "THIRD",
         width: "50",
         streetLength: "1430",
@@ -7617,7 +7617,7 @@ module.exports = [
     },
     {
         name: "ROGERS-02",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "SIXTH",
         width: "50",
         unnacceptedstreetLength: "1114",
@@ -7625,7 +7625,7 @@ module.exports = [
     },
     {
         name: "ROGERS-03",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "FULKERSON",
         width: "50",
         unnacceptedstreetLength: "540",
@@ -7633,7 +7633,7 @@ module.exports = [
     },
     {
         name: "ROLLINS CT",
-        from: "WATSON",
+        fromStreet: "WATSON",
         to: "SOUTHERLY",
         width: "10",
         unnacceptedstreetLength: "130",
@@ -7641,7 +7641,7 @@ module.exports = [
     },
     {
         name: "ROSELAND",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "576",
@@ -7650,7 +7650,7 @@ module.exports = [
     },
     {
         name: "ROSS",
-        from: "GERRY",
+        fromStreet: "GERRY",
         to: "BREWER",
         width: "20",
         streetLength: "135",
@@ -7659,7 +7659,7 @@ module.exports = [
     },
     {
         name: "ROYAL AVE",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "CONCORD AVE",
         width: "40",
         streetLength: "540",
@@ -7668,7 +7668,7 @@ module.exports = [
     },
     {
         name: "RUFO RD",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "NORTHERLY",
         width: "40",
         unnacceptedstreetLength: "260",
@@ -7676,7 +7676,7 @@ module.exports = [
     },
     {
         name: "RUSSELL",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "280",
@@ -7685,7 +7685,7 @@ module.exports = [
     },
     {
         name: "RUTLAND",
-        from: "SHEPARD",
+        fromStreet: "SHEPARD",
         to: "LANGDON",
         width: "40",
         streetLength: "336",
@@ -7694,7 +7694,7 @@ module.exports = [
     },
     {
         name: "SACRAMENTO",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "1725",
@@ -7703,7 +7703,7 @@ module.exports = [
     },
     {
         name: "SACRAMENTO PL",
-        from: "SACRAMENTO",
+        fromStreet: "SACRAMENTO",
         to: "NORTHERLY",
         width: "24",
         streetLength: "245",
@@ -7712,7 +7712,7 @@ module.exports = [
     },
     {
         name: "SAGINAW AVE",
-        from: "SOMERVILLE LINE",
+        fromStreet: "SOMERVILLE LINE",
         to: "DAVENPORT",
         width: "25",
         unnacceptedstreetLength: "275",
@@ -7720,7 +7720,7 @@ module.exports = [
     },
     {
         name: "SAINT GERARD TERR",
-        from: "HOLLIS",
+        fromStreet: "HOLLIS",
         to: "EASTERLY",
         width: "12",
         unnacceptedstreetLength: "125",
@@ -7728,7 +7728,7 @@ module.exports = [
     },
     {
         name: "SAINT JOHN'S RD",
-        from: "PHILLIPS PL",
+        fromStreet: "PHILLIPS PL",
         to: "WESTERLY",
         width: "12",
         unnacceptedstreetLength: "300",
@@ -7736,7 +7736,7 @@ module.exports = [
     },
     {
         name: "SAINT MARY RD-01",
-        from: "PROSPECT",
+        fromStreet: "PROSPECT",
         to: "AMORY",
         width: "30",
         streetLength: "250",
@@ -7745,7 +7745,7 @@ module.exports = [
     },
     {
         name: "SAINT MARY RD-02",
-        from: "AMORY",
+        fromStreet: "AMORY",
         to: "INMAN",
         width: "30",
         streetLength: "250",
@@ -7754,7 +7754,7 @@ module.exports = [
     },
     {
         name: "SAINT PAUL",
-        from: "PROSPECT",
+        fromStreet: "PROSPECT",
         to: "WESTERLY",
         width: "30-35",
         unnacceptedstreetLength: "485",
@@ -7762,7 +7762,7 @@ module.exports = [
     },
     {
         name: "SAINT SAVEUR CT",
-        from: "CUSHING",
+        fromStreet: "CUSHING",
         to: "LAWN",
         width: "30-40",
         unnacceptedstreetLength: "570",
@@ -7770,7 +7770,7 @@ module.exports = [
     },
     {
         name: "SALEM",
-        from: "AUBURN",
+        fromStreet: "AUBURN",
         to: "WATSON",
         width: "27",
         streetLength: "260",
@@ -7779,7 +7779,7 @@ module.exports = [
     },
     {
         name: "SARGENT",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "PEMBERTON",
         width: "30",
         streetLength: "841",
@@ -7788,7 +7788,7 @@ module.exports = [
     },
     {
         name: "SAVILLE-01",
-        from: "APPLETON",
+        fromStreet: "APPLETON",
         to: "WALDEN",
         width: "40",
         streetLength: "310",
@@ -7797,7 +7797,7 @@ module.exports = [
     },
     {
         name: "SAVILLE-02",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "320",
@@ -7806,7 +7806,7 @@ module.exports = [
     },
     {
         name: "SCHOOL",
-        from: "WINDSOR",
+        fromStreet: "WINDSOR",
         to: "BISHOP ALLEN",
         width: "30",
         streetLength: "640",
@@ -7815,7 +7815,7 @@ module.exports = [
     },
     {
         name: "SCIARAPPA-01",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "GORE",
         width: "50",
         streetLength: "400",
@@ -7824,7 +7824,7 @@ module.exports = [
     },
     {
         name: "SCIARAPPA-02",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "250",
@@ -7833,7 +7833,7 @@ module.exports = [
     },
     {
         name: "SCIARAPPA-03",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "THORNDIKE",
         width: "50",
         streetLength: "450",
@@ -7842,7 +7842,7 @@ module.exports = [
     },
     {
         name: "SCIARAPPA-04",
-        from: "THORNDIKE",
+        fromStreet: "THORNDIKE",
         to: "SPRING",
         width: "50",
         streetLength: "300",
@@ -7851,7 +7851,7 @@ module.exports = [
     },
     {
         name: "SCIARAPPA-05",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "HURLEY",
         width: "50",
         streetLength: "250",
@@ -7860,7 +7860,7 @@ module.exports = [
     },
     {
         name: "SCIARAPPA-06",
-        from: "HURLEY",
+        fromStreet: "HURLEY",
         to: "CHARLES",
         width: "50",
         streetLength: "250",
@@ -7869,7 +7869,7 @@ module.exports = [
     },
     {
         name: "SCOTT",
-        from: "IRVING",
+        fromStreet: "IRVING",
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "929",
@@ -7878,7 +7878,7 @@ module.exports = [
     },
     {
         name: "SCOUTING WAY",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HARVARD",
         width: "15",
         unnacceptedstreetLength: "352",
@@ -7886,7 +7886,7 @@ module.exports = [
     },
     {
         name: "SEAGRAVE RD",
-        from: "KIMBALL",
+        fromStreet: "KIMBALL",
         to: "WHITTEMORE AVE",
         width: "25",
         streetLength: "685",
@@ -7895,7 +7895,7 @@ module.exports = [
     },
     {
         name: "SECKEL",
-        from: "WEBSTER AVE",
+        fromStreet: "WEBSTER AVE",
         to: "WINDSOR",
         width: "30",
         streetLength: "275",
@@ -7904,7 +7904,7 @@ module.exports = [
     },
     {
         name: "SECOND-01",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "OTIS",
         width: "40",
         streetLength: "510",
@@ -7913,7 +7913,7 @@ module.exports = [
     },
     {
         name: "SECOND-02",
-        from: "OTIS",
+        fromStreet: "OTIS",
         to: "THORNDIKE",
         width: "50",
         streetLength: "250",
@@ -7922,7 +7922,7 @@ module.exports = [
     },
     {
         name: "SECOND-03",
-        from: "THORNDIKE",
+        fromStreet: "THORNDIKE",
         to: "SPRING",
         width: "50",
         streetLength: "250",
@@ -7931,7 +7931,7 @@ module.exports = [
     },
     {
         name: "SECOND-04",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "CHARLES",
         width: "50",
         streetLength: "500",
@@ -7940,7 +7940,7 @@ module.exports = [
     },
     {
         name: "SECOND-05",
-        from: "CHARLES",
+        fromStreet: "CHARLES",
         to: "BINNEY",
         width: "50",
         streetLength: "750",
@@ -7949,7 +7949,7 @@ module.exports = [
     },
     {
         name: "SECOND-06",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "ATHENAEUM",
         width: "50",
         streetLength: "450",
@@ -7958,7 +7958,7 @@ module.exports = [
     },
     {
         name: "SEDGWICK RD",
-        from: "KIRKLAND",
+        fromStreet: "KIRKLAND",
         to: "NORTHERLY",
         width: "10",
         unnacceptedstreetLength: "100",
@@ -7966,7 +7966,7 @@ module.exports = [
     },
     {
         name: "SELLERS",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "GREEN",
         width: "40",
         streetLength: "205",
@@ -7975,7 +7975,7 @@ module.exports = [
     },
     {
         name: "SEVEN PINES AVE",
-        from: "CAMERON",
+        fromStreet: "CAMERON",
         to: "GOLD STAR RD",
         width: "40",
         streetLength: "321",
@@ -7984,7 +7984,7 @@ module.exports = [
     },
     {
         name: "SEVENTH-01",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "CAMBRIDGE",
         width: "30",
         streetLength: "265",
@@ -7993,7 +7993,7 @@ module.exports = [
     },
     {
         name: "SEVENTH-02",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOUTHERLY",
         width: "40",
         streetLength: "615",
@@ -8002,7 +8002,7 @@ module.exports = [
     },
     {
         name: "SEVENTH-03",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "NORTHERLY",
         width: "40",
         streetLength: "88",
@@ -8011,7 +8011,7 @@ module.exports = [
     },
     {
         name: "SHADY HILL RD",
-        from: "COOLIDGE AVE",
+        fromStreet: "COOLIDGE AVE",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "220",
@@ -8019,13 +8019,13 @@ module.exports = [
     },
     {
         name: "SHADY HILL SQ",
-        from: "HOLDEN",
+        fromStreet: "HOLDEN",
         to: "HOLDEN",
         noncity: "X",
     },
     {
         name: "SHALER LN",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "DOANE",
         width: "20",
         unnacceptedstreetLength: "280",
@@ -8033,7 +8033,7 @@ module.exports = [
     },
     {
         name: "SHEA RD",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "480",
@@ -8042,7 +8042,7 @@ module.exports = [
     },
     {
         name: "SHEPARD-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "AVON",
         width: "40",
         streetLength: "570",
@@ -8051,7 +8051,7 @@ module.exports = [
     },
     {
         name: "SHEPARD-02",
-        from: "AVON",
+        fromStreet: "AVON",
         to: "GARDEN",
         width: "40",
         streetLength: "930",
@@ -8060,7 +8060,7 @@ module.exports = [
     },
     {
         name: "SHERIDAN-01",
-        from: "RAYMOND",
+        fromStreet: "RAYMOND",
         to: "LINCOLN  WAY",
         width: "40",
         streetLength: "142",
@@ -8069,7 +8069,7 @@ module.exports = [
     },
     {
         name: "SHERIDAN-02",
-        from: "LINCOLN  WAY",
+        fromStreet: "LINCOLN  WAY",
         to: "WOOD",
         width: "40",
         streetLength: "106",
@@ -8078,7 +8078,7 @@ module.exports = [
     },
     {
         name: "SHERMAN-01",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "RAILWAY",
         width: "40",
         streetLength: "1910",
@@ -8087,7 +8087,7 @@ module.exports = [
     },
     {
         name: "SHERMAN-02",
-        from: "RAILWAY",
+        fromStreet: "RAILWAY",
         to: "RINDGE AVE",
         width: "40",
         streetLength: "1750",
@@ -8096,7 +8096,7 @@ module.exports = [
     },
     {
         name: "SIBLEY CT",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "WESTERLY",
         width: "15",
         unnacceptedstreetLength: "160",
@@ -8104,7 +8104,7 @@ module.exports = [
     },
     {
         name: "SIDNEY-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "AUBURN",
         width: "40",
         streetLength: "675",
@@ -8113,7 +8113,7 @@ module.exports = [
     },
     {
         name: "SIDNEY-02",
-        from: "AUBURN",
+        fromStreet: "AUBURN",
         to: "PACIFIC",
         width: "40",
         streetLength: "500",
@@ -8122,7 +8122,7 @@ module.exports = [
     },
     {
         name: "SIDNEY-03",
-        from: "PACIFIC",
+        fromStreet: "PACIFIC",
         to: "CHESTNUT",
         width: "40",
         streetLength: "2391",
@@ -8131,7 +8131,7 @@ module.exports = [
     },
     {
         name: "SIDNEY-04",
-        from: "CHESTNUT",
+        fromStreet: "CHESTNUT",
         to: "HENRY",
         width: "40",
         streetLength: "275",
@@ -8140,7 +8140,7 @@ module.exports = [
     },
     {
         name: "SIDNEY-05",
-        from: "HENRY",
+        fromStreet: "HENRY",
         to: "GRANITE",
         width: "40",
         unnacceptedstreetLength: "120",
@@ -8148,7 +8148,7 @@ module.exports = [
     },
     {
         name: "SIXTH-01",
-        from: "GORE",
+        fromStreet: "GORE",
         to: "THORNDIKE",
         width: "50",
         streetLength: "690",
@@ -8157,7 +8157,7 @@ module.exports = [
     },
     {
         name: "SIXTH-02",
-        from: "THORNDIKE",
+        fromStreet: "THORNDIKE",
         to: "SPRING",
         width: "50",
         streetLength: "250",
@@ -8166,7 +8166,7 @@ module.exports = [
     },
     {
         name: "SIXTH-03",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "BINNEY",
         width: "50",
         streetLength: "1980",
@@ -8175,7 +8175,7 @@ module.exports = [
     },
     {
         name: "SIXTH-WALKWAY",
-        from: "BINNEY",
+        fromStreet: "BINNEY",
         to: "BROADWAY",
         width: "50",
         date: "1985",
@@ -8183,7 +8183,7 @@ module.exports = [
     },
     {
         name: "SMART",
-        from: "STATE",
+        fromStreet: "STATE",
         to: "MASS AVE",
         width: "30",
         unnacceptedstreetLength: "425",
@@ -8191,7 +8191,7 @@ module.exports = [
     },
     {
         name: "SMITH PL-01",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "ANGLE",
         width: "33",
         streetLength: "410",
@@ -8200,7 +8200,7 @@ module.exports = [
     },
     {
         name: "SMITH PL-02",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "WISLON RD",
         width: "40",
         streetLength: "330",
@@ -8209,7 +8209,7 @@ module.exports = [
     },
     {
         name: "SMITH PL-03",
-        from: "WISLON RD",
+        fromStreet: "WISLON RD",
         to: "MOONEY",
         width: "40",
         streetLength: "670",
@@ -8218,7 +8218,7 @@ module.exports = [
     },
     {
         name: "SODEN",
-        from: "WESTERN AVE",
+        fromStreet: "WESTERN AVE",
         to: "FRANKLIN",
         width: "40",
         streetLength: "463",
@@ -8227,7 +8227,7 @@ module.exports = [
     },
     {
         name: "SODEN PL",
-        from: "SODEN",
+        fromStreet: "SODEN",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "80",
@@ -8235,7 +8235,7 @@ module.exports = [
     },
     {
         name: "SOMERVILLE AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "EASTERLY",
         width: "70",
         streetLength: "440",
@@ -8244,7 +8244,7 @@ module.exports = [
     },
     {
         name: "SOUTH NORMANDY AVE",
-        from: "BLANCHARD",
+        fromStreet: "BLANCHARD",
         to: "NORMANDY AVE",
         width: "40",
         streetLength: "600",
@@ -8253,7 +8253,7 @@ module.exports = [
     },
     {
         name: "SOUTH-01",
-        from: "JFK",
+        fromStreet: "JFK",
         to: "DUNSTER",
         width: "21",
         streetLength: "230",
@@ -8262,7 +8262,7 @@ module.exports = [
     },
     {
         name: "SOUTH-02",
-        from: "DUNSTER",
+        fromStreet: "DUNSTER",
         to: "HOLYOKE",
         width: "21",
         streetLength: "250",
@@ -8271,7 +8271,7 @@ module.exports = [
     },
     {
         name: "SPARKS PL",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "WESTERLY",
         width: "16",
         unnacceptedstreetLength: "145",
@@ -8279,7 +8279,7 @@ module.exports = [
     },
     {
         name: "SPARKS-01",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "BRATTLE",
         width: "40",
         streetLength: "1090",
@@ -8288,7 +8288,7 @@ module.exports = [
     },
     {
         name: "SPARKS-02",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "HURON AVE",
         width: "40",
         streetLength: "1355",
@@ -8297,7 +8297,7 @@ module.exports = [
     },
     {
         name: "SPERIDAKIS TERR",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "EASTERLY",
         width: "30",
         streetLength: "360",
@@ -8306,7 +8306,7 @@ module.exports = [
     },
     {
         name: "SPINELLI PL",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "NORTHERLY",
         width: "40",
         streetLength: "549",
@@ -8315,7 +8315,7 @@ module.exports = [
     },
     {
         name: "SPRING PL",
-        from: "SPRING",
+        fromStreet: "SPRING",
         to: "SOUTHERLY",
         width: "5",
         unnacceptedstreetLength: "260",
@@ -8323,7 +8323,7 @@ module.exports = [
     },
     {
         name: "SPRING-01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "SECOND",
         width: "50",
         streetLength: "400",
@@ -8332,7 +8332,7 @@ module.exports = [
     },
     {
         name: "SPRING-02",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "SIXTH",
         width: "50",
         streetLength: "1627",
@@ -8341,7 +8341,7 @@ module.exports = [
     },
     {
         name: "SPRING-03",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "FULKERSON",
         width: "50",
         streetLength: "530",
@@ -8350,7 +8350,7 @@ module.exports = [
     },
     {
         name: "SPRINGFIELD",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "226",
@@ -8359,7 +8359,7 @@ module.exports = [
     },
     {
         name: "SPRUCE AVE",
-        from: "HOLWORTHY",
+        fromStreet: "HOLWORTHY",
         to: "CUSHING",
         width: "30",
         unnacceptedstreetLength: "340",
@@ -8367,7 +8367,7 @@ module.exports = [
     },
     {
         name: "STANDISH",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "VASSAL LN",
         width: "40",
         streetLength: "950",
@@ -8376,7 +8376,7 @@ module.exports = [
     },
     {
         name: "STATE",
-        from: "OSBORN",
+        fromStreet: "OSBORN",
         to: "MASS AVE",
         width: "40",
         unnacceptedstreetLength: "802",
@@ -8384,7 +8384,7 @@ module.exports = [
     },
     {
         name: "STEARNS-01",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "SHERMAN",
         width: "40",
         streetLength: "310",
@@ -8393,7 +8393,7 @@ module.exports = [
     },
     {
         name: "STEARNS-02",
-        from: "SHERMAN",
+        fromStreet: "SHERMAN",
         to: "ESTEN",
         width: "10",
         streetLength: "305",
@@ -8402,7 +8402,7 @@ module.exports = [
     },
     {
         name: "STEARNS-03",
-        from: "ESTEN",
+        fromStreet: "ESTEN",
         to: "NEWELL",
         width: "40",
         streetLength: "100",
@@ -8411,7 +8411,7 @@ module.exports = [
     },
     {
         name: "STEVENS CT",
-        from: "FOURTH",
+        fromStreet: "FOURTH",
         to: "WESTERLY",
         width: "15",
         unnacceptedstreetLength: "150",
@@ -8419,7 +8419,7 @@ module.exports = [
     },
     {
         name: "STINSON CT",
-        from: "ALLSTON",
+        fromStreet: "ALLSTON",
         to: "SOUTHERLY",
         width: "12",
         unnacceptedstreetLength: "175",
@@ -8427,7 +8427,7 @@ module.exports = [
     },
     {
         name: "STONE CT",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WESTERLY",
         width: "19",
         unnacceptedstreetLength: "130",
@@ -8435,7 +8435,7 @@ module.exports = [
     },
     {
         name: "STORY",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "33",
         streetLength: "470",
@@ -8444,7 +8444,7 @@ module.exports = [
     },
     {
         name: "SUFFOLK",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "NORFOLK",
         width: "30",
         streetLength: "520",
@@ -8453,7 +8453,7 @@ module.exports = [
     },
     {
         name: "SULLIVAN RD",
-        from: "BELMONT",
+        fromStreet: "BELMONT",
         to: "THINGVALLA AVE",
         width: "40",
         streetLength: "316",
@@ -8462,7 +8462,7 @@ module.exports = [
     },
     {
         name: "SUMNER RD",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "KIRKLAND",
         width: "40",
         streetLength: "580",
@@ -8471,7 +8471,7 @@ module.exports = [
     },
     {
         name: "SUNSET RD-01",
-        from: "SOUTH NORMANDY AVE",
+        fromStreet: "SOUTH NORMANDY AVE",
         to: "75' SOUTHERLY",
         width: "30",
         streetLength: "75",
@@ -8480,7 +8480,7 @@ module.exports = [
     },
     {
         name: "SUNSET RD-02",
-        from: "GRISWOLD",
+        fromStreet: "GRISWOLD",
         to: "75' S OF S NORMANDY",
         width: "40",
         streetLength: "463",
@@ -8489,7 +8489,7 @@ module.exports = [
     },
     {
         name: "SURREY",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "BANKS",
         width: "40",
         streetLength: "280",
@@ -8498,7 +8498,7 @@ module.exports = [
     },
     {
         name: "SYCAMORE",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "EASTERLY",
         width: "30",
         unnacceptedstreetLength: "150",
@@ -8506,7 +8506,7 @@ module.exports = [
     },
     {
         name: "TALBOT",
-        from: "WAVERLY",
+        fromStreet: "WAVERLY",
         to: "RAILWAY",
         width: "30",
         streetLength: "203",
@@ -8515,7 +8515,7 @@ module.exports = [
     },
     {
         name: "TEMPLE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "BISHOP ALLEN",
         width: "36",
         streetLength: "284",
@@ -8524,7 +8524,7 @@ module.exports = [
     },
     {
         name: "TENNEY",
-        from: "ORCHARD",
+        fromStreet: "ORCHARD",
         to: "SOMERVILLE LINE",
         width: "24",
         streetLength: "373",
@@ -8533,7 +8533,7 @@ module.exports = [
     },
     {
         name: "TERMINAL RD",
-        from: "ALEWIFE BROOK PKWAY",
+        fromStreet: "ALEWIFE BROOK PKWAY",
         to: "WHEELER",
         width: "40",
         unnacceptedstreetLength: "300",
@@ -8541,7 +8541,7 @@ module.exports = [
     },
     {
         name: "THERIAULT CT",
-        from: "JACKSON",
+        fromStreet: "JACKSON",
         to: "CLIFTON",
         width: "20",
         unnacceptedstreetLength: "240",
@@ -8549,7 +8549,7 @@ module.exports = [
     },
     {
         name: "THINGVILLA AVE",
-        from: "CUSHING",
+        fromStreet: "CUSHING",
         to: "BELMONT LINE",
         width: "40",
         streetLength: "810",
@@ -8558,7 +8558,7 @@ module.exports = [
     },
     {
         name: "THIRD-01",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "POTTER",
         width: "50",
         streetLength: "352",
@@ -8567,7 +8567,7 @@ module.exports = [
     },
     {
         name: "THIRD-02",
-        from: "POTTER",
+        fromStreet: "POTTER",
         to: "CHARLES",
         width: "60",
         streetLength: "1517",
@@ -8576,7 +8576,7 @@ module.exports = [
     },
     {
         name: "THIRD-03",
-        from: "CHARLES",
+        fromStreet: "CHARLES",
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "1458",
@@ -8585,7 +8585,7 @@ module.exports = [
     },
     {
         name: "THIRD-04",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "MCGRATH OBRIEN",
         width: "50",
         streetLength: "495",
@@ -8594,7 +8594,7 @@ module.exports = [
     },
     {
         name: "THIRD-05",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "NORTHERLY TO RR",
         width: "45",
         unnacceptedstreetLength: "120",
@@ -8602,13 +8602,13 @@ module.exports = [
     },
     {
         name: "THOMAS PK",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "WESTERLY",
         noncity: "X",
     },
     {
         name: "THORNDIKE-01",
-        from: "FIRST",
+        fromStreet: "FIRST",
         to: "SECOND",
         width: "50",
         streetLength: "400",
@@ -8617,7 +8617,7 @@ module.exports = [
     },
     {
         name: "THORNDIKE-02",
-        from: "SECOND",
+        fromStreet: "SECOND",
         to: "THIRD",
         width: "50",
         streetLength: "345",
@@ -8626,7 +8626,7 @@ module.exports = [
     },
     {
         name: "THORNDIKE-03",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "SIXTH",
         width: "50",
         streetLength: "1253",
@@ -8635,7 +8635,7 @@ module.exports = [
     },
     {
         name: "THORNDIKE-04",
-        from: "SIXTH",
+        fromStreet: "SIXTH",
         to: "FULKERSON",
         width: "40",
         streetLength: "530",
@@ -8644,7 +8644,7 @@ module.exports = [
     },
     {
         name: "THORNDIKE-05",
-        from: "FULKERSON",
+        fromStreet: "FULKERSON",
         to: "RAILWAY",
         width: "40",
         date: "1985",
@@ -8653,7 +8653,7 @@ module.exports = [
     },
     {
         name: "TIERNEY",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "ORRIN",
         width: "30",
         streetLength: "360",
@@ -8662,7 +8662,7 @@ module.exports = [
     },
     {
         name: "TRAILL",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "ELMWOOD AVE",
         width: "40",
         streetLength: "460",
@@ -8671,7 +8671,7 @@ module.exports = [
     },
     {
         name: "TRAYMORE",
-        from: "EUSTIS",
+        fromStreet: "EUSTIS",
         to: "PRENTISS",
         width: "30",
         streetLength: "255",
@@ -8680,7 +8680,7 @@ module.exports = [
     },
     {
         name: "TREMONT-01",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "1000",
@@ -8689,7 +8689,7 @@ module.exports = [
     },
     {
         name: "TREMONT-02",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "1050",
@@ -8698,7 +8698,7 @@ module.exports = [
     },
     {
         name: "TROWBRIDGE PL",
-        from: "TROWBRIDGE",
+        fromStreet: "TROWBRIDGE",
         to: "WESTERLY",
         width: "30",
         unnacceptedstreetLength: "180",
@@ -8706,7 +8706,7 @@ module.exports = [
     },
     {
         name: "TROWBRIDGE TERR",
-        from: "TROWBRIDGE",
+        fromStreet: "TROWBRIDGE",
         to: "EASTERLY",
         width: "15",
         unnacceptedstreetLength: "100",
@@ -8714,7 +8714,7 @@ module.exports = [
     },
     {
         name: "TROWBRIDGE-01",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "KIRKLAND",
         width: "40",
         streetLength: "930",
@@ -8723,7 +8723,7 @@ module.exports = [
     },
     {
         name: "TROWBRIDGE-03",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "HARVARD",
         width: "40",
         streetLength: "649",
@@ -8732,7 +8732,7 @@ module.exports = [
     },
     {
         name: "TROWBRIDGE-04",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "MASS AVE",
         width: "40",
         streetLength: "505",
@@ -8741,7 +8741,7 @@ module.exports = [
     },
     {
         name: "TUDOR",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "SIDNEY",
         width: "40",
         streetLength: "456",
@@ -8750,7 +8750,7 @@ module.exports = [
     },
     {
         name: "TUFTS",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "472",
@@ -8759,13 +8759,13 @@ module.exports = [
     },
     {
         name: "TURNER CT",
-        from: "COLUMBIA (S OF HAMP)",
+        fromStreet: "COLUMBIA (S OF HAMP)",
         to: "EASTERLY",
         noncity: "X",
     },
     {
         name: "TYLER CT",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "SOUTHERLY",
         width: "20",
         streetLength: "530",
@@ -8774,7 +8774,7 @@ module.exports = [
     },
     {
         name: "UNION PL",
-        from: "UNION",
+        fromStreet: "UNION",
         to: "WESTERLY",
         width: "16",
         unnacceptedstreetLength: "65",
@@ -8782,7 +8782,7 @@ module.exports = [
     },
     {
         name: "UNION TERR",
-        from: "UNION",
+        fromStreet: "UNION",
         to: "WESTERLY",
         width: "16",
         unnacceptedstreetLength: "105",
@@ -8790,7 +8790,7 @@ module.exports = [
     },
     {
         name: "UNION-01",
-        from: "MARKET",
+        fromStreet: "MARKET",
         to: "HAMPSHIRE",
         width: "30",
         streetLength: "350",
@@ -8799,7 +8799,7 @@ module.exports = [
     },
     {
         name: "UNION-02",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "LINCOLN",
         width: "30",
         streetLength: "643",
@@ -8808,7 +8808,7 @@ module.exports = [
     },
     {
         name: "UNIVERSITY RD",
-        from: "MT AUBURN",
+        fromStreet: "MT AUBURN",
         to: "BENNETT",
         width: "40",
         streetLength: "490",
@@ -8817,7 +8817,7 @@ module.exports = [
     },
     {
         name: "UPLAND RD-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MT PLEASANT",
         width: "50",
         streetLength: "1470",
@@ -8826,7 +8826,7 @@ module.exports = [
     },
     {
         name: "UPLAND RD-02",
-        from: "MT PLEASANT",
+        fromStreet: "MT PLEASANT",
         to: "HURON AVE",
         width: "50",
         streetLength: "1317",
@@ -8835,7 +8835,7 @@ module.exports = [
     },
     {
         name: "UPTON",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "PLEASANT",
         width: "40",
         streetLength: "499",
@@ -8844,7 +8844,7 @@ module.exports = [
     },
     {
         name: "VAIL CT",
-        from: "BISHOP ALLEN",
+        fromStreet: "BISHOP ALLEN",
         to: "NORTHERLY",
         width: "25",
         unnacceptedstreetLength: "330",
@@ -8852,7 +8852,7 @@ module.exports = [
     },
     {
         name: "VALENTINE",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "484",
@@ -8861,7 +8861,7 @@ module.exports = [
     },
     {
         name: "VAN NORDEN",
-        from: "MIDDLESEX",
+        fromStreet: "MIDDLESEX",
         to: "YERXA RD",
         width: "40",
         streetLength: "338",
@@ -8870,7 +8870,7 @@ module.exports = [
     },
     {
         name: "VANDINE",
-        from: "PORTLAND",
+        fromStreet: "PORTLAND",
         to: "BERKSHIRE",
         width: "25",
         streetLength: "300",
@@ -8879,7 +8879,7 @@ module.exports = [
     },
     {
         name: "VASSAL LANE",
-        from: "HURON AVE",
+        fromStreet: "HURON AVE",
         to: "LAKEVIEW AVE",
         width: "40",
         streetLength: "2200",
@@ -8888,7 +8888,7 @@ module.exports = [
     },
     {
         name: "VASSAR-01",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "MASS AVE",
         width: "60",
         streetLength: "1540",
@@ -8897,7 +8897,7 @@ module.exports = [
     },
     {
         name: "VASSAR-02",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "DANFORTH",
         width: "32",
         streetLength: "508",
@@ -8906,7 +8906,7 @@ module.exports = [
     },
     {
         name: "VASSAR-03",
-        from: "DANFORTH",
+        fromStreet: "DANFORTH",
         to: "FOWLER",
         width: "60",
         streetLength: "1115",
@@ -8915,7 +8915,7 @@ module.exports = [
     },
     {
         name: "VASSAR-04",
-        from: "FOWLER",
+        fromStreet: "FOWLER",
         to: "AUDREY",
         width: "60",
         streetLength: "1590",
@@ -8924,7 +8924,7 @@ module.exports = [
     },
     {
         name: "VASSAR-05",
-        from: "AUDREY",
+        fromStreet: "AUDREY",
         to: "WESTERLY",
         width: "60",
         streetLength: "454",
@@ -8933,7 +8933,7 @@ module.exports = [
     },
     {
         name: "VASSAR-06",
-        from: "MEMORIAL DR",
+        fromStreet: "MEMORIAL DR",
         to: "NORTHERLY",
         width: "60",
         streetLength: "375",
@@ -8942,7 +8942,7 @@ module.exports = [
     },
     {
         name: "VERDUN",
-        from: "PEMBERTON",
+        fromStreet: "PEMBERTON",
         to: "NORTHERLY",
         width: "30",
         unnacceptedstreetLength: "280",
@@ -8950,7 +8950,7 @@ module.exports = [
     },
     {
         name: "VILLAGE",
-        from: "STATE",
+        fromStreet: "STATE",
         to: "MASS AVE",
         width: "20",
         unnacceptedstreetLength: "220",
@@ -8958,7 +8958,7 @@ module.exports = [
     },
     {
         name: "VINCENT",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "WALDEN",
         width: "40",
         streetLength: "357",
@@ -8967,7 +8967,7 @@ module.exports = [
     },
     {
         name: "VINEYARD",
-        from: "CUSHING",
+        fromStreet: "CUSHING",
         to: "MAY",
         width: "40",
         streetLength: "365",
@@ -8976,7 +8976,7 @@ module.exports = [
     },
     {
         name: "WADSWORTH",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "661",
@@ -8985,7 +8985,7 @@ module.exports = [
     },
     {
         name: "WALDEN SQ RD",
-        from: "SHERMAN",
+        fromStreet: "SHERMAN",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "120",
@@ -8993,7 +8993,7 @@ module.exports = [
     },
     {
         name: "WALDEN-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "RAILWAY",
         width: "40",
         streetLength: "830",
@@ -9002,7 +9002,7 @@ module.exports = [
     },
     {
         name: "WALDEN-02",
-        from: "RAILWAY",
+        fromStreet: "RAILWAY",
         to: "VASSAL LN",
         width: "50",
         streetLength: "3900",
@@ -9011,7 +9011,7 @@ module.exports = [
     },
     {
         name: "WALKER CT",
-        from: "FLAGG",
+        fromStreet: "FLAGG",
         to: "SOUTHERLY",
         width: "20",
         unnacceptedstreetLength: "160",
@@ -9019,7 +9019,7 @@ module.exports = [
     },
     {
         name: "WALKER ST PL",
-        from: "WALKER",
+        fromStreet: "WALKER",
         to: "SOUTHERLY",
         width: "12",
         unnacceptedstreetLength: "126",
@@ -9027,7 +9027,7 @@ module.exports = [
     },
     {
         name: "WALKER TERR",
-        from: "WALKER",
+        fromStreet: "WALKER",
         to: "SOUTHERLY",
         width: "12",
         unnacceptedstreetLength: "120",
@@ -9035,7 +9035,7 @@ module.exports = [
     },
     {
         name: "WALKER-01",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "SHEPARD",
         width: "40",
         streetLength: "810",
@@ -9044,7 +9044,7 @@ module.exports = [
     },
     {
         name: "WALKER-02",
-        from: "SHEPARD",
+        fromStreet: "SHEPARD",
         to: "LINNAEAN",
         width: "40",
         streetLength: "825",
@@ -9053,7 +9053,7 @@ module.exports = [
     },
     {
         name: "WALNUT AVE",
-        from: "ARLINGTON",
+        fromStreet: "ARLINGTON",
         to: "UPLAND RD",
         width: "70",
         streetLength: "476",
@@ -9062,7 +9062,7 @@ module.exports = [
     },
     {
         name: "WARE",
-        from: "HARVARD",
+        fromStreet: "HARVARD",
         to: "BROADWAY",
         width: "40",
         streetLength: "690",
@@ -9071,7 +9071,7 @@ module.exports = [
     },
     {
         name: "WARREN",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "485",
@@ -9080,7 +9080,7 @@ module.exports = [
     },
     {
         name: "WARREN PL",
-        from: "BANKS",
+        fromStreet: "BANKS",
         to: "WESTERLY",
         width: "10",
         unnacceptedstreetLength: "120",
@@ -9088,7 +9088,7 @@ module.exports = [
     },
     {
         name: "WARWICK PK",
-        from: "PEMBERTON",
+        fromStreet: "PEMBERTON",
         to: "EASTERLY",
         width: "35",
         streetLength: "180",
@@ -9097,7 +9097,7 @@ module.exports = [
     },
     {
         name: "WASHBURN AVE-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "540 N OF MASS",
         width: "30",
         streetLength: "550",
@@ -9106,7 +9106,7 @@ module.exports = [
     },
     {
         name: "WASHBURN AVE-02",
-        from: "540 N OF MASS",
+        fromStreet: "540 N OF MASS",
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "135",
@@ -9115,7 +9115,7 @@ module.exports = [
     },
     {
         name: "WASHBURN TERR",
-        from: "WASHBURN AVE",
+        fromStreet: "WASHBURN AVE",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "160",
@@ -9123,7 +9123,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON AVE-01",
-        from: "LINNAEAN",
+        fromStreet: "LINNAEAN",
         to: "HILLSIDE AVE",
         width: "50",
         streetLength: "545",
@@ -9132,7 +9132,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON AVE-02",
-        from: "HILLSIDE AVE",
+        fromStreet: "HILLSIDE AVE",
         to: "94' S OF UPLAND",
         width: "50",
         streetLength: "754",
@@ -9141,7 +9141,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON AVE-03",
-        from: "94' S OF UPLAND",
+        fromStreet: "94' S OF UPLAND",
         to: "UPLAND",
         width: "50",
         streetLength: "94",
@@ -9150,7 +9150,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON CT",
-        from: "WASHINGTON",
+        fromStreet: "WASHINGTON",
         to: "NORTHERLY",
         width: "15",
         unnacceptedstreetLength: "158",
@@ -9158,7 +9158,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON-01",
-        from: "PORTLAND",
+        fromStreet: "PORTLAND",
         to: "WINDSOR",
         width: "40",
         streetLength: "748",
@@ -9167,7 +9167,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON-02",
-        from: "WINDSOR",
+        fromStreet: "WINDSOR",
         to: "COLUMBIA",
         width: "30",
         streetLength: "670",
@@ -9176,7 +9176,7 @@ module.exports = [
     },
     {
         name: "WASHINGTON-03",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "NORFOLK",
         width: "30",
         streetLength: "537",
@@ -9185,7 +9185,7 @@ module.exports = [
     },
     {
         name: "WATER-01",
-        from: "MCGRATH OBRIEN",
+        fromStreet: "MCGRATH OBRIEN",
         to: "NORTHERLY 98'",
         width: "50",
         streetLength: "98",
@@ -9194,7 +9194,7 @@ module.exports = [
     },
     {
         name: "WATER-02",
-        from: "98' N OF O'BRIEN",
+        fromStreet: "98' N OF O'BRIEN",
         to: "NORTHERLY",
         width: "50",
         streetLength: "342",
@@ -9203,7 +9203,7 @@ module.exports = [
     },
     {
         name: "WATERHOUSE",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "MASS AVE",
         width: "54",
         streetLength: "710",
@@ -9212,7 +9212,7 @@ module.exports = [
     },
     {
         name: "WATERMAN RD",
-        from: "STANDISH",
+        fromStreet: "STANDISH",
         to: "EASTERLY",
         width: "20",
         unnacceptedstreetLength: "198",
@@ -9220,7 +9220,7 @@ module.exports = [
     },
     {
         name: "WATSON",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "PEARL",
         width: "40",
         streetLength: "460",
@@ -9229,7 +9229,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-01",
-        from: "BROOKLINE",
+        fromStreet: "BROOKLINE",
         to: "SIDNEY",
         width: "60",
         streetLength: "500",
@@ -9238,7 +9238,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-02",
-        from: "SIDNEY",
+        fromStreet: "SIDNEY",
         to: "HENRY",
         width: "40",
         streetLength: "460",
@@ -9247,7 +9247,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-03",
-        from: "HENRY",
+        fromStreet: "HENRY",
         to: "PUTNAM",
         width: "40",
         streetLength: "458",
@@ -9256,7 +9256,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-04",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "TALBOT",
         width: "40",
         streetLength: "254",
@@ -9265,7 +9265,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-05",
-        from: "TALBOT",
+        fromStreet: "TALBOT",
         to: "ERIE",
         width: "40",
         streetLength: "800",
@@ -9274,7 +9274,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-06",
-        from: "ERIE",
+        fromStreet: "ERIE",
         to: "ANGLE",
         width: "40",
         streetLength: "416",
@@ -9283,7 +9283,7 @@ module.exports = [
     },
     {
         name: "WAVERLY-07",
-        from: "ANGLE",
+        fromStreet: "ANGLE",
         to: "PACIFIC",
         width: "50",
         streetLength: "531",
@@ -9292,7 +9292,7 @@ module.exports = [
     },
     {
         name: "WEBSTER AVE-01",
-        from: "HAMPSHIRE",
+        fromStreet: "HAMPSHIRE",
         to: "PLYMOUTH",
         width: "50",
         streetLength: "850",
@@ -9301,7 +9301,7 @@ module.exports = [
     },
     {
         name: "WEBSTER AVE-02",
-        from: "PLYMOUTH",
+        fromStreet: "PLYMOUTH",
         to: "WINDSOR",
         width: "50",
         streetLength: "870",
@@ -9310,7 +9310,7 @@ module.exports = [
     },
     {
         name: "WEBSTER AVE-03",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "425",
@@ -9319,7 +9319,7 @@ module.exports = [
     },
     {
         name: "WELLINGTON LN",
-        from: "HARRINGTON",
+        fromStreet: "HARRINGTON",
         to: "HARWELL",
         width: "20",
         unnacceptedstreetLength: "160",
@@ -9327,7 +9327,7 @@ module.exports = [
     },
     {
         name: "WENDELL-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "OXFORD",
         width: "50",
         streetLength: "986",
@@ -9336,7 +9336,7 @@ module.exports = [
     },
     {
         name: "WENDELL-02",
-        from: "OXFORD",
+        fromStreet: "OXFORD",
         to: "CARVER",
         width: "40",
         streetLength: "765",
@@ -9345,7 +9345,7 @@ module.exports = [
     },
     {
         name: "WEST",
-        from: "INMAN",
+        fromStreet: "INMAN",
         to: "LEE",
         width: "37",
         streetLength: "585",
@@ -9354,7 +9354,7 @@ module.exports = [
     },
     {
         name: "WEST BELLEVUE AVE",
-        from: "RAYMOND",
+        fromStreet: "RAYMOND",
         to: "WESTERLY",
         width: "30",
         streetLength: "182",
@@ -9363,13 +9363,13 @@ module.exports = [
     },
     {
         name: "WEST KENDALL",
-        from: "ATHENAEUM",
+        fromStreet: "ATHENAEUM",
         to: "LINKSY WAY",
         noncity: "X",
     },
     {
         name: "WEST PL",
-        from: "BROADWAY",
+        fromStreet: "BROADWAY",
         to: "WEST",
         width: "15",
         unnacceptedstreetLength: "230",
@@ -9377,7 +9377,7 @@ module.exports = [
     },
     {
         name: "WESTACOTT CT",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "NORTHERLY",
         width: "14",
         unnacceptedstreetLength: "114",
@@ -9385,7 +9385,7 @@ module.exports = [
     },
     {
         name: "WESTERN AVE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "MEMORIAL DR",
         width: "66",
         streetLength: "3344",
@@ -9394,7 +9394,7 @@ module.exports = [
     },
     {
         name: "WESTLEY AVE",
-        from: "HARVEY",
+        fromStreet: "HARVEY",
         to: "RAILWAY",
         width: "30",
         streetLength: "160",
@@ -9403,7 +9403,7 @@ module.exports = [
     },
     {
         name: "WHEELER",
-        from: "CONCORD AVE",
+        fromStreet: "CONCORD AVE",
         to: "NORTHERLY",
         width: "50",
         streetLength: "714",
@@ -9412,7 +9412,7 @@ module.exports = [
     },
     {
         name: "WHITE ST PL",
-        from: "WHITE",
+        fromStreet: "WHITE",
         to: "SOUTHERLY",
         width: "20",
         unnacceptedstreetLength: "270",
@@ -9420,7 +9420,7 @@ module.exports = [
     },
     {
         name: "WHITE-01",
-        from: "SOMERVILLE AVE",
+        fromStreet: "SOMERVILLE AVE",
         to: "WHITE ST PL",
         width: "30",
         streetLength: "300",
@@ -9429,7 +9429,7 @@ module.exports = [
     },
     {
         name: "WHITE-02",
-        from: "WHITE ST PL",
+        fromStreet: "WHITE ST PL",
         to: "SOMERVILLE LINE",
         width: "25",
         streetLength: "303",
@@ -9438,7 +9438,7 @@ module.exports = [
     },
     {
         name: "WHITNEY AVE",
-        from: "PUTNAM AVE",
+        fromStreet: "PUTNAM AVE",
         to: "CHESTNUT",
         width: "30",
         streetLength: "300",
@@ -9447,7 +9447,7 @@ module.exports = [
     },
     {
         name: "WHITNEY CT",
-        from: "ESSEX",
+        fromStreet: "ESSEX",
         to: "EASTERLY",
         width: "10",
         unnacceptedstreetLength: "80",
@@ -9455,7 +9455,7 @@ module.exports = [
     },
     {
         name: "WHITTEMORE AVE-01",
-        from: "SEAGRAVE RD",
+        fromStreet: "SEAGRAVE RD",
         to: "90' W OF HARRISON",
         width: "40",
         streetLength: "820",
@@ -9464,7 +9464,7 @@ module.exports = [
     },
     {
         name: "WHITTEMORE AVE-02",
-        from: "90' W OF HARRISON",
+        fromStreet: "90' W OF HARRISON",
         to: "100' E OF MAGOUN",
         width: "40",
         streetLength: "731",
@@ -9473,7 +9473,7 @@ module.exports = [
     },
     {
         name: "WHITTIER",
-        from: "UPLAND RD",
+        fromStreet: "UPLAND RD",
         to: "WALDEN",
         width: "40",
         streetLength: "362",
@@ -9482,7 +9482,7 @@ module.exports = [
     },
     {
         name: "WILLARD",
-        from: "BRATTLE",
+        fromStreet: "BRATTLE",
         to: "MT AUBURN",
         width: "40",
         streetLength: "786",
@@ -9491,7 +9491,7 @@ module.exports = [
     },
     {
         name: "WILLARD ST CT",
-        from: "WILLARD",
+        fromStreet: "WILLARD",
         to: "100' EASTERLY",
         width: "20",
         unnacceptedstreetLength: "120.55",
@@ -9499,7 +9499,7 @@ module.exports = [
     },
     {
         name: "WILLIAM-01",
-        from: "PEARL",
+        fromStreet: "PEARL",
         to: "MAGAZINE",
         width: "40",
         streetLength: "450",
@@ -9508,7 +9508,7 @@ module.exports = [
     },
     {
         name: "WILLIAM-02",
-        from: "MAGAZINE",
+        fromStreet: "MAGAZINE",
         to: "RIVER",
         width: "40",
         streetLength: "395",
@@ -9517,7 +9517,7 @@ module.exports = [
     },
     {
         name: "WILLOW-01",
-        from: "YORK",
+        fromStreet: "YORK",
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "978",
@@ -9526,7 +9526,7 @@ module.exports = [
     },
     {
         name: "WILLOW-02",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "530",
@@ -9535,7 +9535,7 @@ module.exports = [
     },
     {
         name: "WILSON AVE",
-        from: "MIDDLESEX",
+        fromStreet: "MIDDLESEX",
         to: "EASTERLY",
         width: "40",
         unnacceptedstreetLength: "165",
@@ -9543,7 +9543,7 @@ module.exports = [
     },
     {
         name: "WILSON RD",
-        from: "SMITH PL",
+        fromStreet: "SMITH PL",
         to: "MOULTON",
         width: "40",
         date: "1996",
@@ -9551,7 +9551,7 @@ module.exports = [
     },
     {
         name: "WINDSOR-01",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "STATE",
         width: "40",
         streetLength: "350",
@@ -9560,7 +9560,7 @@ module.exports = [
     },
     {
         name: "WINDSOR-02",
-        from: "STATE",
+        fromStreet: "STATE",
         to: "MAIN",
         width: "40",
         streetLength: "188",
@@ -9569,7 +9569,7 @@ module.exports = [
     },
     {
         name: "WINDSOR-03",
-        from: "MAIN",
+        fromStreet: "MAIN",
         to: "SCHOOL",
         width: "40",
         streetLength: "200",
@@ -9578,7 +9578,7 @@ module.exports = [
     },
     {
         name: "WINDSOR-04",
-        from: "SCHOOL",
+        fromStreet: "SCHOOL",
         to: "WEBSTER AVE",
         width: "50",
         streetLength: "2745",
@@ -9587,7 +9587,7 @@ module.exports = [
     },
     {
         name: "WINDSOR-05",
-        from: "WEBSTER AVE",
+        fromStreet: "WEBSTER AVE",
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "430",
@@ -9596,7 +9596,7 @@ module.exports = [
     },
     {
         name: "WINDSOR-06",
-        from: "CAMBRIDGE",
+        fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "38",
         streetLength: "490",
@@ -9605,7 +9605,7 @@ module.exports = [
     },
     {
         name: "WINSLOW-01",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "SOUTHERLY",
         width: "30",
         streetLength: "290",
@@ -9614,7 +9614,7 @@ module.exports = [
     },
     {
         name: "WINSLOW-02",
-        from: "GARDEN",
+        fromStreet: "GARDEN",
         to: "NE TO 90' OF UPLAND",
         width: "30",
         streetLength: "508",
@@ -9623,7 +9623,7 @@ module.exports = [
     },
     {
         name: "WINTER ST PL",
-        from: "WINTER",
+        fromStreet: "WINTER",
         to: "NORTHERLY",
         width: "20",
         unnacceptedstreetLength: "100",
@@ -9631,7 +9631,7 @@ module.exports = [
     },
     {
         name: "WINTER-01",
-        from: "THIRD",
+        fromStreet: "THIRD",
         to: "SCIARAPPA",
         width: "50",
         streetLength: "582",
@@ -9640,7 +9640,7 @@ module.exports = [
     },
     {
         name: "WINTER-02",
-        from: "SCIARAPPA",
+        fromStreet: "SCIARAPPA",
         to: "FIFTH",
         width: "50",
         streetLength: "398",
@@ -9649,7 +9649,7 @@ module.exports = [
     },
     {
         name: "WINTHROP-01",
-        from: "ELIOT",
+        fromStreet: "ELIOT",
         to: "JFK",
         width: "29",
         unnacceptedstreetLength: "196",
@@ -9657,7 +9657,7 @@ module.exports = [
     },
     {
         name: "WINTHROP-02",
-        from: "JFK",
+        fromStreet: "JFK",
         to: "HOLYOKE",
         width: "29",
         unnacceptedstreetLength: "510",
@@ -9665,7 +9665,7 @@ module.exports = [
     },
     {
         name: "WOOD",
-        from: "WALDEN",
+        fromStreet: "WALDEN",
         to: "SHERIDAN",
         width: "40",
         streetLength: "375",
@@ -9674,7 +9674,7 @@ module.exports = [
     },
     {
         name: "WOODBRIDGE",
-        from: "MASS AVE",
+        fromStreet: "MASS AVE",
         to: "LOCKE",
         width: "40",
         streetLength: "375",
@@ -9683,7 +9683,7 @@ module.exports = [
     },
     {
         name: "WORCESTER",
-        from: "COLUMBIA",
+        fromStreet: "COLUMBIA",
         to: "NORFOLK",
         width: "32",
         streetLength: "480",
@@ -9692,7 +9692,7 @@ module.exports = [
     },
     {
         name: "WORTHINGTON",
-        from: "LAKEVIEW AVE",
+        fromStreet: "LAKEVIEW AVE",
         to: "LEXINGTON AVE",
         width: "50",
         streetLength: "305",
@@ -9701,7 +9701,7 @@ module.exports = [
     },
     {
         name: "WRIGHT",
-        from: "HUDSON",
+        fromStreet: "HUDSON",
         to: "MARTIN",
         width: "30",
         streetLength: "283",
@@ -9710,7 +9710,7 @@ module.exports = [
     },
     {
         name: "WYMAN",
-        from: "AVON HILL",
+        fromStreet: "AVON HILL",
         to: "WESTERLY",
         width: "40",
         streetLength: "165",
@@ -9719,7 +9719,7 @@ module.exports = [
     },
     {
         name: "WYMAN RD",
-        from: "SPARKS",
+        fromStreet: "SPARKS",
         to: "WESTERLY",
         width: "25",
         unnacceptedstreetLength: "270",
@@ -9727,7 +9727,7 @@ module.exports = [
     },
     {
         name: "YERXA RD",
-        from: "RINDGE AVE",
+        fromStreet: "RINDGE AVE",
         to: "PEMBERTON",
         width: "40",
         streetLength: "828",
@@ -9736,7 +9736,7 @@ module.exports = [
     },
     {
         name: "YORK-01",
-        from: "WILLOW",
+        fromStreet: "WILLOW",
         to: "BERKSHIRE",
         width: "40",
         streetLength: "510",
@@ -9745,7 +9745,7 @@ module.exports = [
     },
     {
         name: "YORK-02",
-        from: "BERKSHIRE",
+        fromStreet: "BERKSHIRE",
         to: "CARDINAL MEDEIROS",
         width: "16",
         unnacceptedstreetLength: "299",
