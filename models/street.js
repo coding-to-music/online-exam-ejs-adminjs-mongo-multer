@@ -25,7 +25,7 @@ const StreetSchema = new Schema({
         required: false,
     },
     // length            String?
-    length: {
+    streetLength: {
         type: Number,
         required: false,
     },
