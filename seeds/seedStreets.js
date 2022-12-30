@@ -23,26 +23,86 @@ const clearAll = async function () {
 
 const seedStreet = async function () {
     // const studentList = await Student.find();
-    // await Street.deleteMany();
+    await Street.deleteMany();
 
     for (let i = 0; i <= streetDetail.length - 1; i++) {
+        var skip = false;
         // let streets = [];
-        const name = streetDetail[i].name;
-        const from = streetDetail[i].froms;
-        const to = streetDetail[i].to;
-        const width = streetDetail[i].width;
-        const streetLength = streetDetail[i].streetLength;
-        const date = streetDetail[i].date;
-        const noncity = streetDetail[i].noncity;
-        const unnacceptedlength = streetDetail[i].unnacceptedlength;
+        var name = streetDetail[i].name;
+        var from = streetDetail[i].froms;
+        var to = streetDetail[i].to;
+        var width = streetDetail[i].width;
+        var streetLength = streetDetail[i].streetLength;
+        var date = streetDetail[i].date;
+        var noncity = streetDetail[i].noncity;
+        var unnacceptedlength = streetDetail[i].unnacceptedlength;
 
         if (streetLength == "825+/-") {
-            const streetLength = 825;
+            streetLength = 825;
             console.log("Setting streetLength", name + " " + streetLength);
         }
 
         if (width == "25-30") {
-            const width = "27.5";
+            width = "27.5";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "30-40") {
+            width = "35";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "30-35") {
+            width = "32.5";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "30-60") {
+            width = "45";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "50-60") {
+            width = "55";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "40-25") {
+            width = "30";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "40-50") {
+            width = "45";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "40-24-28") {
+            width = "30";
+            console.log("Setting width", name + " " + width);
+        }
+        if (width == "63-125") {
+            width = "100";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "70-160") {
+            width = "100";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "95-70") {
+            width = "80";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "103-63") {
+            width = "80";
+            console.log("Setting width", name + " " + width);
+        }
+
+        if (width == "66-160") {
+            width = "100";
             console.log("Setting width", name + " " + width);
         }
 
@@ -78,8 +138,25 @@ const seedStreet = async function () {
             // credit,
             // students,
         });
-        await street.save();
-        console.log("created newStreet Save ", i + " " + name);
+
+        if (!skip) {
+            await street.save();
+            console.log("created newStreet Save ", i + " " + name);
+        } else {
+            console.log("Skipping ", i + " " + name);
+        }
     }
 };
-seedStreet();
+seedStreet().then(() => {
+    mongoose.connection.close();
+});
+
+// clearAll().then(() => {
+//     seedCourse();
+//     seedStudent();
+//     newExam();
+//     addAdmin();
+//     // seedTeacher();
+//     // seedRecord();
+//     // mongoose.connection.close();
+// });
