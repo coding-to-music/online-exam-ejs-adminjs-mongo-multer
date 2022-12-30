@@ -25,7 +25,7 @@ const seedStreet = async function () {
     // const studentList = await Student.find();
     await Street.deleteMany();
 
-    const startNum = 735;
+    const startNum = 0;
 
     for (let i = startNum; i <= streetDetail.length - 1; i++) {
         var skip = false;
