@@ -108,8 +108,10 @@ const seedStreet = async function () {
             console.log("Setting width", name + " " + width);
         }
 
-        // const area = streetDetail[i].area;
-
+        var area = 0;
+        if (typeof streetLength == "number" && typeof width == "number") {
+            area = streetLength * width;
+        }
         // const _id = streetDetail[i]._id;
         // const subjectID = streetDetail[i].subjectID;
         // const name = streetDetail[i].name;
@@ -132,7 +134,7 @@ const seedStreet = async function () {
             date,
             noncity,
             unnacceptedlength,
-            // area,
+            area,
 
             // name,
             // subjectID,
