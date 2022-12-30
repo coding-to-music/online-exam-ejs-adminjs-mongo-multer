@@ -25,7 +25,7 @@ const seedStreet = async function () {
     // const studentList = await Student.find();
     await Street.deleteMany();
 
-    const startNum = 1100;
+    const startNum = 735;
 
     for (let i = startNum; i <= streetDetail.length - 1; i++) {
         var skip = false;
@@ -41,6 +41,11 @@ const seedStreet = async function () {
 
         if (streetLength == "825+/-") {
             streetLength = 825;
+            console.log("Setting streetLength", name + " " + streetLength);
+        }
+
+        if (streetLength == "650+/-") {
+            streetLength = 650;
             console.log("Setting streetLength", name + " " + streetLength);
         }
 
