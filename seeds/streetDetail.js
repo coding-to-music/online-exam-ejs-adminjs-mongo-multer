@@ -5,7 +5,7 @@ module.exports = [
         to: "HURON AVE",
         width: "100",
         streetLength: "1280",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -30,7 +30,7 @@ module.exports = [
         to: "ASH",
         width: "40",
         streetLength: "312",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -39,7 +39,7 @@ module.exports = [
         to: "CHESTNUT",
         width: "40",
         streetLength: "300",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -48,7 +48,7 @@ module.exports = [
         to: "1,400' BEYOND BEND",
         width: "45",
         streetLength: "1730",
-        date: "1957",
+        streetDate: "1957",
         noncity: " ",
     },
     {
@@ -78,7 +78,7 @@ module.exports = [
         to: "LANCASTER",
         width: "40",
         streetLength: "374",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -87,7 +87,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "233",
-        date: "1915",
+        streetDate: "1915",
         noncity: " ",
     },
     {
@@ -96,7 +96,7 @@ module.exports = [
         to: "MASS AVE",
         width: "50",
         streetLength: "2236",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -105,7 +105,7 @@ module.exports = [
         to: "MAIN",
         width: "50",
         streetLength: "1262",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -114,7 +114,7 @@ module.exports = [
         to: "CEDAR",
         width: "30",
         streetLength: "270",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -137,7 +137,7 @@ module.exports = [
         to: "ORCHARD",
         width: "30",
         streetLength: "304",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -146,7 +146,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "12",
         streetLength: "87",
-        date: "1988",
+        streetDate: "1988",
         noncity: " ",
     },
     {
@@ -155,7 +155,7 @@ module.exports = [
         to: "PLEASANT",
         width: "30",
         streetLength: "454",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -164,7 +164,7 @@ module.exports = [
         to: "KENWOOD",
         width: "30",
         streetLength: "249",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -173,7 +173,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "260",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -182,7 +182,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "980",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -191,7 +191,7 @@ module.exports = [
         to: "GROVE AVE",
         width: "40",
         streetLength: "2685",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -200,7 +200,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "50",
         streetLength: "337",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -209,7 +209,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "40",
         streetLength: "656",
-        date: "1929",
+        streetDate: "1929",
         noncity: " ",
     },
     {
@@ -218,7 +218,7 @@ module.exports = [
         to: "MAIN",
         width: "80",
         streetLength: "450",
-        date: "1985",
+        streetDate: "1985",
         noncity: " ",
     },
     {
@@ -227,7 +227,7 @@ module.exports = [
         to: "AMHERST",
         width: "60",
         streetLength: "906",
-        date: "1910",
+        streetDate: "1910",
         noncity: " ",
     },
     {
@@ -236,7 +236,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "60",
         streetLength: "240",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -245,7 +245,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "510",
-        date: "1976",
+        streetDate: "1976",
         noncity: " ",
     },
     {
@@ -260,7 +260,7 @@ module.exports = [
         to: "WADSWORTH",
         width: "60",
         streetLength: "920",
-        date: "1902",
+        streetDate: "1902",
         noncity: "X",
     },
     {
@@ -268,7 +268,7 @@ module.exports = [
         fromStreet: "MASS AVE",
         to: "ENDICOTT",
         width: "60",
-        date: "1900",
+        streetDate: "1900",
         unnacceptedstreetLength: "1090",
         noncity: "X",
     },
@@ -278,7 +278,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "1233",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -295,7 +295,7 @@ module.exports = [
         to: "ALLSTON",
         width: "30",
         streetLength: "430",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -304,7 +304,7 @@ module.exports = [
         to: "REARDON",
         width: "50",
         streetLength: "380",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -313,7 +313,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1342",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -322,7 +322,7 @@ module.exports = [
         to: "GARDEN",
         width: "30",
         streetLength: "550",
-        date: "1800",
+        streetDate: "1800",
         noncity: " ",
     },
     {
@@ -331,7 +331,7 @@ module.exports = [
         to: "EASTERLY",
         width: "40",
         streetLength: "171",
-        date: "1922",
+        streetDate: "1922",
         noncity: " ",
     },
     {
@@ -348,7 +348,7 @@ module.exports = [
         to: "HURON AVE",
         width: "45",
         streetLength: "1437",
-        date: "1866",
+        streetDate: "1866",
         noncity: " ",
     },
     {
@@ -357,7 +357,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "40",
         streetLength: "750",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -366,7 +366,7 @@ module.exports = [
         to: "HARRIS",
         width: "30",
         streetLength: "175",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -375,7 +375,7 @@ module.exports = [
         to: "WASHINGTON AVE",
         width: "40",
         streetLength: "1107",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -392,7 +392,7 @@ module.exports = [
         to: "BOW",
         width: "30",
         streetLength: "430",
-        date: "1850",
+        streetDate: "1850",
         noncity: " ",
     },
     {
@@ -417,7 +417,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "31",
         streetLength: "604",
-        date: "1684",
+        streetDate: "1684",
         noncity: " ",
     },
     {
@@ -426,7 +426,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "30",
         streetLength: "308",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -435,7 +435,7 @@ module.exports = [
         to: "EASTERLY",
         width: "20",
         streetLength: "147",
-        date: "1983",
+        streetDate: "1983",
         noncity: " ",
     },
     {
@@ -452,7 +452,7 @@ module.exports = [
         to: "SECOND",
         width: "50",
         streetLength: "399",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -468,7 +468,7 @@ module.exports = [
         to: "GRANT",
         width: "40",
         streetLength: "397",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -485,7 +485,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "1492",
-        date: "1836",
+        streetDate: "1836",
         noncity: " ",
     },
     {
@@ -508,7 +508,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "33",
         streetLength: "217",
-        date: "1937",
+        streetDate: "1937",
         noncity: " ",
     },
     {
@@ -517,7 +517,7 @@ module.exports = [
         to: "LINNAEAN",
         width: "35",
         streetLength: "842",
-        date: "1864",
+        streetDate: "1864",
         noncity: " ",
     },
     {
@@ -526,7 +526,7 @@ module.exports = [
         to: "HILLSIDE AVE",
         width: "40",
         streetLength: "635",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -535,7 +535,7 @@ module.exports = [
         to: "UPLAND RD",
         width: "40",
         streetLength: "645",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -584,7 +584,7 @@ module.exports = [
         to: "SOUTH OF FLAGG",
         width: "40",
         streetLength: "1189",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -593,7 +593,7 @@ module.exports = [
         to: "NORTH OF AKRON",
         width: "40",
         streetLength: "350",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -602,7 +602,7 @@ module.exports = [
         to: "RAYMOND",
         width: "40",
         streetLength: "356",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -611,7 +611,7 @@ module.exports = [
         to: "KINNAIRD",
         width: "40",
         streetLength: "580",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -620,7 +620,7 @@ module.exports = [
         to: "FIELD",
         width: "50",
         streetLength: "760",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -637,7 +637,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "60",
         streetLength: "560",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -646,7 +646,7 @@ module.exports = [
         to: "E OF AVON HILL",
         width: "30",
         streetLength: "455",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -655,7 +655,7 @@ module.exports = [
         to: "SHERMAN",
         width: "25",
         streetLength: "978",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -670,7 +670,7 @@ module.exports = [
         to: "BELMONT LINE",
         width: "75",
         streetLength: "1183",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -695,7 +695,7 @@ module.exports = [
         to: "UNIVERSITY RD",
         width: "40",
         streetLength: "347",
-        date: "1982",
+        streetDate: "1982",
         noncity: " ",
     },
     {
@@ -704,7 +704,7 @@ module.exports = [
         to: "SIXTH",
         width: "50",
         streetLength: "535",
-        date: "1946",
+        streetDate: "1946",
         noncity: " ",
     },
     {
@@ -713,7 +713,7 @@ module.exports = [
         to: "THIRD",
         width: "50",
         streetLength: "1071",
-        date: "1913",
+        streetDate: "1913",
         noncity: " ",
     },
     {
@@ -722,7 +722,7 @@ module.exports = [
         to: "FIRST",
         width: "50",
         streetLength: "400",
-        date: "1929",
+        streetDate: "1929",
         noncity: " ",
     },
     {
@@ -739,7 +739,7 @@ module.exports = [
         to: "PHILIPS PLACE",
         width: "40",
         streetLength: "1240",
-        date: "1865",
+        streetDate: "1865",
         noncity: " ",
     },
     {
@@ -748,7 +748,7 @@ module.exports = [
         to: "GARDEN",
         width: "35",
         streetLength: "254",
-        date: "1908",
+        streetDate: "1908",
         noncity: " ",
     },
     {
@@ -765,7 +765,7 @@ module.exports = [
         to: "YORK",
         width: "40",
         streetLength: "504",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -774,7 +774,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1090",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -783,7 +783,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "920",
-        date: "1869",
+        streetDate: "1869",
         noncity: " ",
     },
     {
@@ -792,7 +792,7 @@ module.exports = [
         to: "FIRST",
         width: "50",
         streetLength: "235",
-        date: "1897",
+        streetDate: "1897",
         noncity: " ",
     },
     {
@@ -801,7 +801,7 @@ module.exports = [
         to: "THIRD",
         width: "50",
         streetLength: "1271",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -810,7 +810,7 @@ module.exports = [
         to: "FULKERSON",
         width: "50",
         streetLength: "1406",
-        date: "1908",
+        streetDate: "1908",
         noncity: " ",
     },
     {
@@ -819,7 +819,7 @@ module.exports = [
         to: "CARDINAL MEDEIROS",
         width: "50",
         streetLength: "838",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -828,7 +828,7 @@ module.exports = [
         to: "BAY STATE RD",
         width: "50",
         streetLength: "426",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -837,7 +837,7 @@ module.exports = [
         to: "INMAN",
         width: "49",
         streetLength: "2085",
-        date: "1830",
+        streetDate: "1830",
         noncity: " ",
     },
     {
@@ -846,7 +846,7 @@ module.exports = [
         to: "WESTERN AVE",
         width: "50",
         streetLength: "844",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -863,7 +863,7 @@ module.exports = [
         to: "ORCHARD",
         width: "40",
         streetLength: "408",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -872,7 +872,7 @@ module.exports = [
         to: "RESERVOIR",
         width: "40",
         streetLength: "554",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -881,7 +881,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "45",
         streetLength: "2050",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -890,7 +890,7 @@ module.exports = [
         to: "BELMONT LINE",
         width: "33",
         streetLength: "1300",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -899,7 +899,7 @@ module.exports = [
         to: "GREEN",
         width: "30",
         streetLength: "634",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -908,7 +908,7 @@ module.exports = [
         to: "BROADWAY",
         width: "50",
         streetLength: "275",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -925,7 +925,7 @@ module.exports = [
         to: "EASTERLY",
         width: "30",
         streetLength: "457",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -934,7 +934,7 @@ module.exports = [
         to: "GARDEN",
         width: "50",
         streetLength: "476",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -943,7 +943,7 @@ module.exports = [
         to: "ARROW",
         width: "40",
         streetLength: "235",
-        date: "1801",
+        streetDate: "1801",
         noncity: " ",
     },
     {
@@ -952,7 +952,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "45",
         streetLength: "720",
-        date: "1847",
+        streetDate: "1847",
         noncity: " ",
     },
     {
@@ -961,7 +961,7 @@ module.exports = [
         to: "S OF MARTIN",
         width: "40",
         streetLength: "600",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -970,7 +970,7 @@ module.exports = [
         to: "HUDSON",
         width: "40",
         streetLength: "205",
-        date: "1908",
+        streetDate: "1908",
         noncity: " ",
     },
     {
@@ -987,7 +987,7 @@ module.exports = [
         to: "EASTERLY",
         width: "40",
         streetLength: "240",
-        date: "1964",
+        streetDate: "1964",
         noncity: "X",
     },
     {
@@ -1004,7 +1004,7 @@ module.exports = [
         to: "MASON",
         width: "60",
         streetLength: "1812",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -1013,7 +1013,7 @@ module.exports = [
         to: "ELMWOOD AVE",
         width: "60",
         streetLength: "3638",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -1022,7 +1022,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "60",
         streetLength: "3000",
-        date: "1812",
+        streetDate: "1812",
         noncity: " ",
     },
     {
@@ -1031,7 +1031,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "20",
         streetLength: "374",
-        date: "1932",
+        streetDate: "1932",
         noncity: " ",
     },
     {
@@ -1040,7 +1040,7 @@ module.exports = [
         to: "EASTERLY",
         width: "35",
         streetLength: "343",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -1049,7 +1049,7 @@ module.exports = [
         to: "WESTERLY",
         width: "35",
         streetLength: "399",
-        date: "1890",
+        streetDate: "1890",
         noncity: " ",
     },
     {
@@ -1058,7 +1058,7 @@ module.exports = [
         to: "WEBSTER AVE",
         width: "40",
         streetLength: "504",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -1067,7 +1067,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "30",
         streetLength: "234",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -1076,7 +1076,7 @@ module.exports = [
         to: "MARKET",
         width: "30",
         streetLength: "268",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -1091,7 +1091,7 @@ module.exports = [
         to: "GALILEO GALILEI WAY",
         width: "80",
         streetLength: "1644",
-        date: "1985",
+        streetDate: "1985",
         noncity: " ",
     },
     {
@@ -1114,7 +1114,7 @@ module.exports = [
         to: "BINNEY",
         width: "80",
         streetLength: "1644",
-        date: "1985",
+        streetDate: "1985",
         noncity: " ",
     },
     {
@@ -1123,7 +1123,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "80",
         streetLength: "476",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -1132,7 +1132,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "66",
         streetLength: "8030",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -1141,7 +1141,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "477",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -1156,7 +1156,7 @@ module.exports = [
         to: "HENRY",
         width: "40",
         streetLength: "3930",
-        date: "1824",
+        streetDate: "1824",
         noncity: " ",
     },
     {
@@ -1165,7 +1165,7 @@ module.exports = [
         to: "GRANITE",
         width: "75",
         streetLength: "295",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -1174,7 +1174,7 @@ module.exports = [
         to: "BOSTON LINE",
         width: "100",
         streetLength: "750",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -1183,7 +1183,7 @@ module.exports = [
         to: "FOSTER",
         width: "30",
         streetLength: "490",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -1192,7 +1192,7 @@ module.exports = [
         to: "IRVING",
         width: "50",
         streetLength: "342",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -1201,7 +1201,7 @@ module.exports = [
         to: "SCOTT",
         width: "50",
         streetLength: "443",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -1210,7 +1210,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "40",
         streetLength: "1213",
-        date: "1866",
+        streetDate: "1866",
         noncity: " ",
     },
     {
@@ -1227,7 +1227,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "350",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -1236,7 +1236,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "30",
         streetLength: "180",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -1253,7 +1253,7 @@ module.exports = [
         to: "FIELD",
         width: "50",
         streetLength: "400",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -1262,7 +1262,7 @@ module.exports = [
         to: "WOOD",
         width: "40",
         streetLength: "507",
-        date: "1964",
+        streetDate: "1964",
         noncity: " ",
     },
     {
@@ -1271,7 +1271,7 @@ module.exports = [
         to: "70' E OF DODGE",
         width: "40",
         streetLength: "480",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -1280,7 +1280,7 @@ module.exports = [
         to: "HOWARD",
         width: "40",
         streetLength: "251",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -1289,7 +1289,7 @@ module.exports = [
         to: "MASS AVE",
         width: "66",
         streetLength: "12000",
-        date: "1809",
+        streetDate: "1809",
         noncity: " ",
     },
     {
@@ -1306,7 +1306,7 @@ module.exports = [
         to: "BUENA VISTA PK",
         width: "40",
         streetLength: "533",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -1315,21 +1315,21 @@ module.exports = [
         to: "WESTERLY",
         width: "40",
         streetLength: "1768",
-        date: "1946",
+        streetDate: "1946",
         noncity: " ",
     },
     {
         name: "CAMBRIDGEPARK PL",
         fromStreet: "CAMBRIDGEPARK DR",
         to: "SOUTHERLY",
-        date: "2002",
+        streetDate: "2002",
         noncity: " ",
     },
     {
         name: "CAMBRIDGESIDE PL",
         fromStreet: "FIRST",
         to: "140' W OF LAND BLVD",
-        date: "1992",
+        streetDate: "1992",
         noncity: "X",
     },
     {
@@ -1346,7 +1346,7 @@ module.exports = [
         to: "140' NORTHERLY",
         width: "35",
         streetLength: "140",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -1354,7 +1354,7 @@ module.exports = [
         fromStreet: "140' NORTH OF CAMBRIDGE",
         to: "NORTHERLY",
         width: "35",
-        date: "1994",
+        streetDate: "1994",
         unnacceptedstreetLength: "80",
         noncity: "X",
     },
@@ -1364,7 +1364,7 @@ module.exports = [
         to: "SEVEN PINES AVE",
         width: "60",
         streetLength: "568",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -1373,7 +1373,7 @@ module.exports = [
         to: "SEVEN PINES AVE",
         width: "40",
         streetLength: "351",
-        date: "1996",
+        streetDate: "1996",
         noncity: " ",
     },
     {
@@ -1382,7 +1382,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "2189",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -1399,7 +1399,7 @@ module.exports = [
         to: "AMHERST",
         width: "50",
         streetLength: "487",
-        date: "1902",
+        streetDate: "1902",
         noncity: "X",
     },
     {
@@ -1408,7 +1408,7 @@ module.exports = [
         to: "PROSPECT",
         width: "40",
         streetLength: "263",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -1417,7 +1417,7 @@ module.exports = [
         to: "SACRAMENTO",
         width: "40",
         streetLength: "496",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -1426,7 +1426,7 @@ module.exports = [
         to: "RINDGE AVE",
         width: "40",
         streetLength: "1554",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -1434,7 +1434,7 @@ module.exports = [
         fromStreet: "SECOND",
         to: "THIRD",
         width: "50",
-        date: "1831",
+        streetDate: "1831",
         unnacceptedstreetLength: "345",
         noncity: "X",
     },
@@ -1444,7 +1444,7 @@ module.exports = [
         to: "DANA",
         width: "50",
         streetLength: "655",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -1453,7 +1453,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "513",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -1462,7 +1462,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "50",
         streetLength: "712",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -1479,7 +1479,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "294",
-        date: "1934",
+        streetDate: "1934",
         noncity: " ",
     },
     {
@@ -1488,7 +1488,7 @@ module.exports = [
         to: "WESTERLY",
         width: "30",
         streetLength: "170",
-        date: "1934",
+        streetDate: "1934",
         noncity: " ",
     },
     {
@@ -1497,7 +1497,7 @@ module.exports = [
         to: "BREWER",
         width: "20",
         streetLength: "135",
-        date: "1932",
+        streetDate: "1932",
         noncity: " ",
     },
     {
@@ -1506,7 +1506,7 @@ module.exports = [
         to: "SECOND",
         width: "50",
         streetLength: "400",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -1515,7 +1515,7 @@ module.exports = [
         to: "THIRD",
         width: "50",
         streetLength: "421",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -1524,7 +1524,7 @@ module.exports = [
         to: "FIFTH",
         width: "50",
         streetLength: "725",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -1533,7 +1533,7 @@ module.exports = [
         to: "SIXTH",
         width: "50",
         streetLength: "400",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -1542,7 +1542,7 @@ module.exports = [
         to: "FULKERSON",
         width: "50",
         streetLength: "535",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -1551,7 +1551,7 @@ module.exports = [
         to: "CHARLESTOWN LINE",
         width: "50",
         streetLength: "1339",
-        date: "1839",
+        streetDate: "1839",
         noncity: "X",
     },
     {
@@ -1560,7 +1560,7 @@ module.exports = [
         to: "DANA",
         width: "40",
         streetLength: "744",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -1569,7 +1569,7 @@ module.exports = [
         to: "GARDEN",
         width: "45",
         streetLength: "1120",
-        date: "1863",
+        streetDate: "1863",
         noncity: " ",
     },
     {
@@ -1578,7 +1578,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "45",
         streetLength: "86",
-        date: "1869",
+        streetDate: "1869",
         noncity: " ",
     },
     {
@@ -1595,7 +1595,7 @@ module.exports = [
         to: "SCHOOL",
         width: "30",
         streetLength: "190",
-        date: "1855",
+        streetDate: "1855",
         noncity: " ",
     },
     {
@@ -1604,7 +1604,7 @@ module.exports = [
         to: "HARVARD",
         width: "30",
         streetLength: "905",
-        date: "1840",
+        streetDate: "1840",
         noncity: " ",
     },
     {
@@ -1613,7 +1613,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "294",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -1622,7 +1622,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "410",
-        date: "1948",
+        streetDate: "1948",
         noncity: " ",
     },
     {
@@ -1631,7 +1631,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "402",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -1640,7 +1640,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "496",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -1649,7 +1649,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "467",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -1658,7 +1658,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "544",
-        date: "1826",
+        streetDate: "1826",
         noncity: " ",
     },
     {
@@ -1667,7 +1667,7 @@ module.exports = [
         to: "NORTHEASTERLY",
         width: "40",
         streetLength: "184",
-        date: "1929",
+        streetDate: "1929",
         noncity: " ",
     },
     {
@@ -1682,7 +1682,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "40",
         streetLength: "757",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -1691,7 +1691,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "40",
         streetLength: "584",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -1700,7 +1700,7 @@ module.exports = [
         to: "FIELD",
         width: "50",
         streetLength: "376",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -1709,7 +1709,7 @@ module.exports = [
         to: "PALMER",
         width: "48",
         streetLength: "359",
-        date: "1926",
+        streetDate: "1926",
         noncity: " ",
     },
     {
@@ -1718,7 +1718,7 @@ module.exports = [
         to: "BRATTLE",
         width: "50",
         streetLength: "300",
-        date: "1926",
+        streetDate: "1926",
         noncity: " ",
     },
     {
@@ -1726,7 +1726,7 @@ module.exports = [
         fromStreet: "MASS AVE",
         to: "MATIGNON RD",
         streetLength: "600",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -1743,7 +1743,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "730",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -1752,7 +1752,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "30",
         streetLength: "575",
-        date: "1865",
+        streetDate: "1865",
         noncity: " ",
     },
     {
@@ -1761,7 +1761,7 @@ module.exports = [
         to: "WEBSTER AVE",
         width: "30",
         streetLength: "117",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -1770,7 +1770,7 @@ module.exports = [
         to: "WESTERLY",
         width: "40",
         streetLength: "249",
-        date: "1910",
+        streetDate: "1910",
         noncity: " ",
     },
     {
@@ -1779,7 +1779,7 @@ module.exports = [
         to: "HARVEY",
         width: "40",
         streetLength: "1361",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -1796,7 +1796,7 @@ module.exports = [
         to: "DANA",
         width: "30",
         streetLength: "300",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -1817,7 +1817,7 @@ module.exports = [
         to: "DUDLEY",
         width: "40",
         streetLength: "720",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -1826,7 +1826,7 @@ module.exports = [
         to: "HARVEY",
         width: "40",
         streetLength: "643",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -1835,7 +1835,7 @@ module.exports = [
         to: "HARVARD",
         width: "30",
         streetLength: "860",
-        date: "1863",
+        streetDate: "1863",
         noncity: " ",
     },
     {
@@ -1844,7 +1844,7 @@ module.exports = [
         to: "RAILWAY",
         width: "40",
         streetLength: "930",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -1861,7 +1861,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "20",
         streetLength: "330",
-        date: "1985",
+        streetDate: "1985",
         noncity: " ",
     },
     {
@@ -1878,7 +1878,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "45",
         streetLength: "3700",
-        date: "1813",
+        streetDate: "1813",
         noncity: " ",
     },
     {
@@ -1887,7 +1887,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "45",
         streetLength: "390",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -1896,7 +1896,7 @@ module.exports = [
         to: "MADISON",
         width: "40",
         streetLength: "190",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -1905,7 +1905,7 @@ module.exports = [
         to: "KIMBALL",
         width: "40",
         streetLength: "557",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -1914,7 +1914,7 @@ module.exports = [
         to: "CHAUNCY",
         width: "50",
         streetLength: "1477",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -1923,7 +1923,7 @@ module.exports = [
         to: "HURON AVE",
         width: "50",
         streetLength: "2145",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -1932,7 +1932,7 @@ module.exports = [
         to: "WALDEN",
         width: "50",
         streetLength: "911",
-        date: "1926",
+        streetDate: "1926",
         noncity: " ",
     },
     {
@@ -1941,7 +1941,7 @@ module.exports = [
         to: "EASTERN ROTARY",
         width: "50",
         streetLength: "2111",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -1950,7 +1950,7 @@ module.exports = [
         to: "WESTERN ROTARY",
         width: "80",
         streetLength: "900",
-        date: "1927",
+        streetDate: "1927",
         noncity: "X",
     },
     {
@@ -1959,7 +1959,7 @@ module.exports = [
         to: "BLANCHARD RD",
         width: "60",
         streetLength: "3800",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -1968,7 +1968,7 @@ module.exports = [
         to: "NORTHEASTERLY",
         width: "21",
         streetLength: "626",
-        date: "1953",
+        streetDate: "1953",
         noncity: " ",
     },
     {
@@ -1983,7 +1983,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "33",
         streetLength: "1340",
-        date: "1850",
+        streetDate: "1850",
         noncity: " ",
     },
     {
@@ -1992,7 +1992,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "60",
         streetLength: "2220",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -2008,7 +2008,7 @@ module.exports = [
         to: "COOLIDGE HIL",
         width: "40",
         streetLength: "720",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -2017,7 +2017,7 @@ module.exports = [
         to: "629' E OF COOLIDGE AVE",
         width: "40",
         streetLength: "69",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -2026,7 +2026,7 @@ module.exports = [
         to: "LOOP AND 100' SOUTH",
         width: "40",
         streetLength: "740",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -2035,7 +2035,7 @@ module.exports = [
         to: "145' NORTHERLY",
         width: "40",
         streetLength: "145",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -2044,7 +2044,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "8",
         streetLength: "130",
-        date: "1957",
+        streetDate: "1957",
         noncity: " ",
     },
     {
@@ -2053,7 +2053,7 @@ module.exports = [
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "595",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -2076,7 +2076,7 @@ module.exports = [
         to: "MEMORIAL WAY",
         width: "35",
         streetLength: "190",
-        date: "1983",
+        streetDate: "1983",
         noncity: "X",
     },
     {
@@ -2085,7 +2085,7 @@ module.exports = [
         to: "FIELD",
         width: "50",
         streetLength: "400",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -2094,7 +2094,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "440",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -2111,7 +2111,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "350",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -2128,7 +2128,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "446",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -2137,7 +2137,7 @@ module.exports = [
         to: "RIVER",
         width: "40",
         streetLength: "535",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -2145,7 +2145,7 @@ module.exports = [
         fromStreet: "BANKS",
         to: "DEWOLFE",
         width: "40",
-        date: "1874",
+        streetDate: "1874",
         unnacceptedstreetLength: "619",
         noncity: "X",
     },
@@ -2155,7 +2155,7 @@ module.exports = [
         to: "BRATTLE",
         width: "50",
         streetLength: "1272",
-        date: "1852",
+        streetDate: "1852",
         noncity: " ",
     },
     {
@@ -2172,7 +2172,7 @@ module.exports = [
         to: "CHATHAM",
         width: "40",
         streetLength: "223",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -2181,7 +2181,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "665",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -2190,7 +2190,7 @@ module.exports = [
         to: "SACRAMENTO",
         width: "30",
         streetLength: "660",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -2223,7 +2223,7 @@ module.exports = [
         to: "HURON AVE",
         width: "40",
         streetLength: "1815",
-        date: "1866",
+        streetDate: "1866",
         noncity: " ",
     },
     {
@@ -2260,7 +2260,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "615",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -2269,7 +2269,7 @@ module.exports = [
         to: "BROADWAY",
         width: "40",
         streetLength: "555",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -2278,7 +2278,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "845",
-        date: "1864",
+        streetDate: "1864",
         noncity: " ",
     },
     {
@@ -2295,7 +2295,7 @@ module.exports = [
         to: "WESTERLY",
         width: "35",
         streetLength: "415",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -2304,7 +2304,7 @@ module.exports = [
         to: "EASTERLY",
         width: "35",
         streetLength: "200",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -2313,7 +2313,7 @@ module.exports = [
         to: "BROADWAY",
         width: "30",
         streetLength: "300",
-        date: "1849",
+        streetDate: "1849",
         noncity: " ",
     },
     {
@@ -2322,7 +2322,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "318",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -2331,7 +2331,7 @@ module.exports = [
         to: "CARLETON",
         width: "30",
         streetLength: "230",
-        date: "1917",
+        streetDate: "1917",
         noncity: "X",
     },
     {
@@ -2340,7 +2340,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "477",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -2349,7 +2349,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "40",
         streetLength: "75",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -2358,7 +2358,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "800",
-        date: "1858",
+        streetDate: "1858",
         noncity: " ",
     },
     {
@@ -2391,7 +2391,7 @@ module.exports = [
         to: "KENWAY",
         width: "30",
         streetLength: "145",
-        date: "1940",
+        streetDate: "1940",
         noncity: " ",
     },
     {
@@ -2400,7 +2400,7 @@ module.exports = [
         to: "DEACON",
         width: "30",
         streetLength: "197",
-        date: "1916",
+        streetDate: "1916",
         unnacceptedstreetLength: "226",
         noncity: "X",
     },
@@ -2410,7 +2410,7 @@ module.exports = [
         to: "CALLENDER",
         width: "30",
         streetLength: "218",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -2419,7 +2419,7 @@ module.exports = [
         to: "GARDEN",
         width: "30",
         streetLength: "680",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -2436,7 +2436,7 @@ module.exports = [
         to: "BISHOP ALLEN",
         width: "30",
         streetLength: "286",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -2453,7 +2453,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "380",
-        date: "1866",
+        streetDate: "1866",
         noncity: " ",
     },
     {
@@ -2478,7 +2478,7 @@ module.exports = [
         to: "CEDAR",
         width: "40",
         streetLength: "440",
-        date: "1897",
+        streetDate: "1897",
         noncity: " ",
     },
     {
@@ -2487,7 +2487,7 @@ module.exports = [
         to: "MONTGOMERY",
         width: "40",
         streetLength: "590",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -2496,7 +2496,7 @@ module.exports = [
         to: "CLIFTON",
         width: "40",
         streetLength: "796",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -2513,7 +2513,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "40",
         streetLength: "364",
-        date: "1857",
+        streetDate: "1857",
         noncity: " ",
     },
     {
@@ -2521,14 +2521,14 @@ module.exports = [
         fromStreet: "MT AUBURN",
         to: "SOUTH STREET",
         streetLength: "500",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
         name: "DUNSTER-03",
         fromStreet: "SOUTH",
         to: "SOUTHERLY",
-        date: "1960",
+        streetDate: "1960",
         unnacceptedstreetLength: "75",
         noncity: "X",
     },
@@ -2544,7 +2544,7 @@ module.exports = [
         to: "NORTHEASTERLY",
         width: "50",
         streetLength: "34",
-        date: "1829",
+        streetDate: "1829",
         noncity: "X",
     },
     {
@@ -2566,7 +2566,7 @@ module.exports = [
         to: "PINE",
         width: "30",
         streetLength: "200",
-        date: "1957",
+        streetDate: "1957",
         noncity: " ",
     },
     {
@@ -2575,7 +2575,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "30",
         streetLength: "279",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -2583,7 +2583,7 @@ module.exports = [
         fromStreet: "MUSEUM WAY",
         to: "N DEAD END @ DCR",
         streetLength: "825+/-",
-        date: "2010",
+        streetDate: "2010",
         noncity: " ",
     },
     {
@@ -2592,7 +2592,7 @@ module.exports = [
         to: "THORNDIKE",
         width: "40",
         streetLength: "424",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -2601,14 +2601,14 @@ module.exports = [
         to: "SPRING",
         width: "40",
         streetLength: "200",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
         name: "ELIOT-01",
         fromStreet: "BRATTLE",
         to: "BENNETT",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -2617,7 +2617,7 @@ module.exports = [
         to: "JFK",
         width: "64",
         streetLength: "350",
-        date: "1982",
+        streetDate: "1982",
         noncity: " ",
     },
     {
@@ -2637,7 +2637,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "578",
-        date: "1869",
+        streetDate: "1869",
         noncity: " ",
     },
     {
@@ -2646,7 +2646,7 @@ module.exports = [
         to: "BROADWAY",
         width: "40",
         streetLength: "600",
-        date: "1857",
+        streetDate: "1857",
         noncity: " ",
     },
     {
@@ -2655,7 +2655,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "725",
-        date: "1869",
+        streetDate: "1869",
         noncity: " ",
     },
     {
@@ -2664,7 +2664,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "927",
-        date: "1861",
+        streetDate: "1861",
         noncity: " ",
     },
     {
@@ -2673,7 +2673,7 @@ module.exports = [
         to: "EASTERLY",
         width: "30",
         streetLength: "227",
-        date: "1910",
+        streetDate: "1910",
         noncity: " ",
     },
     {
@@ -2682,7 +2682,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "2485",
-        date: "1783",
+        streetDate: "1783",
         noncity: " ",
     },
     {
@@ -2691,7 +2691,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "25",
         streetLength: "426",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -2708,7 +2708,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "60",
         streetLength: "715",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -2717,7 +2717,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "442",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -2766,7 +2766,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "1000",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -2775,7 +2775,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "450",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -2784,7 +2784,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "450",
-        date: "1860",
+        streetDate: "1860",
         noncity: " ",
     },
     {
@@ -2793,7 +2793,7 @@ module.exports = [
         to: "BISHOP ALLEN",
         width: "31",
         streetLength: "280",
-        date: "1850",
+        streetDate: "1850",
         noncity: " ",
     },
     {
@@ -2802,7 +2802,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "827",
-        date: "1836",
+        streetDate: "1836",
         noncity: " ",
     },
     {
@@ -2819,14 +2819,14 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "666",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
         name: "EVERETEZE WAY",
         fromStreet: "CAMBRIDGE",
         to: "WINDSOR",
-        date: "1995",
+        streetDate: "1995",
         noncity: "X",
     },
     {
@@ -2835,7 +2835,7 @@ module.exports = [
         to: "OXFORD",
         width: "50",
         streetLength: "848",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -2844,7 +2844,7 @@ module.exports = [
         to: "EASTERLY",
         width: "35",
         streetLength: "263",
-        date: "1904",
+        streetDate: "1904",
         noncity: " ",
     },
     {
@@ -2853,7 +2853,7 @@ module.exports = [
         to: "WESTERLY",
         width: "25-30",
         streetLength: "352",
-        date: "1914",
+        streetDate: "1914",
         noncity: " ",
     },
     {
@@ -2862,7 +2862,7 @@ module.exports = [
         to: "CAMP",
         width: "40",
         streetLength: "200",
-        date: "1910",
+        streetDate: "1910",
         noncity: " ",
     },
     {
@@ -2871,7 +2871,7 @@ module.exports = [
         to: "PEMBERTON",
         width: "40",
         streetLength: "610",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -2880,7 +2880,7 @@ module.exports = [
         to: "ALLSTON",
         width: "30",
         streetLength: "430",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -2889,7 +2889,7 @@ module.exports = [
         to: "PLEASANT",
         width: "30",
         streetLength: "697",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -2898,7 +2898,7 @@ module.exports = [
         to: "RIVER",
         width: "30",
         streetLength: "470",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -2907,7 +2907,7 @@ module.exports = [
         to: "BELMONT LINE",
         width: "50",
         streetLength: "230",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -2924,7 +2924,7 @@ module.exports = [
         to: "HOLDEN",
         width: "40",
         streetLength: "575",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -2939,7 +2939,7 @@ module.exports = [
         to: "EASTERLY",
         width: "30",
         streetLength: "370",
-        date: "1844",
+        streetDate: "1844",
         noncity: " ",
     },
     {
@@ -2948,7 +2948,7 @@ module.exports = [
         to: "RAILWAY",
         width: "50",
         streetLength: "1230",
-        date: "1947",
+        streetDate: "1947",
         noncity: " ",
     },
     {
@@ -2957,7 +2957,7 @@ module.exports = [
         to: "SMITH PL",
         width: "50",
         streetLength: "1178",
-        date: "1952",
+        streetDate: "1952",
         noncity: " ",
     },
     {
@@ -2966,7 +2966,7 @@ module.exports = [
         to: "308' S OF RESERVOIR",
         width: "48",
         streetLength: "310",
-        date: "1863",
+        streetDate: "1863",
         noncity: " ",
     },
     {
@@ -2975,7 +2975,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "50",
         streetLength: "1935",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -2984,7 +2984,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "50",
         streetLength: "535",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -2993,7 +2993,7 @@ module.exports = [
         to: "WALDEN",
         width: "50",
         streetLength: "692",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -3002,7 +3002,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1266",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -3019,7 +3019,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "412",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -3028,7 +3028,7 @@ module.exports = [
         to: "SHERMAN",
         width: "40",
         streetLength: "238",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -3037,7 +3037,7 @@ module.exports = [
         to: "ESTEN",
         width: "40",
         streetLength: "368",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -3046,7 +3046,7 @@ module.exports = [
         to: "FIELD",
         width: "50",
         streetLength: "465",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -3055,7 +3055,7 @@ module.exports = [
         to: "ROBINSON",
         width: "40",
         streetLength: "666",
-        date: "1949",
+        streetDate: "1949",
         noncity: " ",
     },
     {
@@ -3064,7 +3064,7 @@ module.exports = [
         to: "BAY STATE RD",
         width: "40",
         streetLength: "1234",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -3073,7 +3073,7 @@ module.exports = [
         to: "GORE",
         width: "50",
         streetLength: "200",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -3082,7 +3082,7 @@ module.exports = [
         to: "SPRING",
         width: "50",
         streetLength: "900",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -3091,7 +3091,7 @@ module.exports = [
         to: "CHARLES",
         width: "50",
         streetLength: "450",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -3100,7 +3100,7 @@ module.exports = [
         to: "BENT",
         width: "50",
         streetLength: "200",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -3125,7 +3125,7 @@ module.exports = [
         to: "OTIS",
         width: "50",
         streetLength: "300",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -3134,7 +3134,7 @@ module.exports = [
         to: "THORNDIKE",
         width: "50",
         streetLength: "200",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -3143,7 +3143,7 @@ module.exports = [
         to: "HURLEY",
         width: "60",
         streetLength: "450",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -3152,7 +3152,7 @@ module.exports = [
         to: "BINNEY",
         width: "60",
         streetLength: "995",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -3161,7 +3161,7 @@ module.exports = [
         to: "LAND BLVD",
         width: "60",
         streetLength: "465",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -3170,7 +3170,7 @@ module.exports = [
         to: "BROAD CANAL",
         width: "60",
         streetLength: "465",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -3178,7 +3178,7 @@ module.exports = [
         fromStreet: "BROAD CANAL",
         to: "(BRIDGE ONLY)",
         width: "60",
-        date: "2010",
+        streetDate: "2010",
         noncity: "X",
     },
     {
@@ -3187,7 +3187,7 @@ module.exports = [
         to: "MAIN",
         width: "60",
         streetLength: "375",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -3204,7 +3204,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "664",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -3213,7 +3213,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "493",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -3230,7 +3230,7 @@ module.exports = [
         to: "GLADSTONE",
         width: "30",
         streetLength: "437",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -3239,7 +3239,7 @@ module.exports = [
         to: "WATERHOUSE",
         width: "30-40",
         streetLength: "940",
-        date: "1868",
+        streetDate: "1868",
         noncity: " ",
     },
     {
@@ -3254,7 +3254,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "916",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -3279,7 +3279,7 @@ module.exports = [
         to: "SPARKS",
         width: "40",
         streetLength: "621",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -3288,7 +3288,7 @@ module.exports = [
         to: "LOWELL",
         width: "40",
         streetLength: "779",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -3297,7 +3297,7 @@ module.exports = [
         to: "HURON AVE",
         width: "70-160",
         streetLength: "250",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -3330,7 +3330,7 @@ module.exports = [
         to: "BRYANT",
         width: "45",
         streetLength: "867",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -3339,7 +3339,7 @@ module.exports = [
         to: "ANGLE",
         width: "45",
         streetLength: "325",
-        date: "1914",
+        streetDate: "1914",
         noncity: " ",
     },
     {
@@ -3348,7 +3348,7 @@ module.exports = [
         to: "IRVING",
         width: "40",
         streetLength: "350",
-        date: "1914",
+        streetDate: "1914",
         noncity: " ",
     },
     {
@@ -3373,7 +3373,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "429",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -3382,7 +3382,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "550",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -3391,7 +3391,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "1191",
-        date: "1836",
+        streetDate: "1836",
         noncity: " ",
     },
     {
@@ -3400,7 +3400,7 @@ module.exports = [
         to: "PUTNAM AVE",
         width: "40",
         streetLength: "2149",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -3409,7 +3409,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "50",
         streetLength: "1550",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -3432,7 +3432,7 @@ module.exports = [
         to: "MASS AVE",
         width: "40",
         streetLength: "180",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -3441,7 +3441,7 @@ module.exports = [
         to: "PRENTISS",
         width: "40",
         streetLength: "755",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -3458,7 +3458,7 @@ module.exports = [
         to: "OTIS",
         width: "50",
         streetLength: "210",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -3467,7 +3467,7 @@ module.exports = [
         to: "SPRING",
         width: "50",
         streetLength: "460",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -3476,7 +3476,7 @@ module.exports = [
         to: "HURLEY",
         width: "50",
         streetLength: "220",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -3485,7 +3485,7 @@ module.exports = [
         to: "CHARLES",
         width: "50",
         streetLength: "220",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -3494,7 +3494,7 @@ module.exports = [
         to: "BINNEY",
         width: "50",
         streetLength: "700",
-        date: "1953",
+        streetDate: "1953",
         noncity: " ",
     },
     {
@@ -3519,7 +3519,7 @@ module.exports = [
         to: "BROADWAY",
         width: "100",
         streetLength: "594",
-        date: "1983",
+        streetDate: "1983",
         noncity: " ",
     },
     {
@@ -3528,7 +3528,7 @@ module.exports = [
         to: "BINNEY",
         width: "100",
         streetLength: "639",
-        date: "1983",
+        streetDate: "1983",
         noncity: " ",
     },
     {
@@ -3558,7 +3558,7 @@ module.exports = [
         to: "WATERHOUSE",
         width: "70",
         streetLength: "1278",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -3567,7 +3567,7 @@ module.exports = [
         to: "CHAUNCY",
         width: "60",
         streetLength: "700",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -3576,7 +3576,7 @@ module.exports = [
         to: "LINNAEAN",
         width: "50-60",
         streetLength: "1311",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -3585,7 +3585,7 @@ module.exports = [
         to: "HURON AVE",
         width: "50",
         streetLength: "972",
-        date: "1865",
+        streetDate: "1865",
         noncity: " ",
     },
     {
@@ -3594,7 +3594,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "1000",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -3603,7 +3603,7 @@ module.exports = [
         to: "FIELD",
         width: "40",
         streetLength: "1600",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -3612,7 +3612,7 @@ module.exports = [
         to: "PROSPECT",
         width: "30",
         streetLength: "280",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -3621,7 +3621,7 @@ module.exports = [
         to: "OXFORD",
         width: "50",
         streetLength: "848",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -3638,7 +3638,7 @@ module.exports = [
         to: "ROSS",
         width: "20",
         streetLength: "375",
-        date: "1932",
+        streetDate: "1932",
         noncity: " ",
     },
     {
@@ -3653,7 +3653,7 @@ module.exports = [
         to: "FOSTER",
         width: "40",
         streetLength: "484",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -3668,7 +3668,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "120",
-        date: "1976",
+        streetDate: "1976",
         noncity: " ",
     },
     {
@@ -3677,7 +3677,7 @@ module.exports = [
         to: "FOCH",
         width: "30",
         streetLength: "257",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -3706,7 +3706,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "476",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -3731,7 +3731,7 @@ module.exports = [
         to: "SEVEN PINES AVE",
         width: "40",
         streetLength: "560",
-        date: "1903",
+        streetDate: "1903",
         noncity: " ",
     },
     {
@@ -3740,7 +3740,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "80",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -3749,7 +3749,7 @@ module.exports = [
         to: "BROADWAY",
         width: "35",
         streetLength: "245",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -3766,7 +3766,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "2524",
-        date: "1810",
+        streetDate: "1810",
         noncity: " ",
     },
     {
@@ -3791,7 +3791,7 @@ module.exports = [
         to: "HAMMOND",
         width: "40",
         streetLength: "311",
-        date: "1901",
+        streetDate: "1901",
         noncity: " ",
     },
     {
@@ -3800,7 +3800,7 @@ module.exports = [
         to: "MUSEUM",
         width: "40",
         streetLength: "155",
-        date: "1918",
+        streetDate: "1918",
         noncity: " ",
     },
     {
@@ -3817,7 +3817,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "440",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -3826,7 +3826,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "541",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -3835,7 +3835,7 @@ module.exports = [
         to: "DEWOLFE",
         width: "40",
         streetLength: "590",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -3844,7 +3844,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "40",
         streetLength: "516",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -3853,7 +3853,7 @@ module.exports = [
         to: "SAVILLE",
         width: "40",
         streetLength: "340",
-        date: "1918",
+        streetDate: "1918",
         noncity: " ",
     },
     {
@@ -3862,7 +3862,7 @@ module.exports = [
         to: "LINNAEAN",
         width: "40",
         streetLength: "478",
-        date: "1888",
+        streetDate: "1888",
         noncity: " ",
     },
     {
@@ -3871,7 +3871,7 @@ module.exports = [
         to: "RAYMOND",
         width: "40-24-28",
         streetLength: "900",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -3880,7 +3880,7 @@ module.exports = [
         to: "WESTERLY",
         width: "40-25",
         streetLength: "400",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -3889,7 +3889,7 @@ module.exports = [
         to: "BLANCHE",
         width: "40",
         streetLength: "390",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -3898,7 +3898,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "160",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -3907,7 +3907,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "570",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -3916,7 +3916,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "400",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -3925,7 +3925,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "460",
-        date: "1830",
+        streetDate: "1830",
         noncity: " ",
     },
     {
@@ -3934,7 +3934,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "460",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -3943,7 +3943,7 @@ module.exports = [
         to: "BAY",
         width: "40",
         streetLength: "1550",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -3952,7 +3952,7 @@ module.exports = [
         to: "PUTNAM AVE",
         width: "40",
         streetLength: "740",
-        date: "1861",
+        streetDate: "1861",
         noncity: " ",
     },
     {
@@ -3969,7 +3969,7 @@ module.exports = [
         to: "ELLSWORTH AVE",
         width: "40",
         streetLength: "306",
-        date: "1881",
+        streetDate: "1881",
         noncity: " ",
     },
     {
@@ -3977,7 +3977,7 @@ module.exports = [
         fromStreet: "WATERTOWN LINE",
         to: "MEMORIAL DR",
         width: "75",
-        date: "1972",
+        streetDate: "1972",
         unnacceptedstreetLength: "3900",
         noncity: "X",
     },
@@ -3987,7 +3987,7 @@ module.exports = [
         to: "LOOMIS",
         width: "40",
         streetLength: "1000",
-        date: "1949",
+        streetDate: "1949",
         noncity: " ",
     },
     {
@@ -4004,7 +4004,7 @@ module.exports = [
         to: "HURON AVE",
         width: "45",
         streetLength: "160",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -4013,7 +4013,7 @@ module.exports = [
         to: "100' N OF FR POND PKWY",
         width: "44",
         streetLength: "1041",
-        date: "1924",
+        streetDate: "1924",
         noncity: " ",
     },
     {
@@ -4021,7 +4021,7 @@ module.exports = [
         fromStreet: "100' N OF FR POND PKWY",
         to: "FRESH POND PKWY",
         width: "44",
-        date: "1899",
+        streetDate: "1899",
         noncity: "X",
     },
     {
@@ -4030,7 +4030,7 @@ module.exports = [
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "585",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -4039,7 +4039,7 @@ module.exports = [
         to: "NORTHEASTERLY",
         width: "30",
         streetLength: "330",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -4047,7 +4047,7 @@ module.exports = [
         fromStreet: "RIVER",
         to: "NORTHERLY",
         width: "27",
-        date: "1981",
+        streetDate: "1981",
         unnacceptedstreetLength: "180",
         noncity: "X",
     },
@@ -4057,7 +4057,7 @@ module.exports = [
         to: "BROOKLINE",
         width: "40",
         streetLength: "400",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -4066,7 +4066,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "492",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -4075,7 +4075,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "451",
-        date: "1866",
+        streetDate: "1866",
         noncity: " ",
     },
     {
@@ -4084,7 +4084,7 @@ module.exports = [
         to: "YORK",
         width: "40",
         streetLength: "217",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4093,7 +4093,7 @@ module.exports = [
         to: "CARVER",
         width: "40",
         streetLength: "1135",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -4102,7 +4102,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "66",
         streetLength: "4410",
-        date: "1842",
+        streetDate: "1842",
         noncity: " ",
     },
     {
@@ -4135,7 +4135,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "450",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -4144,7 +4144,7 @@ module.exports = [
         to: "MASS AVE",
         width: "40",
         streetLength: "735",
-        date: "1841",
+        streetDate: "1841",
         noncity: " ",
     },
     {
@@ -4153,7 +4153,7 @@ module.exports = [
         to: "FRANKLIN",
         width: "26",
         streetLength: "470",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -4162,7 +4162,7 @@ module.exports = [
         to: "KINNIAIRD",
         width: "30",
         streetLength: "164",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -4171,7 +4171,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "550",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -4180,7 +4180,7 @@ module.exports = [
         to: "BERKSHIRE",
         width: "40",
         streetLength: "300",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4197,7 +4197,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "410",
-        date: "1903",
+        streetDate: "1903",
         noncity: " ",
     },
     {
@@ -4222,7 +4222,7 @@ module.exports = [
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "451",
-        date: "1929",
+        streetDate: "1929",
         noncity: " ",
     },
     {
@@ -4231,7 +4231,7 @@ module.exports = [
         to: "MASS AVE",
         width: "50",
         streetLength: "6910",
-        date: "1808",
+        streetDate: "1808",
         noncity: " ",
     },
     {
@@ -4240,7 +4240,7 @@ module.exports = [
         to: "CEDAR",
         width: "40",
         streetLength: "125",
-        date: "1904",
+        streetDate: "1904",
         noncity: " ",
     },
     {
@@ -4249,7 +4249,7 @@ module.exports = [
         to: "W OF MONTGOMERY",
         width: "30",
         streetLength: "760",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -4258,7 +4258,7 @@ module.exports = [
         to: "RAILWAY",
         width: "30",
         streetLength: "950",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -4275,7 +4275,7 @@ module.exports = [
         to: "RINDGE AVE",
         width: "40",
         streetLength: "503",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -4284,7 +4284,7 @@ module.exports = [
         to: "PEMBERTON",
         width: "40",
         streetLength: "770",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -4301,7 +4301,7 @@ module.exports = [
         to: "CHESTNUT",
         width: "40",
         streetLength: "300",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -4310,14 +4310,14 @@ module.exports = [
         to: "MT AUBURN",
         width: "40",
         streetLength: "662",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
         name: "HAWTHORN-02",
         fromStreet: "MT AUBURN",
         to: "MEMORIAL DR",
-        date: "1921",
+        streetDate: "1921",
         noncity: "X",
     },
     {
@@ -4326,7 +4326,7 @@ module.exports = [
         to: "WESTERLY",
         width: "40",
         streetLength: "200",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -4335,7 +4335,7 @@ module.exports = [
         to: "DEAD END",
         width: "30",
         streetLength: "260",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -4344,7 +4344,7 @@ module.exports = [
         to: "AMHERST",
         width: "40",
         streetLength: "505",
-        date: "1902",
+        streetDate: "1902",
         noncity: "X",
     },
     {
@@ -4353,7 +4353,7 @@ module.exports = [
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "258",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -4362,7 +4362,7 @@ module.exports = [
         to: "BUCKINGHAM",
         width: "40",
         streetLength: "430",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -4371,7 +4371,7 @@ module.exports = [
         to: "WESTERLY",
         width: "30",
         streetLength: "340",
-        date: "1947",
+        streetDate: "1947",
         noncity: " ",
     },
     {
@@ -4388,7 +4388,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "903",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -4397,7 +4397,7 @@ module.exports = [
         to: "WAVERLY",
         width: "40",
         streetLength: "420",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -4406,7 +4406,7 @@ module.exports = [
         to: "CAMBRIDGE TERR",
         width: "30",
         streetLength: "197",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -4415,7 +4415,7 @@ module.exports = [
         to: "CALLENDER",
         width: "40",
         streetLength: "282",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -4424,7 +4424,7 @@ module.exports = [
         to: "HOLWORTHY",
         width: "40",
         streetLength: "506",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -4433,7 +4433,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1042",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -4442,7 +4442,7 @@ module.exports = [
         to: "EASTERLY",
         width: "30",
         streetLength: "150",
-        date: "1920",
+        streetDate: "1920",
         noncity: " ",
     },
     {
@@ -4451,7 +4451,7 @@ module.exports = [
         to: "APPLETON",
         width: "40",
         streetLength: "643",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -4460,7 +4460,7 @@ module.exports = [
         to: "SPARKS",
         width: "40",
         streetLength: "704",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -4469,7 +4469,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "30",
         streetLength: "620",
-        date: "1851",
+        streetDate: "1851",
         noncity: " ",
     },
     {
@@ -4486,7 +4486,7 @@ module.exports = [
         to: "AVON HILL",
         width: "40",
         streetLength: "350",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -4503,7 +4503,7 @@ module.exports = [
         to: "BANKS",
         width: "40",
         streetLength: "303",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -4512,7 +4512,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "205",
-        date: "1915",
+        streetDate: "1915",
         noncity: " ",
     },
     {
@@ -4527,7 +4527,7 @@ module.exports = [
         to: "FARRAR",
         width: "40",
         streetLength: "273",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -4536,7 +4536,7 @@ module.exports = [
         to: "SCOTT",
         width: "40",
         streetLength: "410",
-        date: "1901",
+        streetDate: "1901",
         noncity: " ",
     },
     {
@@ -4545,7 +4545,7 @@ module.exports = [
         to: "RINDGE AVE",
         width: "30",
         streetLength: "738",
-        date: "1890",
+        streetDate: "1890",
         noncity: " ",
     },
     {
@@ -4562,7 +4562,7 @@ module.exports = [
         to: "HURON AVE",
         width: "30",
         streetLength: "376",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -4571,7 +4571,7 @@ module.exports = [
         to: "HOLWORTHY",
         width: "40",
         streetLength: "378",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -4596,7 +4596,7 @@ module.exports = [
         to: "FOUNTAIN TERR",
         width: "50",
         streetLength: "1580",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -4605,7 +4605,7 @@ module.exports = [
         to: "HURON AVE",
         width: "40-50",
         streetLength: "370",
-        date: "1929",
+        streetDate: "1929",
         noncity: " ",
     },
     {
@@ -4622,7 +4622,7 @@ module.exports = [
         to: "S BKSW WINTHROP",
         width: "31",
         streetLength: "605",
-        date: "1798",
+        streetDate: "1798",
         noncity: " ",
     },
     {
@@ -4639,7 +4639,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "650",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -4656,7 +4656,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "36",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -4673,7 +4673,7 @@ module.exports = [
         to: "MAGNOLIA AVE",
         width: "40",
         streetLength: "580",
-        date: "1931",
+        streetDate: "1931",
         noncity: " ",
     },
     {
@@ -4682,7 +4682,7 @@ module.exports = [
         to: "WESTERN AVE",
         width: "40",
         streetLength: "478",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -4691,7 +4691,7 @@ module.exports = [
         to: "KINNAIRD",
         width: "40",
         streetLength: "814",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -4700,7 +4700,7 @@ module.exports = [
         to: "WENDELL",
         width: "40",
         streetLength: "272",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -4709,7 +4709,7 @@ module.exports = [
         to: "WESTERLY 500'",
         width: "40",
         streetLength: "500",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -4718,7 +4718,7 @@ module.exports = [
         to: "EASTERLY 260'",
         width: "40",
         streetLength: "260",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -4727,7 +4727,7 @@ module.exports = [
         to: "BRATTLE",
         width: "40",
         streetLength: "765",
-        date: "1910",
+        streetDate: "1910",
         noncity: " ",
     },
     {
@@ -4736,7 +4736,7 @@ module.exports = [
         to: "HUDSON PL",
         width: "30",
         streetLength: "430",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -4753,7 +4753,7 @@ module.exports = [
         to: "LANCASTER",
         width: "30",
         streetLength: "353",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -4762,7 +4762,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "540",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -4771,7 +4771,7 @@ module.exports = [
         to: "LINNAEAN",
         width: "40",
         streetLength: "437",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -4780,7 +4780,7 @@ module.exports = [
         to: "SECOND",
         width: "50",
         streetLength: "300",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4789,7 +4789,7 @@ module.exports = [
         to: "THIRD",
         width: "50",
         streetLength: "330",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -4798,7 +4798,7 @@ module.exports = [
         to: "SIXTH",
         width: "50",
         streetLength: "1280",
-        date: "1849",
+        streetDate: "1849",
         noncity: " ",
     },
     {
@@ -4807,7 +4807,7 @@ module.exports = [
         to: "80' W OF SIXTH",
         width: "50",
         streetLength: "80",
-        date: "1813",
+        streetDate: "1813",
         noncity: " ",
     },
     {
@@ -4816,7 +4816,7 @@ module.exports = [
         to: "UPLAND RD",
         width: "40",
         streetLength: "540",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -4825,7 +4825,7 @@ module.exports = [
         to: "GARDEN",
         width: "50",
         streetLength: "400",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4834,7 +4834,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "50",
         streetLength: "600",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4843,7 +4843,7 @@ module.exports = [
         to: "E LINE OF RAILWAY",
         width: "70",
         streetLength: "4900",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4852,7 +4852,7 @@ module.exports = [
         to: "W OF CUSHING",
         width: "70",
         streetLength: "1650",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -4861,7 +4861,7 @@ module.exports = [
         to: "GROVE",
         width: "50",
         streetLength: "1650",
-        date: "1954",
+        streetDate: "1954",
         noncity: " ",
     },
     {
@@ -4870,7 +4870,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "420",
-        date: "1926",
+        streetDate: "1926",
         noncity: " ",
     },
     {
@@ -4887,7 +4887,7 @@ module.exports = [
         to: "WEST PL",
         width: "35",
         streetLength: "184",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -4896,7 +4896,7 @@ module.exports = [
         to: "BROADWAY",
         width: "40",
         streetLength: "1325",
-        date: "1855",
+        streetDate: "1855",
         noncity: " ",
     },
     {
@@ -4905,7 +4905,7 @@ module.exports = [
         to: "HARVARD",
         width: "37",
         streetLength: "390",
-        date: "1890",
+        streetDate: "1890",
         noncity: " ",
     },
     {
@@ -4914,7 +4914,7 @@ module.exports = [
         to: "BISHOP ALLEN",
         width: "37",
         streetLength: "625",
-        date: "1857",
+        streetDate: "1857",
         noncity: " ",
     },
     {
@@ -4923,7 +4923,7 @@ module.exports = [
         to: "MASS AVE",
         width: "45",
         streetLength: "350",
-        date: "1830",
+        streetDate: "1830",
         noncity: " ",
     },
     {
@@ -4932,7 +4932,7 @@ module.exports = [
         to: "SUMNER RD",
         width: "30",
         streetLength: "410",
-        date: "1949",
+        streetDate: "1949",
         noncity: " ",
     },
     {
@@ -4941,7 +4941,7 @@ module.exports = [
         to: "KIRKLAND",
         width: "40",
         streetLength: "795",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -4950,7 +4950,7 @@ module.exports = [
         to: "BRYANT",
         width: "50",
         streetLength: "775",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -4959,7 +4959,7 @@ module.exports = [
         to: "FRANCIS AVE",
         width: "40",
         streetLength: "661",
-        date: "1914",
+        streetDate: "1914",
         noncity: " ",
     },
     {
@@ -4968,7 +4968,7 @@ module.exports = [
         to: "GARDEN",
         width: "40",
         streetLength: "252",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -4977,7 +4977,7 @@ module.exports = [
         to: "HARVEY",
         width: "40",
         streetLength: "1367",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -4998,7 +4998,7 @@ module.exports = [
         to: "MASON",
         width: "40",
         streetLength: "212",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -5007,7 +5007,7 @@ module.exports = [
         to: "MEMORIAL WAY",
         width: "35",
         streetLength: "298",
-        date: "1983",
+        streetDate: "1983",
         noncity: "X",
     },
     {
@@ -5032,7 +5032,7 @@ module.exports = [
         to: "WESTERN AVE",
         width: "40",
         streetLength: "404",
-        date: "1881",
+        streetDate: "1881",
         noncity: " ",
     },
     {
@@ -5041,7 +5041,7 @@ module.exports = [
         to: "KINNIAIRD",
         width: "40",
         streetLength: "612",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5050,7 +5050,7 @@ module.exports = [
         to: "HARDING",
         width: "34",
         streetLength: "620",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5059,7 +5059,7 @@ module.exports = [
         to: "MASS AVE",
         width: "60",
         streetLength: "1820",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5068,7 +5068,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "35",
         streetLength: "205",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -5077,7 +5077,7 @@ module.exports = [
         to: "HURON AVE",
         width: "30",
         streetLength: "596",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -5086,7 +5086,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "505",
-        date: "1867",
+        streetDate: "1867",
         noncity: " ",
     },
     {
@@ -5095,7 +5095,7 @@ module.exports = [
         to: "RIVER",
         width: "40",
         streetLength: "247",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -5118,7 +5118,7 @@ module.exports = [
         to: "GIBSON",
         width: "30",
         streetLength: "215",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -5127,7 +5127,7 @@ module.exports = [
         to: "ALLSTON",
         width: "30",
         streetLength: "310",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -5144,7 +5144,7 @@ module.exports = [
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "345",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -5183,7 +5183,7 @@ module.exports = [
         to: "RIVER",
         width: "40",
         streetLength: "45",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -5192,7 +5192,7 @@ module.exports = [
         to: "WESTERN AVE",
         width: "40",
         streetLength: "320",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -5201,7 +5201,7 @@ module.exports = [
         to: "BAY",
         width: "40",
         streetLength: "1125",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5210,7 +5210,7 @@ module.exports = [
         to: "PUTNAM AVE",
         width: "35",
         streetLength: "600",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -5219,7 +5219,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "60",
         streetLength: "2390",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5236,7 +5236,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "30",
         streetLength: "230",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -5245,7 +5245,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "50",
         streetLength: "2940",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5254,7 +5254,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "30",
         streetLength: "370",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5279,7 +5279,7 @@ module.exports = [
         to: "HUMBOLDT",
         width: "40",
         streetLength: "520",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -5288,7 +5288,7 @@ module.exports = [
         to: "MASS",
         width: "30",
         streetLength: "446",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -5296,7 +5296,7 @@ module.exports = [
         fromStreet: "FIRST",
         to: "BINNEY",
         width: "60",
-        date: "1900",
+        streetDate: "1900",
         unnacceptedstreetLength: "646",
         noncity: "X",
     },
@@ -5305,7 +5305,7 @@ module.exports = [
         fromStreet: "BINNEY",
         to: "BROAD CANAL",
         width: "60",
-        date: "1911",
+        streetDate: "1911",
         unnacceptedstreetLength: "1537",
         noncity: "X",
     },
@@ -5314,7 +5314,7 @@ module.exports = [
         fromStreet: "BROAD CANAL",
         to: "MCGRATH OBRIEN",
         width: "63",
-        date: "1894",
+        streetDate: "1894",
         unnacceptedstreetLength: "369",
         noncity: "X",
     },
@@ -5324,7 +5324,7 @@ module.exports = [
         to: "GREEN",
         width: "50",
         streetLength: "240",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -5333,7 +5333,7 @@ module.exports = [
         to: "FRANKLIN",
         width: "50",
         streetLength: "275",
-        date: "1910",
+        streetDate: "1910",
         noncity: " ",
     },
     {
@@ -5342,7 +5342,7 @@ module.exports = [
         to: "PACIFIC",
         width: "50",
         streetLength: "704",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -5351,7 +5351,7 @@ module.exports = [
         to: "CHAUNCY",
         width: "30-60",
         streetLength: "725",
-        date: "1898",
+        streetDate: "1898",
         noncity: " ",
     },
     {
@@ -5360,7 +5360,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "40",
         streetLength: "2196",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -5369,7 +5369,7 @@ module.exports = [
         to: "MEADOW WAY",
         width: "40",
         streetLength: "1727",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -5378,7 +5378,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "50",
         streetLength: "180",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -5387,7 +5387,7 @@ module.exports = [
         to: "RIVER",
         width: "30",
         streetLength: "304",
-        date: "1904",
+        streetDate: "1904",
         noncity: " ",
     },
     {
@@ -5404,7 +5404,7 @@ module.exports = [
         to: "MAY",
         width: "30",
         streetLength: "500",
-        date: "1915",
+        streetDate: "1915",
         noncity: " ",
     },
     {
@@ -5413,7 +5413,7 @@ module.exports = [
         to: "OXFORD AVE",
         width: "40",
         streetLength: "363",
-        date: "1915",
+        streetDate: "1915",
         noncity: " ",
     },
     {
@@ -5422,7 +5422,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "447",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -5431,7 +5431,7 @@ module.exports = [
         to: "BROADWAY",
         width: "45",
         streetLength: "1215",
-        date: "1809",
+        streetDate: "1809",
         noncity: " ",
     },
     {
@@ -5446,7 +5446,7 @@ module.exports = [
         to: "LINE",
         width: "40",
         streetLength: "685",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -5455,7 +5455,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "45",
         streetLength: "2637",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5472,7 +5472,7 @@ module.exports = [
         to: "WESTERLY",
         width: "25",
         streetLength: "265",
-        date: "1921",
+        streetDate: "1921",
         noncity: " ",
     },
     {
@@ -5495,7 +5495,7 @@ module.exports = [
         to: "WEBSTER AVE",
         width: "40",
         streetLength: "170",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -5504,7 +5504,7 @@ module.exports = [
         to: "ELM",
         width: "40",
         streetLength: "600",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -5513,7 +5513,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "25",
         streetLength: "371",
-        date: "1803",
+        streetDate: "1803",
         noncity: " ",
     },
     {
@@ -5522,7 +5522,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "33",
         streetLength: "1835",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -5539,7 +5539,7 @@ module.exports = [
         to: "GARDEN",
         width: "50",
         streetLength: "2183",
-        date: "1724",
+        streetDate: "1724",
         noncity: " ",
     },
     {
@@ -5548,7 +5548,7 @@ module.exports = [
         to: "FIRST",
         width: "50",
         streetLength: "1094",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -5573,7 +5573,7 @@ module.exports = [
         to: "BEYOND SHEA RD",
         width: "30",
         streetLength: "693",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -5605,7 +5605,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "35",
         streetLength: "330",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -5614,7 +5614,7 @@ module.exports = [
         to: "EASTERLY",
         width: "40",
         streetLength: "400",
-        date: "1952",
+        streetDate: "1952",
         noncity: " ",
     },
     {
@@ -5623,7 +5623,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "475",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -5632,7 +5632,7 @@ module.exports = [
         to: "HURLEY",
         width: "40",
         streetLength: "200",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -5641,7 +5641,7 @@ module.exports = [
         to: "CHARLES",
         width: "34",
         streetLength: "200",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -5650,7 +5650,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "40",
         streetLength: "887",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -5659,7 +5659,7 @@ module.exports = [
         to: "MARION",
         width: "71",
         streetLength: "156",
-        date: "1983",
+        streetDate: "1983",
         noncity: "X",
     },
     {
@@ -5668,7 +5668,7 @@ module.exports = [
         to: "GARDEN",
         width: "30",
         streetLength: "693",
-        date: "1903",
+        streetDate: "1903",
         noncity: " ",
     },
     {
@@ -5677,7 +5677,7 @@ module.exports = [
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "617",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -5694,7 +5694,7 @@ module.exports = [
         to: "FLORENCE",
         width: "50",
         streetLength: "3490",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -5703,7 +5703,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "50",
         streetLength: "690",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -5712,7 +5712,7 @@ module.exports = [
         to: "EASTERLY",
         width: "40",
         streetLength: "334",
-        date: "1897",
+        streetDate: "1897",
         noncity: " ",
     },
     {
@@ -5721,7 +5721,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "444",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -5730,7 +5730,7 @@ module.exports = [
         to: "LINE",
         width: "40",
         streetLength: "668",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -5739,7 +5739,7 @@ module.exports = [
         to: "WHITTEMORE AVE",
         width: "40",
         streetLength: "675",
-        date: "1901",
+        streetDate: "1901",
         noncity: " ",
     },
     {
@@ -5748,7 +5748,7 @@ module.exports = [
         to: "BINNEY",
         width: "70",
         streetLength: "3507",
-        date: "1855",
+        streetDate: "1855",
         noncity: " ",
     },
     {
@@ -5757,7 +5757,7 @@ module.exports = [
         to: "BROADWAY",
         width: "70",
         streetLength: "923",
-        date: "1985",
+        streetDate: "1985",
         noncity: " ",
     },
     {
@@ -5766,7 +5766,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "117",
         streetLength: "1320",
-        date: "1855",
+        streetDate: "1855",
         noncity: " ",
     },
     {
@@ -5775,7 +5775,7 @@ module.exports = [
         to: "STANDISH",
         width: "40",
         streetLength: "300",
-        date: "1913",
+        streetDate: "1913",
         noncity: " ",
     },
     {
@@ -5784,7 +5784,7 @@ module.exports = [
         to: "ANGLE",
         width: "24",
         streetLength: "200",
-        date: "1908",
+        streetDate: "1908",
         noncity: " ",
     },
     {
@@ -5793,7 +5793,7 @@ module.exports = [
         to: "HURON AVE",
         width: "35",
         streetLength: "310",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -5802,7 +5802,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "1152",
-        date: "1862",
+        streetDate: "1862",
         noncity: " ",
     },
     {
@@ -5811,7 +5811,7 @@ module.exports = [
         to: "BERKSHIRE",
         width: "40",
         streetLength: "300",
-        date: "1901",
+        streetDate: "1901",
         noncity: " ",
     },
     {
@@ -5828,7 +5828,7 @@ module.exports = [
         to: "HIGHLAND AVE",
         width: "35",
         streetLength: "299",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -5837,7 +5837,7 @@ module.exports = [
         to: "JEFFERSON",
         width: "30",
         streetLength: "250",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -5846,7 +5846,7 @@ module.exports = [
         to: "ELM",
         width: "42",
         streetLength: "1450",
-        date: "1852",
+        streetDate: "1852",
         noncity: " ",
     },
     {
@@ -5855,7 +5855,7 @@ module.exports = [
         to: "BERKSHIRE",
         width: "40",
         streetLength: "300",
-        date: "1898",
+        streetDate: "1898",
         noncity: " ",
     },
     {
@@ -5864,7 +5864,7 @@ module.exports = [
         to: "BOWDOIN",
         width: "40",
         streetLength: "344",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -5873,7 +5873,7 @@ module.exports = [
         to: "AVON",
         width: "35",
         streetLength: "514",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -5890,7 +5890,7 @@ module.exports = [
         to: "GARDEN",
         width: "50",
         streetLength: "606",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5899,7 +5899,7 @@ module.exports = [
         to: "COLUMBIA",
         width: "90",
         streetLength: "2950",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -5908,7 +5908,7 @@ module.exports = [
         to: "PLEASANT",
         width: "103",
         streetLength: "1860",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -5917,7 +5917,7 @@ module.exports = [
         to: "PUTNAM AVE",
         width: "103-63",
         streetLength: "2590",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5926,7 +5926,7 @@ module.exports = [
         to: "HARVARD",
         width: "63",
         streetLength: "1200",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5935,7 +5935,7 @@ module.exports = [
         to: "DUNSTER",
         width: "70",
         streetLength: "750",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5944,7 +5944,7 @@ module.exports = [
         to: "EVERETT",
         width: "66-160",
         streetLength: "2450",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5953,7 +5953,7 @@ module.exports = [
         to: "ARLINGTON LINE",
         width: "100",
         streetLength: "9500",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -5962,7 +5962,7 @@ module.exports = [
         to: "ALEWIFE BROOK PKWY",
         width: "40",
         streetLength: "885",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -5987,7 +5987,7 @@ module.exports = [
         to: "N OF VINEYARD",
         width: "30-40",
         streetLength: "450",
-        date: "1996",
+        streetDate: "1996",
         noncity: " ",
     },
     {
@@ -6011,7 +6011,7 @@ module.exports = [
         fromStreet: "CAMBRIDGE",
         to: "SOMERVILLE LINE",
         width: "100",
-        date: "1870",
+        streetDate: "1870",
         unnacceptedstreetLength: "1700",
         noncity: "X",
     },
@@ -6029,7 +6029,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "413",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -6038,7 +6038,7 @@ module.exports = [
         to: "COGSWELL AVE",
         width: "40",
         streetLength: "340",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -6047,7 +6047,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "40",
         streetLength: "925",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -6056,7 +6056,7 @@ module.exports = [
         to: "CUL DE SAC",
         width: "50",
         streetLength: "590",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -6065,7 +6065,7 @@ module.exports = [
         to: "OXFORD",
         width: "50",
         streetLength: "590",
-        date: "1873",
+        streetDate: "1873",
         noncity: "X",
     },
     {
@@ -6080,7 +6080,7 @@ module.exports = [
         to: "JAMES WAY",
         width: "28",
         streetLength: "494",
-        date: "1983",
+        streetDate: "1983",
         noncity: "X",
     },
     {
@@ -6089,7 +6089,7 @@ module.exports = [
         to: "SPARKS",
         width: "40",
         streetLength: "445",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -6106,7 +6106,7 @@ module.exports = [
         to: "CHATHAM",
         width: "35",
         streetLength: "235",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -6115,7 +6115,7 @@ module.exports = [
         to: "MEMORIAL WAY",
         width: "35",
         streetLength: "229",
-        date: "1983",
+        streetDate: "1983",
         noncity: "X",
     },
     {
@@ -6124,7 +6124,7 @@ module.exports = [
         to: "WILSON AVE",
         width: "40",
         streetLength: "308",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -6133,7 +6133,7 @@ module.exports = [
         to: "PEMBERTON",
         width: "40",
         streetLength: "601",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -6158,7 +6158,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "24",
         streetLength: "336",
-        date: "1907",
+        streetDate: "1907",
         noncity: " ",
     },
     {
@@ -6167,7 +6167,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "287",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -6176,7 +6176,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "230",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -6185,7 +6185,7 @@ module.exports = [
         to: "NORTHWESTERLY",
         width: "40",
         streetLength: "120",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -6194,7 +6194,7 @@ module.exports = [
         to: "HARVEY",
         width: "40",
         streetLength: "1360",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -6203,7 +6203,7 @@ module.exports = [
         to: "482' WESTERLY",
         width: "40",
         streetLength: "482",
-        date: "1955",
+        streetDate: "1955",
         noncity: " ",
     },
     {
@@ -6218,7 +6218,7 @@ module.exports = [
         to: "HARVARD",
         width: "30",
         streetLength: "295",
-        date: "1852",
+        streetDate: "1852",
         noncity: " ",
     },
     {
@@ -6235,7 +6235,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "760",
-        date: "1953",
+        streetDate: "1953",
         noncity: " ",
     },
     {
@@ -6244,7 +6244,7 @@ module.exports = [
         to: "JFK",
         width: "50",
         streetLength: "2000",
-        date: "1808",
+        streetDate: "1808",
         noncity: " ",
     },
     {
@@ -6253,7 +6253,7 @@ module.exports = [
         to: "ELMWOOD AVE",
         width: "66",
         streetLength: "4586",
-        date: "1808",
+        streetDate: "1808",
         noncity: " ",
     },
     {
@@ -6261,7 +6261,7 @@ module.exports = [
         fromStreet: "ELMWOOD AVE",
         to: "154' W OF COOLIDGE",
         width: "95-70",
-        date: "1635",
+        streetDate: "1635",
         noncity: "X",
     },
     {
@@ -6270,7 +6270,7 @@ module.exports = [
         to: "WATERTOWN LINE",
         width: "63-125",
         streetLength: "3380",
-        date: "1635",
+        streetDate: "1635",
         noncity: " ",
     },
     {
@@ -6279,7 +6279,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "584",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -6288,7 +6288,7 @@ module.exports = [
         to: "UPLAND RD",
         width: "50",
         streetLength: "802",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -6297,7 +6297,7 @@ module.exports = [
         to: "MURRAY HILL RD",
         width: "40",
         streetLength: "393",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -6321,7 +6321,7 @@ module.exports = [
         fromStreet: "FIFTH",
         to: "THIRD",
         width: "50",
-        date: "1890",
+        streetDate: "1890",
         noncity: " ",
     },
     {
@@ -6346,7 +6346,7 @@ module.exports = [
         to: "ALEWIFE BROOK PKWY",
         width: "40",
         streetLength: "690",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -6354,7 +6354,7 @@ module.exports = [
         fromStreet: "MCGRATH OBRIEN",
         to: "NORTHPOINT BLVD",
         streetLength: "650+/-",
-        date: "2010",
+        streetDate: "2010",
         noncity: " ",
     },
     {
@@ -6363,7 +6363,7 @@ module.exports = [
         to: "CARVER",
         width: "40",
         streetLength: "687",
-        date: "1915",
+        streetDate: "1915",
         noncity: " ",
     },
     {
@@ -6372,7 +6372,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "180",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -6381,7 +6381,7 @@ module.exports = [
         to: "KIRKLAND",
         width: "30",
         streetLength: "515",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -6390,7 +6390,7 @@ module.exports = [
         to: "DANEHY",
         width: "40",
         streetLength: "700",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -6399,7 +6399,7 @@ module.exports = [
         to: "RR TRACKS",
         width: "40",
         streetLength: "711",
-        date: "1962",
+        streetDate: "1962",
         noncity: " ",
     },
     {
@@ -6408,7 +6408,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "411",
-        date: "1923",
+        streetDate: "1923",
         noncity: " ",
     },
     {
@@ -6425,7 +6425,7 @@ module.exports = [
         to: "FOCH",
         width: "30",
         streetLength: "257",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -6434,7 +6434,7 @@ module.exports = [
         to: "ANGLE",
         width: "45",
         streetLength: "280",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -6443,7 +6443,7 @@ module.exports = [
         to: "FOREST",
         width: "24",
         streetLength: "140",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -6452,7 +6452,7 @@ module.exports = [
         to: "CHESTNUT",
         width: "40",
         streetLength: "300",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -6501,7 +6501,7 @@ module.exports = [
         to: "BROADWAY",
         width: "40",
         streetLength: "1582",
-        date: "1809",
+        streetDate: "1809",
         noncity: " ",
     },
     {
@@ -6510,7 +6510,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "920",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -6519,7 +6519,7 @@ module.exports = [
         to: "189' N OF HAMPSHIRE",
         width: "40",
         streetLength: "381",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -6527,7 +6527,7 @@ module.exports = [
         fromStreet: "189' N OF HAMPSHIRE",
         to: "330' S OF CAMBRIDGE",
         width: "40",
-        date: "1976",
+        streetDate: "1976",
         noncity: " ",
     },
     {
@@ -6536,7 +6536,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "450",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -6545,7 +6545,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "270",
-        date: "1921",
+        streetDate: "1921",
         noncity: " ",
     },
     {
@@ -6554,7 +6554,7 @@ module.exports = [
         to: "NORMANDY TERR",
         width: "40",
         streetLength: "1020",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -6563,7 +6563,7 @@ module.exports = [
         to: "S EASTERLY",
         width: "40",
         streetLength: "215",
-        date: "1966",
+        streetDate: "1966",
         noncity: " ",
     },
     {
@@ -6580,7 +6580,7 @@ module.exports = [
         to: "CEDAR",
         width: "40",
         streetLength: "663",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -6594,7 +6594,7 @@ module.exports = [
         name: "NORTHPOINT BLVD-02",
         fromStreet: "CHARLESTOWN AVE",
         to: "EDUCATION ST",
-        date: "2010",
+        streetDate: "2010",
         noncity: " ",
     },
     {
@@ -6611,7 +6611,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "208",
-        date: "1919",
+        streetDate: "1919",
         noncity: " ",
     },
     {
@@ -6620,7 +6620,7 @@ module.exports = [
         to: "SARGENT",
         width: "40",
         streetLength: "306",
-        date: "1922",
+        streetDate: "1922",
         noncity: " ",
     },
     {
@@ -6629,7 +6629,7 @@ module.exports = [
         to: "34.5' SOUTH",
         width: "30",
         streetLength: "35",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -6637,7 +6637,7 @@ module.exports = [
         fromStreet: "34.5' S OF MT AUBURN",
         to: "REVERE",
         width: "30",
-        date: "1982",
+        streetDate: "1982",
         unnacceptedstreetLength: "226",
         noncity: "X",
     },
@@ -6647,7 +6647,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "270",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -6656,7 +6656,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "300",
-        date: "1926",
+        streetDate: "1926",
         noncity: " ",
     },
     {
@@ -6665,7 +6665,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "178",
-        date: "1953",
+        streetDate: "1953",
         noncity: " ",
     },
     {
@@ -6682,7 +6682,7 @@ module.exports = [
         to: "BEECH",
         width: "40",
         streetLength: "400",
-        date: "1865",
+        streetDate: "1865",
         noncity: " ",
     },
     {
@@ -6691,7 +6691,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "912",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -6700,7 +6700,7 @@ module.exports = [
         to: "WINSLOW",
         width: "30",
         streetLength: "295",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -6709,7 +6709,7 @@ module.exports = [
         to: "STATE",
         width: "40",
         streetLength: "227",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -6718,7 +6718,7 @@ module.exports = [
         to: "ALBANY",
         width: "35",
         streetLength: "465",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -6727,7 +6727,7 @@ module.exports = [
         to: "SECOND",
         width: "50",
         streetLength: "400",
-        date: "1863",
+        streetDate: "1863",
         noncity: " ",
     },
     {
@@ -6736,7 +6736,7 @@ module.exports = [
         to: "SIXTH",
         width: "50",
         streetLength: "1500",
-        date: "1831",
+        streetDate: "1831",
         noncity: " ",
     },
     {
@@ -6745,7 +6745,7 @@ module.exports = [
         to: "FULKERSON",
         width: "40",
         streetLength: "575",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -6754,7 +6754,7 @@ module.exports = [
         to: "WESTERLY 123'",
         width: "40",
         streetLength: "123",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -6771,7 +6771,7 @@ module.exports = [
         to: "BELMONT AVE",
         width: "40",
         streetLength: "285",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -6780,7 +6780,7 @@ module.exports = [
         to: "EVERETT",
         width: "50",
         streetLength: "1255",
-        date: "1847",
+        streetDate: "1847",
         noncity: " ",
     },
     {
@@ -6789,7 +6789,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "2225",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -6798,7 +6798,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "490",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -6807,7 +6807,7 @@ module.exports = [
         to: "ALBANY",
         width: "40",
         streetLength: "730",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -6816,7 +6816,7 @@ module.exports = [
         to: "WINDSOR",
         width: "40",
         streetLength: "312",
-        date: "1898",
+        streetDate: "1898",
         noncity: " ",
     },
     {
@@ -6825,7 +6825,7 @@ module.exports = [
         to: "CHURCH",
         width: "25",
         streetLength: "337",
-        date: "1938",
+        streetDate: "1938",
         noncity: " ",
     },
     {
@@ -6834,7 +6834,7 @@ module.exports = [
         to: "HOLWORTHY",
         width: "50",
         streetLength: "956",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -6843,7 +6843,7 @@ module.exports = [
         to: "BUCKINGHAM",
         width: "40",
         streetLength: "723",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -6860,7 +6860,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "66",
         streetLength: "440",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -6877,7 +6877,7 @@ module.exports = [
         to: "N OF ERIE",
         width: "40",
         streetLength: "2015",
-        date: "1822",
+        streetDate: "1822",
         noncity: " ",
     },
     {
@@ -6886,7 +6886,7 @@ module.exports = [
         to: "GRANITE",
         width: "40",
         streetLength: "1825",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -6895,7 +6895,7 @@ module.exports = [
         to: "BINNEY",
         width: "50",
         streetLength: "190",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -6920,7 +6920,7 @@ module.exports = [
         to: "ANGLE",
         width: "40",
         streetLength: "958",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -6929,7 +6929,7 @@ module.exports = [
         to: "MIDDLESEX",
         width: "40",
         streetLength: "622",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -6938,7 +6938,7 @@ module.exports = [
         to: "SHERMAN",
         width: "30",
         streetLength: "600",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -6955,7 +6955,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "448",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -6964,7 +6964,7 @@ module.exports = [
         to: "PUTNAM AVE",
         width: "40",
         streetLength: "301",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -6973,7 +6973,7 @@ module.exports = [
         to: "ST JOHN'S",
         width: "35",
         streetLength: "103",
-        date: "1922",
+        streetDate: "1922",
         noncity: " ",
     },
     {
@@ -6982,7 +6982,7 @@ module.exports = [
         to: "MASON",
         width: "30",
         streetLength: "315",
-        date: "1922",
+        streetDate: "1922",
         noncity: " ",
     },
     {
@@ -6991,7 +6991,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "467",
-        date: "1893",
+        streetDate: "1893",
         noncity: "X",
     },
     {
@@ -7008,7 +7008,7 @@ module.exports = [
         to: "WASHINGTON",
         width: "30",
         streetLength: "440",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -7017,7 +7017,7 @@ module.exports = [
         to: "HARVARD",
         width: "30",
         streetLength: "580",
-        date: "1840",
+        streetDate: "1840",
         noncity: " ",
     },
     {
@@ -7034,7 +7034,7 @@ module.exports = [
         to: "RIVER",
         width: "40",
         streetLength: "715",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -7043,7 +7043,7 @@ module.exports = [
         to: "FLORENCE",
         width: "40",
         streetLength: "2910",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -7052,7 +7052,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "400",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -7061,7 +7061,7 @@ module.exports = [
         to: "WEBSTER AVE",
         width: "40",
         streetLength: "668",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -7070,7 +7070,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "400",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -7079,7 +7079,7 @@ module.exports = [
         to: "BOW",
         width: "30",
         streetLength: "365",
-        date: "1803",
+        streetDate: "1803",
         noncity: " ",
     },
     {
@@ -7088,7 +7088,7 @@ module.exports = [
         to: "RIVERVIEW AVE",
         width: "40",
         streetLength: "616",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -7105,7 +7105,7 @@ module.exports = [
         to: "FRESH POND PKWY",
         width: "40",
         streetLength: "296",
-        date: "1920",
+        streetDate: "1920",
         noncity: " ",
     },
     {
@@ -7114,7 +7114,7 @@ module.exports = [
         to: "HARDING",
         width: "34",
         streetLength: "641",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -7139,7 +7139,7 @@ module.exports = [
         to: "WESTERLY",
         width: "40",
         streetLength: "847",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -7148,7 +7148,7 @@ module.exports = [
         to: "MAIN",
         width: "50",
         streetLength: "400",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -7157,7 +7157,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "50",
         streetLength: "1340",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -7166,7 +7166,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "327",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -7191,7 +7191,7 @@ module.exports = [
         to: "FROST",
         width: "30",
         streetLength: "413",
-        date: "1898",
+        streetDate: "1898",
         noncity: " ",
     },
     {
@@ -7200,7 +7200,7 @@ module.exports = [
         to: "OXFORD",
         width: "40",
         streetLength: "395",
-        date: "1879",
+        streetDate: "1879",
         noncity: " ",
     },
     {
@@ -7209,7 +7209,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "315",
-        date: "1901",
+        streetDate: "1901",
         noncity: " ",
     },
     {
@@ -7218,7 +7218,7 @@ module.exports = [
         to: "BROADWAY",
         width: "40",
         streetLength: "785",
-        date: "1858",
+        streetDate: "1858",
         noncity: " ",
     },
     {
@@ -7227,7 +7227,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "290",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -7236,7 +7236,7 @@ module.exports = [
         to: "PLEASANT",
         width: "30",
         streetLength: "530",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -7245,7 +7245,7 @@ module.exports = [
         to: "BISHOP ALLEN",
         width: "50",
         streetLength: "290",
-        date: "1804",
+        streetDate: "1804",
         noncity: " ",
     },
     {
@@ -7254,7 +7254,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "3030",
-        date: "1850",
+        streetDate: "1850",
         noncity: " ",
     },
     {
@@ -7271,7 +7271,7 @@ module.exports = [
         to: "WESTERN AVE",
         width: "40",
         streetLength: "1900",
-        date: "1840",
+        streetDate: "1840",
         noncity: " ",
     },
     {
@@ -7280,7 +7280,7 @@ module.exports = [
         to: "RIVER",
         width: "40",
         streetLength: "740",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -7289,7 +7289,7 @@ module.exports = [
         to: "PLEASANT",
         width: "50",
         streetLength: "800",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -7298,7 +7298,7 @@ module.exports = [
         to: "WAVERLY",
         width: "40",
         streetLength: "2300",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -7315,7 +7315,7 @@ module.exports = [
         to: "KIRKLAND",
         width: "40",
         streetLength: "1661",
-        date: "1853",
+        streetDate: "1853",
         noncity: " ",
     },
     {
@@ -7324,7 +7324,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "1719",
-        date: "1856",
+        streetDate: "1856",
         noncity: " ",
     },
     {
@@ -7333,7 +7333,7 @@ module.exports = [
         to: "RICHDALE",
         width: "40",
         streetLength: "825",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -7350,7 +7350,7 @@ module.exports = [
         to: "HARVEY",
         width: "40",
         streetLength: "1358",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -7375,7 +7375,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "500",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -7389,7 +7389,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "361",
-        date: "1861",
+        streetDate: "1861",
         noncity: " ",
     },
     {
@@ -7404,7 +7404,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "50",
         streetLength: "1666",
-        date: "1863",
+        streetDate: "1863",
         noncity: " ",
     },
     {
@@ -7428,7 +7428,7 @@ module.exports = [
         to: "RINDGE AVE",
         width: "40",
         streetLength: "983",
-        date: "1864",
+        streetDate: "1864",
         noncity: " ",
     },
     {
@@ -7453,7 +7453,7 @@ module.exports = [
         to: "MULLER AVE",
         width: "40",
         streetLength: "368",
-        date: "1929",
+        streetDate: "1929",
         noncity: " ",
     },
     {
@@ -7470,7 +7470,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "975",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -7479,7 +7479,7 @@ module.exports = [
         to: "UPLAND RD",
         width: "45",
         streetLength: "1057",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -7488,7 +7488,7 @@ module.exports = [
         to: "BREWSTER",
         width: "35",
         streetLength: "350",
-        date: "1890",
+        streetDate: "1890",
         noncity: " ",
     },
     {
@@ -7497,7 +7497,7 @@ module.exports = [
         to: "CEDAR",
         width: "50",
         streetLength: "1650",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -7506,7 +7506,7 @@ module.exports = [
         to: "ALEWIFE BRK PKWY",
         width: "40",
         streetLength: "2905",
-        date: "1870",
+        streetDate: "1870",
         noncity: " ",
     },
     {
@@ -7523,7 +7523,7 @@ module.exports = [
         to: "HOLLIS",
         width: "32",
         streetLength: "475",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -7532,7 +7532,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "50",
         streetLength: "3490",
-        date: "1832",
+        streetDate: "1832",
         noncity: " ",
     },
     {
@@ -7541,7 +7541,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "20",
         streetLength: "120",
-        date: "1978",
+        streetDate: "1978",
         noncity: " ",
     },
     {
@@ -7550,7 +7550,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "624",
-        date: "1936",
+        streetDate: "1936",
         noncity: " ",
     },
     {
@@ -7558,7 +7558,7 @@ module.exports = [
         fromStreet: "DEWOLFE",
         to: "WESTERLY",
         width: "35",
-        date: "1874",
+        streetDate: "1874",
         unnacceptedstreetLength: "625",
         noncity: "X",
     },
@@ -7568,7 +7568,7 @@ module.exports = [
         to: "KIRKLAND",
         width: "40",
         streetLength: "1098",
-        date: "1853",
+        streetDate: "1853",
         noncity: " ",
     },
     {
@@ -7577,7 +7577,7 @@ module.exports = [
         to: "RAYMOND",
         width: "40",
         streetLength: "643",
-        date: "1949",
+        streetDate: "1949",
         noncity: " ",
     },
     {
@@ -7586,7 +7586,7 @@ module.exports = [
         to: "GRANITE",
         width: "40",
         streetLength: "380",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -7603,7 +7603,7 @@ module.exports = [
         to: "RIVER",
         width: "30",
         streetLength: "383",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -7612,7 +7612,7 @@ module.exports = [
         to: "THIRD",
         width: "50",
         streetLength: "1430",
-        date: "1925",
+        streetDate: "1925",
         noncity: " ",
     },
     {
@@ -7645,7 +7645,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "576",
-        date: "1862",
+        streetDate: "1862",
         noncity: " ",
     },
     {
@@ -7654,7 +7654,7 @@ module.exports = [
         to: "BREWER",
         width: "20",
         streetLength: "135",
-        date: "1932",
+        streetDate: "1932",
         noncity: " ",
     },
     {
@@ -7663,7 +7663,7 @@ module.exports = [
         to: "CONCORD AVE",
         width: "40",
         streetLength: "540",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -7680,7 +7680,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "280",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -7689,7 +7689,7 @@ module.exports = [
         to: "LANGDON",
         width: "40",
         streetLength: "336",
-        date: "1903",
+        streetDate: "1903",
         noncity: " ",
     },
     {
@@ -7698,7 +7698,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "1725",
-        date: "1854",
+        streetDate: "1854",
         noncity: " ",
     },
     {
@@ -7707,7 +7707,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "24",
         streetLength: "245",
-        date: "1921",
+        streetDate: "1921",
         noncity: " ",
     },
     {
@@ -7740,7 +7740,7 @@ module.exports = [
         to: "AMORY",
         width: "30",
         streetLength: "250",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -7749,7 +7749,7 @@ module.exports = [
         to: "INMAN",
         width: "30",
         streetLength: "250",
-        date: "1881",
+        streetDate: "1881",
         noncity: " ",
     },
     {
@@ -7774,7 +7774,7 @@ module.exports = [
         to: "WATSON",
         width: "27",
         streetLength: "260",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -7783,7 +7783,7 @@ module.exports = [
         to: "PEMBERTON",
         width: "30",
         streetLength: "841",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -7792,7 +7792,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "310",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -7801,7 +7801,7 @@ module.exports = [
         to: "FAYERWEATHER",
         width: "40",
         streetLength: "320",
-        date: "1918",
+        streetDate: "1918",
         noncity: " ",
     },
     {
@@ -7810,7 +7810,7 @@ module.exports = [
         to: "BISHOP ALLEN",
         width: "30",
         streetLength: "640",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -7819,7 +7819,7 @@ module.exports = [
         to: "GORE",
         width: "50",
         streetLength: "400",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -7828,7 +7828,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "250",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -7837,7 +7837,7 @@ module.exports = [
         to: "THORNDIKE",
         width: "50",
         streetLength: "450",
-        date: "1832",
+        streetDate: "1832",
         noncity: " ",
     },
     {
@@ -7846,7 +7846,7 @@ module.exports = [
         to: "SPRING",
         width: "50",
         streetLength: "300",
-        date: "1835",
+        streetDate: "1835",
         noncity: " ",
     },
     {
@@ -7855,7 +7855,7 @@ module.exports = [
         to: "HURLEY",
         width: "50",
         streetLength: "250",
-        date: "1851",
+        streetDate: "1851",
         noncity: " ",
     },
     {
@@ -7864,7 +7864,7 @@ module.exports = [
         to: "CHARLES",
         width: "50",
         streetLength: "250",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -7873,7 +7873,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "929",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -7890,7 +7890,7 @@ module.exports = [
         to: "WHITTEMORE AVE",
         width: "25",
         streetLength: "685",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -7899,7 +7899,7 @@ module.exports = [
         to: "WINDSOR",
         width: "30",
         streetLength: "275",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -7908,7 +7908,7 @@ module.exports = [
         to: "OTIS",
         width: "40",
         streetLength: "510",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -7917,7 +7917,7 @@ module.exports = [
         to: "THORNDIKE",
         width: "50",
         streetLength: "250",
-        date: "1833",
+        streetDate: "1833",
         noncity: " ",
     },
     {
@@ -7926,7 +7926,7 @@ module.exports = [
         to: "SPRING",
         width: "50",
         streetLength: "250",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -7935,7 +7935,7 @@ module.exports = [
         to: "CHARLES",
         width: "50",
         streetLength: "500",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -7944,7 +7944,7 @@ module.exports = [
         to: "BINNEY",
         width: "50",
         streetLength: "750",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -7953,7 +7953,7 @@ module.exports = [
         to: "ATHENAEUM",
         width: "50",
         streetLength: "450",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -7970,7 +7970,7 @@ module.exports = [
         to: "GREEN",
         width: "40",
         streetLength: "205",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -7979,7 +7979,7 @@ module.exports = [
         to: "GOLD STAR RD",
         width: "40",
         streetLength: "321",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -7988,7 +7988,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "30",
         streetLength: "265",
-        date: "1897",
+        streetDate: "1897",
         noncity: " ",
     },
     {
@@ -7997,7 +7997,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "40",
         streetLength: "615",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -8006,7 +8006,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "88",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -8037,7 +8037,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "480",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -8046,7 +8046,7 @@ module.exports = [
         to: "AVON",
         width: "40",
         streetLength: "570",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -8055,7 +8055,7 @@ module.exports = [
         to: "GARDEN",
         width: "40",
         streetLength: "930",
-        date: "1852",
+        streetDate: "1852",
         noncity: " ",
     },
     {
@@ -8064,7 +8064,7 @@ module.exports = [
         to: "LINCOLN  WAY",
         width: "40",
         streetLength: "142",
-        date: "1977",
+        streetDate: "1977",
         noncity: " ",
     },
     {
@@ -8073,7 +8073,7 @@ module.exports = [
         to: "WOOD",
         width: "40",
         streetLength: "106",
-        date: "1977",
+        streetDate: "1977",
         noncity: " ",
     },
     {
@@ -8082,7 +8082,7 @@ module.exports = [
         to: "RAILWAY",
         width: "40",
         streetLength: "1910",
-        date: "1860",
+        streetDate: "1860",
         noncity: " ",
     },
     {
@@ -8091,7 +8091,7 @@ module.exports = [
         to: "RINDGE AVE",
         width: "40",
         streetLength: "1750",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -8108,7 +8108,7 @@ module.exports = [
         to: "AUBURN",
         width: "40",
         streetLength: "675",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -8117,7 +8117,7 @@ module.exports = [
         to: "PACIFIC",
         width: "40",
         streetLength: "500",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -8126,7 +8126,7 @@ module.exports = [
         to: "CHESTNUT",
         width: "40",
         streetLength: "2391",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -8135,7 +8135,7 @@ module.exports = [
         to: "HENRY",
         width: "40",
         streetLength: "275",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -8152,7 +8152,7 @@ module.exports = [
         to: "THORNDIKE",
         width: "50",
         streetLength: "690",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -8161,7 +8161,7 @@ module.exports = [
         to: "SPRING",
         width: "50",
         streetLength: "250",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -8170,7 +8170,7 @@ module.exports = [
         to: "BINNEY",
         width: "50",
         streetLength: "1980",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -8178,7 +8178,7 @@ module.exports = [
         fromStreet: "BINNEY",
         to: "BROADWAY",
         width: "50",
-        date: "1985",
+        streetDate: "1985",
         noncity: "X",
     },
     {
@@ -8195,7 +8195,7 @@ module.exports = [
         to: "ANGLE",
         width: "33",
         streetLength: "410",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -8204,7 +8204,7 @@ module.exports = [
         to: "WISLON RD",
         width: "40",
         streetLength: "330",
-        date: "1964",
+        streetDate: "1964",
         noncity: " ",
     },
     {
@@ -8213,7 +8213,7 @@ module.exports = [
         to: "MOONEY",
         width: "40",
         streetLength: "670",
-        date: "1955",
+        streetDate: "1955",
         noncity: " ",
     },
     {
@@ -8222,7 +8222,7 @@ module.exports = [
         to: "FRANKLIN",
         width: "40",
         streetLength: "463",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -8239,7 +8239,7 @@ module.exports = [
         to: "EASTERLY",
         width: "70",
         streetLength: "440",
-        date: "1872",
+        streetDate: "1872",
         noncity: " ",
     },
     {
@@ -8248,7 +8248,7 @@ module.exports = [
         to: "NORMANDY AVE",
         width: "40",
         streetLength: "600",
-        date: "1951",
+        streetDate: "1951",
         noncity: " ",
     },
     {
@@ -8257,7 +8257,7 @@ module.exports = [
         to: "DUNSTER",
         width: "21",
         streetLength: "230",
-        date: "1898",
+        streetDate: "1898",
         noncity: "X",
     },
     {
@@ -8266,7 +8266,7 @@ module.exports = [
         to: "HOLYOKE",
         width: "21",
         streetLength: "250",
-        date: "1898",
+        streetDate: "1898",
         noncity: "X",
     },
     {
@@ -8283,7 +8283,7 @@ module.exports = [
         to: "BRATTLE",
         width: "40",
         streetLength: "1090",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -8292,7 +8292,7 @@ module.exports = [
         to: "HURON AVE",
         width: "40",
         streetLength: "1355",
-        date: "1772",
+        streetDate: "1772",
         noncity: " ",
     },
     {
@@ -8301,7 +8301,7 @@ module.exports = [
         to: "EASTERLY",
         width: "30",
         streetLength: "360",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -8310,7 +8310,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "40",
         streetLength: "549",
-        date: "1954",
+        streetDate: "1954",
         noncity: " ",
     },
     {
@@ -8327,7 +8327,7 @@ module.exports = [
         to: "SECOND",
         width: "50",
         streetLength: "400",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -8336,7 +8336,7 @@ module.exports = [
         to: "SIXTH",
         width: "50",
         streetLength: "1627",
-        date: "1845",
+        streetDate: "1845",
         noncity: " ",
     },
     {
@@ -8345,7 +8345,7 @@ module.exports = [
         to: "FULKERSON",
         width: "50",
         streetLength: "530",
-        date: "1883",
+        streetDate: "1883",
         noncity: " ",
     },
     {
@@ -8354,7 +8354,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "226",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -8371,7 +8371,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "40",
         streetLength: "950",
-        date: "1917",
+        streetDate: "1917",
         noncity: " ",
     },
     {
@@ -8388,7 +8388,7 @@ module.exports = [
         to: "SHERMAN",
         width: "40",
         streetLength: "310",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -8397,7 +8397,7 @@ module.exports = [
         to: "ESTEN",
         width: "10",
         streetLength: "305",
-        date: "1903",
+        streetDate: "1903",
         noncity: " ",
     },
     {
@@ -8406,7 +8406,7 @@ module.exports = [
         to: "NEWELL",
         width: "40",
         streetLength: "100",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -8439,7 +8439,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "33",
         streetLength: "470",
-        date: "1865",
+        streetDate: "1865",
         noncity: " ",
     },
     {
@@ -8448,7 +8448,7 @@ module.exports = [
         to: "NORFOLK",
         width: "30",
         streetLength: "520",
-        date: "1834",
+        streetDate: "1834",
         noncity: " ",
     },
     {
@@ -8457,7 +8457,7 @@ module.exports = [
         to: "THINGVALLA AVE",
         width: "40",
         streetLength: "316",
-        date: "1916",
+        streetDate: "1916",
         noncity: " ",
     },
     {
@@ -8466,7 +8466,7 @@ module.exports = [
         to: "KIRKLAND",
         width: "40",
         streetLength: "580",
-        date: "1844",
+        streetDate: "1844",
         noncity: " ",
     },
     {
@@ -8475,7 +8475,7 @@ module.exports = [
         to: "75' SOUTHERLY",
         width: "30",
         streetLength: "75",
-        date: "1949",
+        streetDate: "1949",
         noncity: " ",
     },
     {
@@ -8484,7 +8484,7 @@ module.exports = [
         to: "75' S OF S NORMANDY",
         width: "40",
         streetLength: "463",
-        date: "1946",
+        streetDate: "1946",
         noncity: " ",
     },
     {
@@ -8493,7 +8493,7 @@ module.exports = [
         to: "BANKS",
         width: "40",
         streetLength: "280",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -8510,7 +8510,7 @@ module.exports = [
         to: "RAILWAY",
         width: "30",
         streetLength: "203",
-        date: "1879",
+        streetDate: "1879",
         noncity: " ",
     },
     {
@@ -8519,7 +8519,7 @@ module.exports = [
         to: "BISHOP ALLEN",
         width: "36",
         streetLength: "284",
-        date: "1865",
+        streetDate: "1865",
         noncity: " ",
     },
     {
@@ -8528,7 +8528,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "24",
         streetLength: "373",
-        date: "1908",
+        streetDate: "1908",
         noncity: " ",
     },
     {
@@ -8553,7 +8553,7 @@ module.exports = [
         to: "BELMONT LINE",
         width: "40",
         streetLength: "810",
-        date: "1928",
+        streetDate: "1928",
         noncity: " ",
     },
     {
@@ -8562,7 +8562,7 @@ module.exports = [
         to: "POTTER",
         width: "50",
         streetLength: "352",
-        date: "1832",
+        streetDate: "1832",
         noncity: " ",
     },
     {
@@ -8571,7 +8571,7 @@ module.exports = [
         to: "CHARLES",
         width: "60",
         streetLength: "1517",
-        date: "1832",
+        streetDate: "1832",
         noncity: " ",
     },
     {
@@ -8580,7 +8580,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "1458",
-        date: "1832",
+        streetDate: "1832",
         noncity: " ",
     },
     {
@@ -8589,7 +8589,7 @@ module.exports = [
         to: "MCGRATH OBRIEN",
         width: "50",
         streetLength: "495",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -8612,7 +8612,7 @@ module.exports = [
         to: "SECOND",
         width: "50",
         streetLength: "400",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -8621,7 +8621,7 @@ module.exports = [
         to: "THIRD",
         width: "50",
         streetLength: "345",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -8630,7 +8630,7 @@ module.exports = [
         to: "SIXTH",
         width: "50",
         streetLength: "1253",
-        date: "1829",
+        streetDate: "1829",
         noncity: " ",
     },
     {
@@ -8639,7 +8639,7 @@ module.exports = [
         to: "FULKERSON",
         width: "40",
         streetLength: "530",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -8647,7 +8647,7 @@ module.exports = [
         fromStreet: "FULKERSON",
         to: "RAILWAY",
         width: "40",
-        date: "1985",
+        streetDate: "1985",
         unnacceptedstreetLength: "310",
         noncity: "X",
     },
@@ -8657,7 +8657,7 @@ module.exports = [
         to: "ORRIN",
         width: "30",
         streetLength: "360",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -8666,7 +8666,7 @@ module.exports = [
         to: "ELMWOOD AVE",
         width: "40",
         streetLength: "460",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -8675,7 +8675,7 @@ module.exports = [
         to: "PRENTISS",
         width: "30",
         streetLength: "255",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -8684,7 +8684,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "40",
         streetLength: "1000",
-        date: "1851",
+        streetDate: "1851",
         noncity: " ",
     },
     {
@@ -8693,7 +8693,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "1050",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -8718,7 +8718,7 @@ module.exports = [
         to: "KIRKLAND",
         width: "40",
         streetLength: "930",
-        date: "1884",
+        streetDate: "1884",
         noncity: " ",
     },
     {
@@ -8727,7 +8727,7 @@ module.exports = [
         to: "HARVARD",
         width: "40",
         streetLength: "649",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -8736,7 +8736,7 @@ module.exports = [
         to: "MASS AVE",
         width: "40",
         streetLength: "505",
-        date: "1871",
+        streetDate: "1871",
         noncity: " ",
     },
     {
@@ -8745,7 +8745,7 @@ module.exports = [
         to: "SIDNEY",
         width: "40",
         streetLength: "456",
-        date: "1919",
+        streetDate: "1919",
         noncity: " ",
     },
     {
@@ -8754,7 +8754,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "472",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -8769,7 +8769,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "20",
         streetLength: "530",
-        date: "1972",
+        streetDate: "1972",
         noncity: " ",
     },
     {
@@ -8794,7 +8794,7 @@ module.exports = [
         to: "HAMPSHIRE",
         width: "30",
         streetLength: "350",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -8803,7 +8803,7 @@ module.exports = [
         to: "LINCOLN",
         width: "30",
         streetLength: "643",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -8812,7 +8812,7 @@ module.exports = [
         to: "BENNETT",
         width: "40",
         streetLength: "490",
-        date: "1982",
+        streetDate: "1982",
         noncity: " ",
     },
     {
@@ -8821,7 +8821,7 @@ module.exports = [
         to: "MT PLEASANT",
         width: "50",
         streetLength: "1470",
-        date: "1881",
+        streetDate: "1881",
         noncity: " ",
     },
     {
@@ -8830,7 +8830,7 @@ module.exports = [
         to: "HURON AVE",
         width: "50",
         streetLength: "1317",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -8839,7 +8839,7 @@ module.exports = [
         to: "PLEASANT",
         width: "40",
         streetLength: "499",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -8856,7 +8856,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "484",
-        date: "1877",
+        streetDate: "1877",
         noncity: " ",
     },
     {
@@ -8865,7 +8865,7 @@ module.exports = [
         to: "YERXA RD",
         width: "40",
         streetLength: "338",
-        date: "1903",
+        streetDate: "1903",
         noncity: " ",
     },
     {
@@ -8874,7 +8874,7 @@ module.exports = [
         to: "BERKSHIRE",
         width: "25",
         streetLength: "300",
-        date: "1909",
+        streetDate: "1909",
         noncity: " ",
     },
     {
@@ -8883,7 +8883,7 @@ module.exports = [
         to: "LAKEVIEW AVE",
         width: "40",
         streetLength: "2200",
-        date: "1888",
+        streetDate: "1888",
         noncity: " ",
     },
     {
@@ -8892,7 +8892,7 @@ module.exports = [
         to: "MASS AVE",
         width: "60",
         streetLength: "1540",
-        date: "1927",
+        streetDate: "1927",
         noncity: "X",
     },
     {
@@ -8901,7 +8901,7 @@ module.exports = [
         to: "DANFORTH",
         width: "32",
         streetLength: "508",
-        date: "1895",
+        streetDate: "1895",
         noncity: "X",
     },
     {
@@ -8910,7 +8910,7 @@ module.exports = [
         to: "FOWLER",
         width: "60",
         streetLength: "1115",
-        date: "1915",
+        streetDate: "1915",
         noncity: "X",
     },
     {
@@ -8919,7 +8919,7 @@ module.exports = [
         to: "AUDREY",
         width: "60",
         streetLength: "1590",
-        date: "1927",
+        streetDate: "1927",
         noncity: "X",
     },
     {
@@ -8928,7 +8928,7 @@ module.exports = [
         to: "WESTERLY",
         width: "60",
         streetLength: "454",
-        date: "1927",
+        streetDate: "1927",
         noncity: " ",
     },
     {
@@ -8937,7 +8937,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "60",
         streetLength: "375",
-        date: "1924",
+        streetDate: "1924",
         noncity: " ",
     },
     {
@@ -8962,7 +8962,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "357",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -8971,7 +8971,7 @@ module.exports = [
         to: "MAY",
         width: "40",
         streetLength: "365",
-        date: "1876",
+        streetDate: "1876",
         noncity: " ",
     },
     {
@@ -8980,7 +8980,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "40",
         streetLength: "661",
-        date: "1902",
+        streetDate: "1902",
         noncity: " ",
     },
     {
@@ -8997,7 +8997,7 @@ module.exports = [
         to: "RAILWAY",
         width: "40",
         streetLength: "830",
-        date: "1860",
+        streetDate: "1860",
         noncity: " ",
     },
     {
@@ -9006,7 +9006,7 @@ module.exports = [
         to: "VASSAL LN",
         width: "50",
         streetLength: "3900",
-        date: "1860",
+        streetDate: "1860",
         noncity: " ",
     },
     {
@@ -9039,7 +9039,7 @@ module.exports = [
         to: "SHEPARD",
         width: "40",
         streetLength: "810",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -9048,7 +9048,7 @@ module.exports = [
         to: "LINNAEAN",
         width: "40",
         streetLength: "825",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -9057,7 +9057,7 @@ module.exports = [
         to: "UPLAND RD",
         width: "70",
         streetLength: "476",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -9066,7 +9066,7 @@ module.exports = [
         to: "BROADWAY",
         width: "40",
         streetLength: "690",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -9075,7 +9075,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "485",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -9092,7 +9092,7 @@ module.exports = [
         to: "EASTERLY",
         width: "35",
         streetLength: "180",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -9101,7 +9101,7 @@ module.exports = [
         to: "540 N OF MASS",
         width: "30",
         streetLength: "550",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -9110,7 +9110,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "40",
         streetLength: "135",
-        date: "1911",
+        streetDate: "1911",
         noncity: " ",
     },
     {
@@ -9127,7 +9127,7 @@ module.exports = [
         to: "HILLSIDE AVE",
         width: "50",
         streetLength: "545",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -9136,7 +9136,7 @@ module.exports = [
         to: "94' S OF UPLAND",
         width: "50",
         streetLength: "754",
-        date: "1882",
+        streetDate: "1882",
         noncity: " ",
     },
     {
@@ -9145,7 +9145,7 @@ module.exports = [
         to: "UPLAND",
         width: "50",
         streetLength: "94",
-        date: "1888",
+        streetDate: "1888",
         noncity: " ",
     },
     {
@@ -9162,7 +9162,7 @@ module.exports = [
         to: "WINDSOR",
         width: "40",
         streetLength: "748",
-        date: "1961",
+        streetDate: "1961",
         noncity: " ",
     },
     {
@@ -9171,7 +9171,7 @@ module.exports = [
         to: "COLUMBIA",
         width: "30",
         streetLength: "670",
-        date: "1836",
+        streetDate: "1836",
         noncity: " ",
     },
     {
@@ -9180,7 +9180,7 @@ module.exports = [
         to: "NORFOLK",
         width: "30",
         streetLength: "537",
-        date: "1847",
+        streetDate: "1847",
         noncity: " ",
     },
     {
@@ -9189,7 +9189,7 @@ module.exports = [
         to: "NORTHERLY 98'",
         width: "50",
         streetLength: "98",
-        date: "1926",
+        streetDate: "1926",
         noncity: " ",
     },
     {
@@ -9198,7 +9198,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "50",
         streetLength: "342",
-        date: "1926",
+        streetDate: "1926",
         noncity: "X",
     },
     {
@@ -9207,7 +9207,7 @@ module.exports = [
         to: "MASS AVE",
         width: "54",
         streetLength: "710",
-        date: "1724",
+        streetDate: "1724",
         noncity: " ",
     },
     {
@@ -9224,7 +9224,7 @@ module.exports = [
         to: "PEARL",
         width: "40",
         streetLength: "460",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -9233,7 +9233,7 @@ module.exports = [
         to: "SIDNEY",
         width: "60",
         streetLength: "500",
-        date: "1999",
+        streetDate: "1999",
         noncity: " ",
     },
     {
@@ -9242,7 +9242,7 @@ module.exports = [
         to: "HENRY",
         width: "40",
         streetLength: "460",
-        date: "1999",
+        streetDate: "1999",
         noncity: " ",
     },
     {
@@ -9251,7 +9251,7 @@ module.exports = [
         to: "PUTNAM",
         width: "40",
         streetLength: "458",
-        date: "1918",
+        streetDate: "1918",
         noncity: " ",
     },
     {
@@ -9260,7 +9260,7 @@ module.exports = [
         to: "TALBOT",
         width: "40",
         streetLength: "254",
-        date: "1879",
+        streetDate: "1879",
         noncity: " ",
     },
     {
@@ -9269,7 +9269,7 @@ module.exports = [
         to: "ERIE",
         width: "40",
         streetLength: "800",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -9278,7 +9278,7 @@ module.exports = [
         to: "ANGLE",
         width: "40",
         streetLength: "416",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -9287,7 +9287,7 @@ module.exports = [
         to: "PACIFIC",
         width: "50",
         streetLength: "531",
-        date: "1912",
+        streetDate: "1912",
         noncity: " ",
     },
     {
@@ -9296,7 +9296,7 @@ module.exports = [
         to: "PLYMOUTH",
         width: "50",
         streetLength: "850",
-        date: "1880",
+        streetDate: "1880",
         noncity: " ",
     },
     {
@@ -9305,7 +9305,7 @@ module.exports = [
         to: "WINDSOR",
         width: "50",
         streetLength: "870",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -9314,7 +9314,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "50",
         streetLength: "425",
-        date: "1809",
+        streetDate: "1809",
         noncity: " ",
     },
     {
@@ -9331,7 +9331,7 @@ module.exports = [
         to: "OXFORD",
         width: "50",
         streetLength: "986",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -9340,7 +9340,7 @@ module.exports = [
         to: "CARVER",
         width: "40",
         streetLength: "765",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -9349,7 +9349,7 @@ module.exports = [
         to: "LEE",
         width: "37",
         streetLength: "585",
-        date: "1900",
+        streetDate: "1900",
         noncity: " ",
     },
     {
@@ -9358,7 +9358,7 @@ module.exports = [
         to: "WESTERLY",
         width: "30",
         streetLength: "182",
-        date: "1895",
+        streetDate: "1895",
         noncity: " ",
     },
     {
@@ -9389,7 +9389,7 @@ module.exports = [
         to: "MEMORIAL DR",
         width: "66",
         streetLength: "3344",
-        date: "1855",
+        streetDate: "1855",
         noncity: " ",
     },
     {
@@ -9398,7 +9398,7 @@ module.exports = [
         to: "RAILWAY",
         width: "30",
         streetLength: "160",
-        date: "1940",
+        streetDate: "1940",
         noncity: " ",
     },
     {
@@ -9407,7 +9407,7 @@ module.exports = [
         to: "NORTHERLY",
         width: "50",
         streetLength: "714",
-        date: "1948",
+        streetDate: "1948",
         noncity: " ",
     },
     {
@@ -9424,7 +9424,7 @@ module.exports = [
         to: "WHITE ST PL",
         width: "30",
         streetLength: "300",
-        date: "1885",
+        streetDate: "1885",
         noncity: " ",
     },
     {
@@ -9433,7 +9433,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "25",
         streetLength: "303",
-        date: "1893",
+        streetDate: "1893",
         noncity: " ",
     },
     {
@@ -9442,7 +9442,7 @@ module.exports = [
         to: "CHESTNUT",
         width: "30",
         streetLength: "300",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -9459,7 +9459,7 @@ module.exports = [
         to: "90' W OF HARRISON",
         width: "40",
         streetLength: "820",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -9468,7 +9468,7 @@ module.exports = [
         to: "100' E OF MAGOUN",
         width: "40",
         streetLength: "731",
-        date: "1906",
+        streetDate: "1906",
         noncity: " ",
     },
     {
@@ -9477,7 +9477,7 @@ module.exports = [
         to: "WALDEN",
         width: "40",
         streetLength: "362",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -9486,7 +9486,7 @@ module.exports = [
         to: "MT AUBURN",
         width: "40",
         streetLength: "786",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -9503,7 +9503,7 @@ module.exports = [
         to: "MAGAZINE",
         width: "40",
         streetLength: "450",
-        date: "1875",
+        streetDate: "1875",
         noncity: " ",
     },
     {
@@ -9512,7 +9512,7 @@ module.exports = [
         to: "RIVER",
         width: "40",
         streetLength: "395",
-        date: "1857",
+        streetDate: "1857",
         noncity: " ",
     },
     {
@@ -9521,7 +9521,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "40",
         streetLength: "978",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {
@@ -9530,7 +9530,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "30",
         streetLength: "530",
-        date: "1874",
+        streetDate: "1874",
         noncity: " ",
     },
     {
@@ -9546,7 +9546,7 @@ module.exports = [
         fromStreet: "SMITH PL",
         to: "MOULTON",
         width: "40",
-        date: "1996",
+        streetDate: "1996",
         noncity: " ",
     },
     {
@@ -9555,7 +9555,7 @@ module.exports = [
         to: "STATE",
         width: "40",
         streetLength: "350",
-        date: "1889",
+        streetDate: "1889",
         noncity: " ",
     },
     {
@@ -9564,7 +9564,7 @@ module.exports = [
         to: "MAIN",
         width: "40",
         streetLength: "188",
-        date: "1887",
+        streetDate: "1887",
         noncity: " ",
     },
     {
@@ -9573,7 +9573,7 @@ module.exports = [
         to: "SCHOOL",
         width: "40",
         streetLength: "200",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -9582,7 +9582,7 @@ module.exports = [
         to: "WEBSTER AVE",
         width: "50",
         streetLength: "2745",
-        date: "1809",
+        streetDate: "1809",
         noncity: " ",
     },
     {
@@ -9591,7 +9591,7 @@ module.exports = [
         to: "CAMBRIDGE",
         width: "50",
         streetLength: "430",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -9600,7 +9600,7 @@ module.exports = [
         to: "SOMERVILLE LINE",
         width: "38",
         streetLength: "490",
-        date: "1891",
+        streetDate: "1891",
         noncity: " ",
     },
     {
@@ -9609,7 +9609,7 @@ module.exports = [
         to: "SOUTHERLY",
         width: "30",
         streetLength: "290",
-        date: "1886",
+        streetDate: "1886",
         noncity: " ",
     },
     {
@@ -9618,7 +9618,7 @@ module.exports = [
         to: "NE TO 90' OF UPLAND",
         width: "30",
         streetLength: "508",
-        date: "1905",
+        streetDate: "1905",
         noncity: " ",
     },
     {
@@ -9635,7 +9635,7 @@ module.exports = [
         to: "SCIARAPPA",
         width: "50",
         streetLength: "582",
-        date: "1848",
+        streetDate: "1848",
         noncity: " ",
     },
     {
@@ -9644,7 +9644,7 @@ module.exports = [
         to: "FIFTH",
         width: "50",
         streetLength: "398",
-        date: "1859",
+        streetDate: "1859",
         noncity: " ",
     },
     {
@@ -9669,7 +9669,7 @@ module.exports = [
         to: "SHERIDAN",
         width: "40",
         streetLength: "375",
-        date: "1930",
+        streetDate: "1930",
         noncity: " ",
     },
     {
@@ -9678,7 +9678,7 @@ module.exports = [
         to: "LOCKE",
         width: "40",
         streetLength: "375",
-        date: "1892",
+        streetDate: "1892",
         noncity: " ",
     },
     {
@@ -9687,7 +9687,7 @@ module.exports = [
         to: "NORFOLK",
         width: "32",
         streetLength: "480",
-        date: "1873",
+        streetDate: "1873",
         noncity: " ",
     },
     {
@@ -9696,7 +9696,7 @@ module.exports = [
         to: "LEXINGTON AVE",
         width: "50",
         streetLength: "305",
-        date: "1894",
+        streetDate: "1894",
         noncity: " ",
     },
     {
@@ -9705,7 +9705,7 @@ module.exports = [
         to: "MARTIN",
         width: "30",
         streetLength: "283",
-        date: "1901",
+        streetDate: "1901",
         noncity: " ",
     },
     {
@@ -9714,7 +9714,7 @@ module.exports = [
         to: "WESTERLY",
         width: "40",
         streetLength: "165",
-        date: "1899",
+        streetDate: "1899",
         noncity: " ",
     },
     {
@@ -9731,7 +9731,7 @@ module.exports = [
         to: "PEMBERTON",
         width: "40",
         streetLength: "828",
-        date: "1986",
+        streetDate: "1986",
         noncity: " ",
     },
     {
@@ -9740,7 +9740,7 @@ module.exports = [
         to: "BERKSHIRE",
         width: "40",
         streetLength: "510",
-        date: "1896",
+        streetDate: "1896",
         noncity: " ",
     },
     {

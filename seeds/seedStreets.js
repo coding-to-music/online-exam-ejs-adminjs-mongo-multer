@@ -35,7 +35,7 @@ const seedStreet = async function () {
         var to = streetDetail[i].to;
         var width = streetDetail[i].width;
         var streetLength = streetDetail[i].streetLength;
-        var date = streetDetail[i].date;
+        var streetDate = streetDetail[i].streetDate;
         var noncity = streetDetail[i].noncity;
         var unnacceptedlength = streetDetail[i].unnacceptedlength;
 
@@ -137,7 +137,7 @@ const seedStreet = async function () {
             to,
             width,
             streetLength,
-            date,
+            streetDate,
             noncity,
             unnacceptedlength,
             area,

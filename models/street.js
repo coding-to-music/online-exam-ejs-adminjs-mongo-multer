@@ -30,8 +30,8 @@ const StreetSchema = new Schema({
         required: false,
     },
     // date              String?
-    date: {
-        type: String,
+    streetDate: {
+        type: Number,
         required: false,
     },
     // noncity           String?
