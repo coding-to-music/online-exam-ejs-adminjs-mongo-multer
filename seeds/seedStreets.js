@@ -28,13 +28,18 @@ const seedStreet = async function () {
     for (let i = 0; i <= streetDetail.length - 1; i++) {
         // let streets = [];
         const name = streetDetail[i].name;
-        const froms = streetDetail[i].froms;
+        const from = streetDetail[i].froms;
         const to = streetDetail[i].to;
         const width = streetDetail[i].width;
         const length = streetDetail[i].length;
         const date = streetDetail[i].date;
         const noncity = streetDetail[i].noncity;
         const unnacceptedlength = streetDetail[i].unnacceptedlength;
+
+        if (length == "825+/-") {
+            length = "825";
+        }
+
         // const area = streetDetail[i].area;
 
         // const _id = streetDetail[i]._id;
@@ -68,7 +73,7 @@ const seedStreet = async function () {
             // students,
         });
         await street.save();
-        console.log("created newStreet Save ", subjectID + " " + name);
+        console.log("created newStreet Save ", name);
     }
 };
 seedStreet();
