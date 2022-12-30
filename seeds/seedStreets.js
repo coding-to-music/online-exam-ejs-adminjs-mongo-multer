@@ -26,16 +26,16 @@ const seedStreet = async function () {
     // await Street.deleteMany();
 
     for (let i = 0; i <= streetDetail.length - 1; i++) {
-        let streets = [];
+        // let streets = [];
         const name = streetDetail[i].name;
-        const froms = treetDetail[i].froms;
-        const to = treetDetail[i].to;
-        const width = treetDetail[i].width;
-        const length = treetDetail[i].length;
-        const date = treetDetail[i].date;
-        const noncity = treetDetail[i].noncity;
-        const unnacceptedlength = treetDetail[i].unnacceptedlength;
-        // const area = treetDetail[i].area;
+        const froms = streetDetail[i].froms;
+        const to = streetDetail[i].to;
+        const width = streetDetail[i].width;
+        const length = streetDetail[i].length;
+        const date = streetDetail[i].date;
+        const noncity = streetDetail[i].noncity;
+        const unnacceptedlength = streetDetail[i].unnacceptedlength;
+        // const area = streetDetail[i].area;
 
         // const _id = streetDetail[i]._id;
         // const subjectID = streetDetail[i].subjectID;
@@ -71,3 +71,4 @@ const seedStreet = async function () {
         console.log("created newStreet Save ", subjectID + " " + name);
     }
 };
+seedStreet();
