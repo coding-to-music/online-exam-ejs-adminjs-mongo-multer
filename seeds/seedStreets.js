@@ -31,13 +31,19 @@ const seedStreet = async function () {
         const from = streetDetail[i].froms;
         const to = streetDetail[i].to;
         const width = streetDetail[i].width;
-        const length = streetDetail[i].length;
+        const streetLength = streetDetail[i].streetLength;
         const date = streetDetail[i].date;
         const noncity = streetDetail[i].noncity;
         const unnacceptedlength = streetDetail[i].unnacceptedlength;
 
-        if (length == "825+/-") {
-            length = "825";
+        if (streetLength == "825+/-") {
+            const streetLength = 825;
+            console.log("Setting streetLength", name + " " + streetLength);
+        }
+
+        if (width == "25-30") {
+            const width = "27.5";
+            console.log("Setting width", name + " " + width);
         }
 
         // const area = streetDetail[i].area;
@@ -60,7 +66,7 @@ const seedStreet = async function () {
             from,
             to,
             width,
-            length,
+            streetLength,
             date,
             noncity,
             unnacceptedlength,
@@ -73,7 +79,7 @@ const seedStreet = async function () {
             // students,
         });
         await street.save();
-        console.log("created newStreet Save ", name);
+        console.log("created newStreet Save ", i + " " + name);
     }
 };
 seedStreet();
