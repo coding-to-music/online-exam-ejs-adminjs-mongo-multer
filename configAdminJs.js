@@ -176,6 +176,7 @@ const adminJs = new AdminJS({
                     },
                     name: {
                         isVisible: {
+                            isTitle: true,
                             list: true,
                             edit: true,
                             filter: true,
