@@ -169,13 +169,82 @@ const adminJs = new AdminJS({
                     _id: {
                         isVisible: {
                             list: false,
-                            edit: true,
+                            edit: false,
                             filter: false,
                             show: false,
                         },
                     },
-                    _id: {
-                        isTitle: true,
+                    name: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    fromStreet: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    to: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    width: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    streetLength: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    area: {
+                        isVisible: {
+                            list: true,
+                            edit: false,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    streetDate: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    noncity: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
+                    },
+                    unnacceptedlength: {
+                        isVisible: {
+                            list: true,
+                            edit: true,
+                            filter: true,
+                            show: true,
+                        },
                     },
                 },
             },

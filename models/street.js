@@ -3,48 +3,38 @@ const Schema = mongoose.Schema;
 // const bcrypt = require("bcrypt");
 
 const StreetSchema = new Schema({
-    // id                Int       @id @default(autoincrement())
-    // name              String?
     name: {
         type: String,
         required: true,
     },
-    // from              String?
     fromStreet: {
         type: String,
         required: false,
     },
-    // to                String?
     to: {
         type: String,
         required: false,
     },
-    // width             String?
     width: {
         type: Number,
         required: false,
     },
-    // length            String?
     streetLength: {
         type: Number,
         required: false,
     },
-    // date              String?
     streetDate: {
         type: Number,
         required: false,
     },
-    // noncity           String?
     noncity: {
         type: String,
         required: false,
     },
-    // unnacceptedlength String?
     unnacceptedlength: {
         type: String,
         required: false,
     },
-    // area              Int?      @default(0)
     area: {
         type: Number,
         required: false,
