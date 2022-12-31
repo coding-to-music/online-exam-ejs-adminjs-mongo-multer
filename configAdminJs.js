@@ -7,6 +7,7 @@ const Exam = require("./models/exam");
 const Course = require("./models/course");
 const Record = require("./models/record");
 const Announcement = require("./models/announcement");
+const Street = require("./models/street");
 
 const { ValidationError } = require("adminjs");
 
@@ -162,18 +163,36 @@ const adminJs = new AdminJS({
             resource: Record,
         },
         {
+            resource: Street,
+            options: {
+                properties: {
+                    _id: {
+                        isVisible: {
+                            list: false,
+                            edit: true,
+                            filter: false,
+                            show: false,
+                        },
+                    },
+                    _id: {
+                        isTitle: true,
+                    },
+                },
+            },
+        },
+        {
             resource: Announcement,
             options: {
                 properties: {
                     _id: {
-                        isTitle: true
+                        isTitle: true,
                     },
                     content: {
                         type: "text",
-                    }
-                }
-            }
-        }
+                    },
+                },
+            },
+        },
     ],
     databases: [], // We don’t have any resources connected yet.
     // Path to the AdminJS dashboard.
